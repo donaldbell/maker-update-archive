@@ -1,0 +1,4493 @@
+{
+  "1": {
+    "episode_number": 1,
+    "num_method": "date_proximity(1d)",
+    "video_id": "kCKUoYB8OqQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/maker-update-01/",
+    "blog_title": "Maker Update #01",
+    "blog_date": "2016-09-08"
+  },
+  "2": {
+    "episode_number": 2,
+    "num_method": "date_proximity(0d)",
+    "video_id": null,
+    "vid_method": null,
+    "blog_url": "https://www.makerprojectlab.com/maker-update-02/",
+    "blog_title": "Maker Update #02",
+    "blog_date": "2016-09-14"
+  },
+  "3": {
+    "episode_number": 3,
+    "num_method": "date_proximity(0d)",
+    "video_id": null,
+    "vid_method": null,
+    "blog_url": "https://www.makerprojectlab.com/maker-update-03-robots-skulls-and-middle-fingers/",
+    "blog_title": "Maker Update #03: Robots, Skulls and Middle Fingers",
+    "blog_date": "2016-09-21"
+  },
+  "4": {
+    "episode_number": 4,
+    "num_method": "date_proximity(0d)",
+    "video_id": null,
+    "vid_method": null,
+    "blog_url": "https://www.makerprojectlab.com/maker-update-04-the-years-most-controversial-diy/",
+    "blog_title": "Maker Update #04: The Year&#8217;s Most Controversial DIY",
+    "blog_date": "2016-09-28"
+  },
+  "5": {
+    "episode_number": 5,
+    "num_method": "date_proximity(0d)",
+    "video_id": "FwFsP2b3EOg",
+    "vid_method": "content_fallback",
+    "blog_url": "https://www.makerprojectlab.com/maker-update-05-love-conquers-arduino/",
+    "blog_title": "Maker Update #05: Love Conquers Arduino",
+    "blog_date": "2016-10-05"
+  },
+  "6": {
+    "episode_number": 6,
+    "num_method": "date_proximity(0d)",
+    "video_id": null,
+    "vid_method": null,
+    "blog_url": "https://www.makerprojectlab.com/maker-update-06-garbage-ghosts-key-bangers/",
+    "blog_title": "Maker Update #06: Garbage Ghosts &#038; Key Bangers",
+    "blog_date": "2016-10-12"
+  },
+  "7": {
+    "episode_number": 7,
+    "num_method": "date_proximity(0d)",
+    "video_id": null,
+    "vid_method": null,
+    "blog_url": "https://www.makerprojectlab.com/maker-update-07-put-on-your-drinking-dress/",
+    "blog_title": "Maker Update #07: Put On Your Drinking Dress",
+    "blog_date": "2016-10-19"
+  },
+  "8": {
+    "episode_number": 8,
+    "num_method": "title_bracket",
+    "video_id": "Osd2cy2dj8k",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-500-cnc-router-thats-too-good-to-ignore-maker-update-08/",
+    "blog_title": "The $500 CNC Router That&#8217;s Too Good To Ignore [Maker Update #08]",
+    "blog_date": "2016-10-26"
+  },
+  "9": {
+    "episode_number": 9,
+    "num_method": "title_bracket",
+    "video_id": "tA2ya0PAspE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/warping-infinity-and-disposable-drones-maker-update-09/",
+    "blog_title": "Warping Infinity Mirrors and Disposable Drones [Maker Update 09]",
+    "blog_date": "2016-11-02"
+  },
+  "10": {
+    "episode_number": 10,
+    "num_method": "title_bracket",
+    "video_id": "-gvPEM0E5qQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/lets-hack-alexa-into-a-fish-maker-update-10/",
+    "blog_title": "Let\u2019s Hack Alexa into a Fish [Maker Update #10]",
+    "blog_date": "2016-11-09"
+  },
+  "11": {
+    "episode_number": 11,
+    "num_method": "title_bracket",
+    "video_id": "JBW0Pmza6CE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-diy-nintendo-you-really-want-maker-update-11/",
+    "blog_title": "The DIY Nintendo You Really Want [Maker Update #11]",
+    "blog_date": "2016-11-16"
+  },
+  "12": {
+    "episode_number": 12,
+    "num_method": "title_bracket",
+    "video_id": "Vv2j7bVtzQo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/time-to-print-the-ornaments-maker-update-12/",
+    "blog_title": "Time to Print the Ornaments [Maker Update #12]",
+    "blog_date": "2016-11-30"
+  },
+  "13": {
+    "episode_number": 13,
+    "num_method": "title_bracket",
+    "video_id": "tztCpD4utXU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/let-me-give-you-a-raspberry-pi-maker-update-13/",
+    "blog_title": "Let Me Give You a Raspberry Pi [Maker Update #13]",
+    "blog_date": "2016-12-07"
+  },
+  "14": {
+    "episode_number": 14,
+    "num_method": "title_bracket",
+    "video_id": "DI_FniYuxg4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/5-ways-to-slice-a-raspberry-pi-maker-update-14/",
+    "blog_title": "5 Ways to Slice a Raspberry Pi [Maker Update #14]",
+    "blog_date": "2016-12-14"
+  },
+  "15": {
+    "episode_number": 15,
+    "num_method": "title_bracket",
+    "video_id": "UYTCtwwOYaQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/cocktail-robotics-and-laser-cats-maker-update-15/",
+    "blog_title": "Cocktail Robotics and Laser Cats [Maker Update #15]",
+    "blog_date": "2016-12-21"
+  },
+  "16": {
+    "episode_number": 16,
+    "num_method": "title_bracket",
+    "video_id": "294aZxn7-GM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/diy-overwatch-blasters-star-wars-interfaces-maker-update-16/",
+    "blog_title": "DIY Overwatch Blaster &#038; Star Wars Interfaces [Maker Update #16]",
+    "blog_date": "2017-01-11"
+  },
+  "17": {
+    "episode_number": 17,
+    "num_method": "title_bracket",
+    "video_id": "Kc3YCDER_aw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/diy-camera-explains-your-picture-maker-update-17/",
+    "blog_title": "DIY Camera Explains Your Picture [Maker Update #17]",
+    "blog_date": "2017-01-18"
+  },
+  "18": {
+    "episode_number": 18,
+    "num_method": "title_bracket",
+    "video_id": "5rDFir-7tkQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/asus-tinker-board-challenges-raspberry-pi-maker-update-18/",
+    "blog_title": "Asus Tinker Board Challenges Raspberry Pi [Maker Update #18]",
+    "blog_date": "2017-01-25"
+  },
+  "19": {
+    "episode_number": 19,
+    "num_method": "title_bracket",
+    "video_id": "5rDFir-7tkQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/gif-books-soda-lockers-maker-update-19/",
+    "blog_title": "GIF Books &#038; Soda Lockers [Maker Update #19]",
+    "blog_date": "2017-02-01"
+  },
+  "20": {
+    "episode_number": 20,
+    "num_method": "title_bracket",
+    "video_id": "t_ix-hGvaNQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/spy-cameras-internet-valentines-maker-update-20/",
+    "blog_title": "DIY Spy Camera and IoT Valentines [Maker Update #20]",
+    "blog_date": "2017-02-08"
+  },
+  "21": {
+    "episode_number": 21,
+    "num_method": "title_bracket",
+    "video_id": "CAE-PJzmd_k",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/hacking-2-voice-recorder-maker-update-21/",
+    "blog_title": "Hacking a $2 Voice Recorder [Maker Update #21]",
+    "blog_date": "2017-02-15"
+  },
+  "22": {
+    "episode_number": 22,
+    "num_method": "title_bracket",
+    "video_id": "0bYUHvjHijA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/cnc-garden-pods-wi-fi-weather-panels-maker-update-22/",
+    "blog_title": "CNC Garden Pods &#038; Wi-Fi Weather Panels [Maker Update #22]",
+    "blog_date": "2017-02-22"
+  },
+  "23": {
+    "episode_number": 23,
+    "num_method": "title_bracket",
+    "video_id": "OQTIbB5-o0Y",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/10-computer-updated-wifi-bluetooth-maker-update-23/",
+    "blog_title": "$10 Pi Zero W Computer Gets WiFi &#038; Bluetooth [Maker Update #23]",
+    "blog_date": "2017-03-01"
+  },
+  "24": {
+    "episode_number": 24,
+    "num_method": "title_bracket",
+    "video_id": "mURrW53F46M",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/tiki-volcanoes-double-pendulums-maker-update-24/",
+    "blog_title": "Tiki Volcanoes &#038; Double Pendulums [Maker Update #24]",
+    "blog_date": "2017-03-08"
+  },
+  "25": {
+    "episode_number": 25,
+    "num_method": "title_bracket",
+    "video_id": "tjWhTjykpIo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/pi-panda-cams-and-laser-lightsabers-maker-update-25/",
+    "blog_title": "Pi Panda Cams and Laser Lightsabers [Maker Update #25]",
+    "blog_date": "2017-03-15"
+  },
+  "26": {
+    "episode_number": 26,
+    "num_method": "title_bracket",
+    "video_id": "A6AkDUQnTxU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/skateboard-guitars-ninja-timers-maker-update-26/",
+    "blog_title": "Skateboard Guitars &#038; Ninja Timers [Maker Update #26]",
+    "blog_date": "2017-03-22"
+  },
+  "27": {
+    "episode_number": 27,
+    "num_method": "title_bracket",
+    "video_id": "34PBCnMQgt8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/kimono-self-involved-maker-update-27/",
+    "blog_title": "A Kimono for the Self Involved [Maker Update #27]",
+    "blog_date": "2017-03-29"
+  },
+  "28": {
+    "episode_number": 28,
+    "num_method": "title_bracket",
+    "video_id": "khG4Zk5XZrw",
+    "vid_method": "content_fallback",
+    "blog_url": "https://www.makerprojectlab.com/arduino-time-hard-way-maker-update-28/",
+    "blog_title": "Arduino Time, the Hard Way [Maker Update #28]",
+    "blog_date": "2017-04-05"
+  },
+  "29": {
+    "episode_number": 29,
+    "num_method": "title_bracket",
+    "video_id": "Eg5nHl0vOZQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/diy-diploma-maker-update-29/",
+    "blog_title": "DIY Diploma [Maker Update #29]",
+    "blog_date": "2017-04-12"
+  },
+  "30": {
+    "episode_number": 30,
+    "num_method": "title_bracket",
+    "video_id": "hDejLQxcVo0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/sun-powered-cnc-maker-update-30/",
+    "blog_title": "Sun Powered CNC [Maker Update #30]",
+    "blog_date": "2017-04-19"
+  },
+  "31": {
+    "episode_number": 31,
+    "num_method": "title_bracket",
+    "video_id": "M161aJBYlmY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/beach-art-robot-maker-update-31/",
+    "blog_title": "Beach Art Robot [Maker Update #31]",
+    "blog_date": "2017-04-26"
+  },
+  "32": {
+    "episode_number": 32,
+    "num_method": "title_bracket",
+    "video_id": "lh7STi1x_VQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/heartbeat-lights-maker-update-32/",
+    "blog_title": "Heartbeat Lights [Maker Update #32]",
+    "blog_date": "2017-05-03"
+  },
+  "33": {
+    "episode_number": 33,
+    "num_method": "title_bracket",
+    "video_id": "cU0wms1T0Uw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/cnc-sky-iris-maker-update-33/",
+    "blog_title": "CNC Sky Iris [Maker Update #33]",
+    "blog_date": "2017-05-10"
+  },
+  "34": {
+    "episode_number": 34,
+    "num_method": "title_bracket",
+    "video_id": "Uq64f63KnIs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/fire-skateboard-maker-update-34/",
+    "blog_title": "Fire Skateboard [Maker Update #34]",
+    "blog_date": "2017-05-17"
+  },
+  "35": {
+    "episode_number": 35,
+    "num_method": "title_bracket",
+    "video_id": null,
+    "vid_method": null,
+    "blog_url": "https://www.makerprojectlab.com/perfect-summer-robot-maker-update-35/",
+    "blog_title": "The Perfect Summer Robot [Maker Update #35]",
+    "blog_date": "2017-05-24"
+  },
+  "36": {
+    "episode_number": 36,
+    "num_method": "title_bracket",
+    "video_id": "eJX_iOJbAX0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/quantified-hamster/",
+    "blog_title": "The Quantified Hamster [Maker Update #36]",
+    "blog_date": "2017-05-31"
+  },
+  "37": {
+    "episode_number": 37,
+    "num_method": "title_bracket",
+    "video_id": "n0y1_eKFUlw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/zoetrope-fidget-spinner-maker-update-37/",
+    "blog_title": "Zoetrope Fidget Spinner [Maker Update #37]",
+    "blog_date": "2017-06-07"
+  },
+  "38": {
+    "episode_number": 38,
+    "num_method": "title_bracket",
+    "video_id": "T3D70i1Z3N0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/top-5-summer-projects-maker-update-38/",
+    "blog_title": "My Top 5 Summer Projects [Maker Update #38]",
+    "blog_date": "2017-06-14"
+  },
+  "39": {
+    "episode_number": 39,
+    "num_method": "title_bracket",
+    "video_id": "YQIdBOZ5G0c",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/slow-motion/",
+    "blog_title": "Slow Motion Reality [Maker Update #39]",
+    "blog_date": "2017-06-21"
+  },
+  "40": {
+    "episode_number": 40,
+    "num_method": "title_bracket",
+    "video_id": "jz5V__Rvzyc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/revenge-fish-maker-update-40/",
+    "blog_title": "Revenge of the Fish [Maker Update #40]",
+    "blog_date": "2017-06-28"
+  },
+  "41": {
+    "episode_number": 41,
+    "num_method": "title_bracket",
+    "video_id": "aXU6oSJ8vLQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/pixie-power-maker-update-41/",
+    "blog_title": "Pixie Power [Maker Update #41]",
+    "blog_date": "2017-07-05"
+  },
+  "42": {
+    "episode_number": 42,
+    "num_method": "title_bracket",
+    "video_id": "jb3eijXzBTw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/power-tool-tachometer-maker-update-42/",
+    "blog_title": "Power Tool Tachometer [Maker Update #42]",
+    "blog_date": "2017-07-12"
+  },
+  "43": {
+    "episode_number": 43,
+    "num_method": "title_bracket",
+    "video_id": "ZFF_1TKxXPE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/leds-face-maker-update-43/",
+    "blog_title": "LEDs For Your Face [Maker Update #43]",
+    "blog_date": "2017-07-19"
+  },
+  "44": {
+    "episode_number": 44,
+    "num_method": "title_bracket",
+    "video_id": "tbQYnxVY6EM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/bike-powered-xbox-maker-update-44/",
+    "blog_title": "Bike-Powered Xbox [Maker Update #44]",
+    "blog_date": "2017-07-26"
+  },
+  "45": {
+    "episode_number": 45,
+    "num_method": "title_bracket",
+    "video_id": "FF2cD_YcQJ4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/arduino-fire-punch-maker-update-45/",
+    "blog_title": "Arduino Fire Punch [Maker Update #45]",
+    "blog_date": "2017-08-02"
+  },
+  "46": {
+    "episode_number": 46,
+    "num_method": "title_bracket",
+    "video_id": "B7NvuJ1Xh2M",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/bobbleheads-burrs-maker-update-46/",
+    "blog_title": "Bobbleheads &#038; Burrs [Maker Update #46]",
+    "blog_date": "2017-08-10"
+  },
+  "47": {
+    "episode_number": 47,
+    "num_method": "title_bracket",
+    "video_id": "PupcQM6ixuM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/sony-goes-arduino-maker-update-47/",
+    "blog_title": "Sony Goes Arduino [Maker Update #47]",
+    "blog_date": "2017-08-16"
+  },
+  "48": {
+    "episode_number": 48,
+    "num_method": "title_bracket",
+    "video_id": "VXIHaYESKLs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/fake-gold-overwatch-animatronics-maker-update-48/",
+    "blog_title": "Fake Gold &#038; Overwatch Animatronics [Maker Update #48]",
+    "blog_date": "2017-08-23"
+  },
+  "49": {
+    "episode_number": 49,
+    "num_method": "title_bracket",
+    "video_id": "ne4viJPQY3o",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/cnc-spiral-stairs-maker-update-49/",
+    "blog_title": "CNC Spiral Stairs [Maker Update #49]",
+    "blog_date": "2017-08-30"
+  },
+  "50": {
+    "episode_number": 50,
+    "num_method": "title_bracket",
+    "video_id": "wMuZE_S0c1Y",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-talking-tiki-maker-update-50/",
+    "blog_title": "The Talking Tiki [Maker Update #50]",
+    "blog_date": "2017-09-06"
+  },
+  "51": {
+    "episode_number": 51,
+    "num_method": "title_bracket",
+    "video_id": "91gmSYw_atQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/raspberry-pi-rubiks-robot-maker-update-51/",
+    "blog_title": "Raspberry Pi Rubik&#8217;s Robot [Maker Update #51]",
+    "blog_date": "2017-09-13"
+  },
+  "52": {
+    "episode_number": 52,
+    "num_method": "title_bracket",
+    "video_id": "xHqkcpvpQG8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/goliath-router-robot-maker-update-52/",
+    "blog_title": "Goliath Router Robot [Maker Update #52]",
+    "blog_date": "2017-09-20"
+  },
+  "53": {
+    "episode_number": 53,
+    "num_method": "title_bracket",
+    "video_id": "qQUS8UzZrKk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/laser-cut-water-map-maker-update-53/",
+    "blog_title": "Laser Cut Water Map [Maker Update #53]",
+    "blog_date": "2017-09-27"
+  },
+  "54": {
+    "episode_number": 54,
+    "num_method": "title_bracket",
+    "video_id": "3uT9ZToX6Cs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/sky-sketching-maker-update-54/",
+    "blog_title": "Sky Sketching [Maker Update #54]",
+    "blog_date": "2017-10-04"
+  },
+  "55": {
+    "episode_number": 55,
+    "num_method": "title_bracket",
+    "video_id": "w3_0ms6roH0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dumbo-shotbot-maker-update-55%ef%bb%bf/",
+    "blog_title": "Dumbo ShotBot [Maker Update #55]\ufeff",
+    "blog_date": "2017-10-11"
+  },
+  "56": {
+    "episode_number": 56,
+    "num_method": "title_bracket",
+    "video_id": "yJ_vitZswwo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/deckards-binoculars-maker-update-56/",
+    "blog_title": "Deckard&#8217;s Binoculars [Maker Update #56]",
+    "blog_date": "2017-10-18"
+  },
+  "57": {
+    "episode_number": 57,
+    "num_method": "title_bracket",
+    "video_id": "HCp0yxgHBKg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/sealed-lead-acid-maker-update-57/",
+    "blog_title": "Sealed Lead Acid [Maker Update #57]",
+    "blog_date": "2017-10-25"
+  },
+  "58": {
+    "episode_number": 58,
+    "num_method": "title_bracket",
+    "video_id": "N0zTETpJoww",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/wake-maker-update-58/",
+    "blog_title": "Wake Up! [Maker Update #58]",
+    "blog_date": "2017-11-01"
+  },
+  "59": {
+    "episode_number": 59,
+    "num_method": "title_bracket",
+    "video_id": "eJw975c_WGM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/hologram-chill-maker-update-59/",
+    "blog_title": "Hologram and Chill [Maker Update #59]",
+    "blog_date": "2017-11-08"
+  },
+  "60": {
+    "episode_number": 60,
+    "num_method": "title_bracket",
+    "video_id": "rcWF2PONwoM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/car-lock-pinball-maker-update-60/",
+    "blog_title": "Car Lock Pinball [Maker Update #60]",
+    "blog_date": "2017-11-15"
+  },
+  "61": {
+    "episode_number": 61,
+    "num_method": "title_bracket",
+    "video_id": "ixFuppvvRRs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/project-power-maker-update-61/",
+    "blog_title": "Project Power [Maker Update #61]",
+    "blog_date": "2017-11-22"
+  },
+  "62": {
+    "episode_number": 62,
+    "num_method": "title_bracket",
+    "video_id": "cQzQl97ntpU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/angles-maker-update-62/",
+    "blog_title": "All the Angles [Maker Update #62]",
+    "blog_date": "2017-11-29"
+  },
+  "63": {
+    "episode_number": 63,
+    "num_method": "title_bracket",
+    "video_id": "3Ez2NCj4XuY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/techshop-2-0-maker-update-63/",
+    "blog_title": "TechShop 2.0 [Maker Update #63]",
+    "blog_date": "2017-12-06"
+  },
+  "64": {
+    "episode_number": 64,
+    "num_method": "title_bracket",
+    "video_id": "0UPaeN2Klf8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/selfie-bot-maker-update-64/",
+    "blog_title": "Selfie Bot [Maker Update #64]",
+    "blog_date": "2017-12-13"
+  },
+  "65": {
+    "episode_number": 65,
+    "num_method": "title_bracket",
+    "video_id": "VMYXd4BUcCw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/favorite-projects-2017-maker-update-65/",
+    "blog_title": "Favorite Projects of 2017 [Maker Update #65]",
+    "blog_date": "2017-12-20"
+  },
+  "66": {
+    "episode_number": 66,
+    "num_method": "title_bracket",
+    "video_id": "QfOzfp-XiXY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/asus-tinker-board-s/",
+    "blog_title": "Asus Tinker Board S [Maker Update #66]",
+    "blog_date": "2018-01-10"
+  },
+  "67": {
+    "episode_number": 67,
+    "num_method": "title_bracket",
+    "video_id": "2aac-yIVIGo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/led-pixel-physics-maker-update-67/",
+    "blog_title": "LED Pixel Physics [Maker Update #67]",
+    "blog_date": "2018-01-17"
+  },
+  "68": {
+    "episode_number": 68,
+    "num_method": "title_bracket",
+    "video_id": "E2GSqR3HOL0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/nintendos-cardboard-kits-maker-update-68/",
+    "blog_title": "Nintendo&#8217;s Cardboard Kits [Maker Update #68]",
+    "blog_date": "2018-01-24"
+  },
+  "69": {
+    "episode_number": 69,
+    "num_method": "title_bracket",
+    "video_id": "5vVHJ6viD08",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/kerbal-space-program-controller-maker-update-69/",
+    "blog_title": "Kerbal Space Program Controller [Maker Update #69]",
+    "blog_date": "2018-01-31"
+  },
+  "70": {
+    "episode_number": 70,
+    "num_method": "title_bracket",
+    "video_id": "uxYNvsErmYA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/laser-cut-mini-boat-maker-update-70/",
+    "blog_title": "Laser Cut Mini Boat [Maker Update #70]",
+    "blog_date": "2018-02-07"
+  },
+  "71": {
+    "episode_number": 71,
+    "num_method": "title_bracket",
+    "video_id": "ITWzOp9rXD4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/contraptions-qr-coasters-maker-update-71/",
+    "blog_title": "Contraptions and QR Coasters [Maker Update #71]",
+    "blog_date": "2018-02-14"
+  },
+  "72": {
+    "episode_number": 72,
+    "num_method": "title_bracket",
+    "video_id": "_ACPLlFtMd8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/floating-water-maker-update-72/",
+    "blog_title": "Floating Water [Maker Update #72]",
+    "blog_date": "2018-02-21"
+  },
+  "73": {
+    "episode_number": 73,
+    "num_method": "title_bracket",
+    "video_id": "WVafSAaSPNo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/split-flap-attack-maker-update-73/",
+    "blog_title": "Split-Flap Attack [Maker Update #73]",
+    "blog_date": "2018-02-28"
+  },
+  "74": {
+    "episode_number": 74,
+    "num_method": "title_bracket",
+    "video_id": "_uy9Tkg2cis",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/barcelona-makers-update/",
+    "blog_title": "Barcelona is for Makers [Maker Update #74]",
+    "blog_date": "2018-03-14"
+  },
+  "75": {
+    "episode_number": 75,
+    "num_method": "title_bracket",
+    "video_id": "Ze3CSV1SIqA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/permanent-ink-maker-update-75/",
+    "blog_title": "Permanent Ink [Maker Update #75]",
+    "blog_date": "2018-03-21"
+  },
+  "76": {
+    "episode_number": 76,
+    "num_method": "title_bracket",
+    "video_id": "Fmd4MCOCBI8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/alternative-controller-maker-update-76/",
+    "blog_title": "Alternative Controller [Maker Update #76]",
+    "blog_date": "2018-03-28"
+  },
+  "77": {
+    "episode_number": 77,
+    "num_method": "title_bracket",
+    "video_id": null,
+    "vid_method": null,
+    "blog_url": "https://www.makerprojectlab.com/treasured-trash-maker-update-77/",
+    "blog_title": "Treasured Trash [Maker Update #77]",
+    "blog_date": "2018-04-04"
+  },
+  "78": {
+    "episode_number": 78,
+    "num_method": "shownotes_header",
+    "video_id": "BWtamRi-XS4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/goth-glue-maker-update-78/",
+    "blog_title": "Goth Glue [Maker Update #78]",
+    "blog_date": "2018-04-11"
+  },
+  "79": {
+    "episode_number": 79,
+    "num_method": "date_proximity(0d)",
+    "video_id": "UTU7aPZBx9A",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/light-up-trampoline-maker-update/",
+    "blog_title": "Light Up Trampoline [Maker Update]",
+    "blog_date": "2018-04-18"
+  },
+  "80": {
+    "episode_number": 80,
+    "num_method": "title_bracket",
+    "video_id": "nikN0gsXtWY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/neural-synthesizer-maker-update-80/",
+    "blog_title": "Neural Synthesizer [Maker Update #80]",
+    "blog_date": "2018-04-25"
+  },
+  "81": {
+    "episode_number": 81,
+    "num_method": "title_bracket",
+    "video_id": "dmNAO4Xkurg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/complaint-button-maker-update-81/",
+    "blog_title": "Complaint Button [Maker Update #81]",
+    "blog_date": "2018-05-08"
+  },
+  "82": {
+    "episode_number": 82,
+    "num_method": "title_bracket",
+    "video_id": "ZXWuLp68Ew4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-sick-unicorn-maker-update/",
+    "blog_title": "The Sick Unicorn [Maker Update #82]",
+    "blog_date": "2018-05-25"
+  },
+  "83": {
+    "episode_number": 83,
+    "num_method": "title_bracket",
+    "video_id": "UQYNdcpF0tg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/paper-airplane-machine-maker-update-83/",
+    "blog_title": "Paper Airplane Machine [Maker Update #83]",
+    "blog_date": "2018-06-08"
+  },
+  "84": {
+    "episode_number": 84,
+    "num_method": "title_bracket",
+    "video_id": "DQkdwX8iNXY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/l3-liberates-alexa-maker-update-84/",
+    "blog_title": "L3 Liberates Alexa [Maker Update #84]",
+    "blog_date": "2018-06-20"
+  },
+  "85": {
+    "episode_number": 85,
+    "num_method": "title_bracket",
+    "video_id": "TCIxNEMaEPA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/alexa-grows-a-finger-maker-update-85/",
+    "blog_title": "Alexa Grows a Finger [Maker Update #85]",
+    "blog_date": "2018-06-27"
+  },
+  "86": {
+    "episode_number": 86,
+    "num_method": "title_bracket",
+    "video_id": "HHp7ZDfv1Rk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/patriotic-strandbeest-maker-update-86/",
+    "blog_title": "Patriotic Strandbeest [Maker Update #86]",
+    "blog_date": "2018-07-04"
+  },
+  "87": {
+    "episode_number": 87,
+    "num_method": "title_bracket",
+    "video_id": "K1AyF-2oVPk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/stroboscopic-zoetrope-maker-update-87/",
+    "blog_title": "Stroboscopic Zoetrope [Maker Update #87]",
+    "blog_date": "2018-07-18"
+  },
+  "88": {
+    "episode_number": 88,
+    "num_method": "title_bracket",
+    "video_id": "ALbRy0y2fak",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/a-tv-for-lazy-people-maker-update-88/",
+    "blog_title": "A TV For Lazy People [Maker Update #88]",
+    "blog_date": "2018-08-01"
+  },
+  "89": {
+    "episode_number": 89,
+    "num_method": "title_bracket",
+    "video_id": "1MUKcg4LcKM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/spider-clock-maker-update-89/",
+    "blog_title": "Spider Clock [Maker Update #89]",
+    "blog_date": "2018-08-08"
+  },
+  "90": {
+    "episode_number": 90,
+    "num_method": "title_bracket",
+    "video_id": "vqZYVR0RdcM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/split-flap-forecast-maker-update-90/",
+    "blog_title": "Split-Flap Forecast [Maker Update #90]",
+    "blog_date": "2018-08-15"
+  },
+  "91": {
+    "episode_number": 91,
+    "num_method": "title_bracket",
+    "video_id": "ODu4x-oXUco",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/thumbstick-steering-wheel-maker-update-91/",
+    "blog_title": "Thumbstick Steering Wheel [Maker Update #91]",
+    "blog_date": "2018-08-22"
+  },
+  "92": {
+    "episode_number": 92,
+    "num_method": "title_bracket",
+    "video_id": "PZQlOUlL1MA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/maker-mailbox-maker-update-92/",
+    "blog_title": "Maker Mailbox [Maker Update #92]",
+    "blog_date": "2018-08-29"
+  },
+  "93": {
+    "episode_number": 93,
+    "num_method": "title_bracket",
+    "video_id": "5Cdk8DT6pck",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/wearable-ouija-maker-update-93/",
+    "blog_title": "Wearable Ouija [Maker Update #93]",
+    "blog_date": "2018-09-12"
+  },
+  "94": {
+    "episode_number": 94,
+    "num_method": "title_bracket",
+    "video_id": "lggNXSETbeY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/kitty-cruiser-maker-update-94/",
+    "blog_title": "Kitty Cruiser [Maker Update #94]",
+    "blog_date": "2018-09-19"
+  },
+  "95": {
+    "episode_number": 95,
+    "num_method": "title_bracket",
+    "video_id": "8qcsEytDyR0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/hocus-pocus-maker-update-95/",
+    "blog_title": "Hocus Pocus [Maker Update #95]",
+    "blog_date": "2018-10-03"
+  },
+  "96": {
+    "episode_number": 96,
+    "num_method": "title_bracket",
+    "video_id": "ptqvxUrnVU8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/coffee-mug-cnc-maker-update-96/",
+    "blog_title": "Coffee Mug CNC [Maker Update #96]",
+    "blog_date": "2018-10-12"
+  },
+  "97": {
+    "episode_number": 97,
+    "num_method": "title_bracket",
+    "video_id": "AC_pu68oQcY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/skeeball-on-wheels-maker-update-97/",
+    "blog_title": "Skeeball on Wheels [Maker Update #97]",
+    "blog_date": "2018-10-17"
+  },
+  "98": {
+    "episode_number": 98,
+    "num_method": "title_bracket",
+    "video_id": "O8cwPGrUGYg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/shred-your-own-banksy-maker-update-98/",
+    "blog_title": "Shred Your Own Banksy [Maker Update #98]",
+    "blog_date": "2018-10-24"
+  },
+  "99": {
+    "episode_number": 99,
+    "num_method": "title_bracket",
+    "video_id": "r0NOvH9xaKc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/boards-bots-ghosts-maker-update-99/",
+    "blog_title": "Boards, Bots &#038; Ghosts [Maker Update #99]",
+    "blog_date": "2018-10-31"
+  },
+  "100": {
+    "episode_number": 100,
+    "num_method": "title_bracket",
+    "video_id": "HTposlYDjYU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dodecahedron-dance-party-maker-update-100/",
+    "blog_title": "Dodecahedron Dance Party [Maker Update #100]",
+    "blog_date": "2018-11-07"
+  },
+  "101": {
+    "episode_number": 101,
+    "num_method": "title_bracket",
+    "video_id": "flQCgBSp8I8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/open-source-mech-ep-101/",
+    "blog_title": "Open Source Mech [Maker Update #101]",
+    "blog_date": "2018-11-14"
+  },
+  "102": {
+    "episode_number": 102,
+    "num_method": "title_bracket",
+    "video_id": "aGodg_XySAY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/led-guitar-maker-update-102/",
+    "blog_title": "LED Guitar [Maker Update #102]",
+    "blog_date": "2018-11-28"
+  },
+  "103": {
+    "episode_number": 103,
+    "num_method": "title_bracket",
+    "video_id": "ZK5SQ9AaGGs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/arduino-snow-maker-update-103/",
+    "blog_title": "Arduino Snow [Maker Update #103]",
+    "blog_date": "2018-12-06"
+  },
+  "104": {
+    "episode_number": 104,
+    "num_method": "title_bracket",
+    "video_id": "SpsaBJHK7Og",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/cardboard-plywood-maker-update-104/",
+    "blog_title": "Cardboard Plywood [Maker Update #104]",
+    "blog_date": "2018-12-13"
+  },
+  "105": {
+    "episode_number": 105,
+    "num_method": "date_proximity(0d)",
+    "video_id": "I-i01UsPWjo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/diy-flip-digits-makerupdate-105/",
+    "blog_title": "DIY Flip Digits [MakerUpdate #105]",
+    "blog_date": "2018-12-19"
+  },
+  "106": {
+    "episode_number": 106,
+    "num_method": "title_bracket",
+    "video_id": "WhaatbgXHa4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/when-in-dome-maker-update-106/",
+    "blog_title": "When in Dome [Maker Update #106]",
+    "blog_date": "2019-01-03"
+  },
+  "107": {
+    "episode_number": 107,
+    "num_method": "title_bracket",
+    "video_id": "wzhxJfEZh-w",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/e-paper-movie-player-maker-update-107/",
+    "blog_title": "E-Paper Movie Player [Maker Update #107]",
+    "blog_date": "2019-01-10"
+  },
+  "108": {
+    "episode_number": 108,
+    "num_method": "title_bracket",
+    "video_id": "dUHPof55C0o",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/speech-bubbles-maker-update-108/",
+    "blog_title": "Speech Bubbles [Maker Update #108]",
+    "blog_date": "2019-01-17"
+  },
+  "109": {
+    "episode_number": 109,
+    "num_method": "title_bracket",
+    "video_id": "QB4XqwFY-o4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/privacy-parasite-maker-update-109/",
+    "blog_title": "Privacy Parasite [Maker Update #109]",
+    "blog_date": "2019-01-24"
+  },
+  "110": {
+    "episode_number": 110,
+    "num_method": "title_bracket",
+    "video_id": "zrfcYo9b47c",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/monochrome-in-a-can-maker-update-110/",
+    "blog_title": "Monochrome in a Can [Maker Update #110]",
+    "blog_date": "2019-01-31"
+  },
+  "111": {
+    "episode_number": 111,
+    "num_method": "title_bracket",
+    "video_id": "80jJ-Ls_SIE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/clocking-in-maker-update-111/",
+    "blog_title": "Clocking In [Maker Update #111]",
+    "blog_date": "2019-02-07"
+  },
+  "112": {
+    "episode_number": 112,
+    "num_method": "title_bracket",
+    "video_id": "ZGEf_HjO_D0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/exploding-vader-maker-update-112/",
+    "blog_title": "Exploding Vader [Maker Update #112]",
+    "blog_date": "2019-02-14"
+  },
+  "113": {
+    "episode_number": 113,
+    "num_method": "title_bracket",
+    "video_id": "fIevd8bY0hY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/sound-off-maker-update-113/",
+    "blog_title": "Sound Off [Maker Update #113]",
+    "blog_date": "2019-02-21"
+  },
+  "114": {
+    "episode_number": 114,
+    "num_method": "title_bracket",
+    "video_id": "TfJR-RP4zfs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dot-matrix-maker-update-114/",
+    "blog_title": "Dot Matrix [Maker Update #114]",
+    "blog_date": "2019-02-28"
+  },
+  "115": {
+    "episode_number": 115,
+    "num_method": "title_bracket",
+    "video_id": "JNMOj0zGc5Y",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/flippin-switches-maker-update-115/",
+    "blog_title": "Flippin&#8217; Switches [Maker Update #115]",
+    "blog_date": "2019-03-07"
+  },
+  "116": {
+    "episode_number": 116,
+    "num_method": "title_bracket",
+    "video_id": "zr0yndPwk1E",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/butt-ritual-maker-update-116/",
+    "blog_title": "Couch Controller [Maker Update #116]",
+    "blog_date": "2019-03-22"
+  },
+  "117": {
+    "episode_number": 117,
+    "num_method": "title_bracket",
+    "video_id": "X01T6r24f_M",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/i-want-my-lissajous-tv-maker-update-117/",
+    "blog_title": "I Want My Lissajous TV [Maker Update #117]",
+    "blog_date": "2019-03-29"
+  },
+  "118": {
+    "episode_number": 118,
+    "num_method": "title_bracket",
+    "video_id": "IiLlVIPMFms",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/make-it-snooze-maker-update-118/",
+    "blog_title": "Make It Snooze [Maker Update #118]",
+    "blog_date": "2019-04-04"
+  },
+  "119": {
+    "episode_number": 119,
+    "num_method": "title_bracket",
+    "video_id": "8wFEL6OtOkg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/golden-holdies-maker-update-119/",
+    "blog_title": "Golden Holdies [Maker Update #119]",
+    "blog_date": "2019-04-11"
+  },
+  "120": {
+    "episode_number": 120,
+    "num_method": "title_bracket",
+    "video_id": "6x_Xcz8R8EI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/fast-cars-soft-bots-maker-update-120/",
+    "blog_title": "Fast Cars, Soft Bots [Maker Update #120]",
+    "blog_date": "2019-04-19"
+  },
+  "121": {
+    "episode_number": 121,
+    "num_method": "title_bracket",
+    "video_id": "zVFhO3VlFbk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/ornithopter-anatomy-maker-update-121/",
+    "blog_title": "Ornithopter Anatomy [Maker Update #121]",
+    "blog_date": "2019-04-25"
+  },
+  "122": {
+    "episode_number": 122,
+    "num_method": "title_bracket",
+    "video_id": "C7QI0PLkib8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/creature-feature-maker-update-122/",
+    "blog_title": "Creature Feature [Maker Update #122]",
+    "blog_date": "2019-05-02"
+  },
+  "123": {
+    "episode_number": 123,
+    "num_method": "title_bracket",
+    "video_id": "mM7EzBkC-Zo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/ready-player-thumb-maker-update-123/",
+    "blog_title": "Ready Player Thumb [Maker Update #123]",
+    "blog_date": "2019-05-09"
+  },
+  "124": {
+    "episode_number": 124,
+    "num_method": "title_bracket",
+    "video_id": "i9uTzLbRlMM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/whiteboard-bandit-maker-update-124/",
+    "blog_title": "Whiteboard Bandit [Maker Update #124]",
+    "blog_date": "2019-05-16"
+  },
+  "125": {
+    "episode_number": 125,
+    "num_method": "title_bracket",
+    "video_id": "Bb0IFmORs-o",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-el-has-landed-maker-update-125/",
+    "blog_title": "The EL Has Landed [Maker Update #125]",
+    "blog_date": "2019-05-23"
+  },
+  "126": {
+    "episode_number": 126,
+    "num_method": "title_bracket",
+    "video_id": "xZWVxH97B-I",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/black-magic-maker-update-126/",
+    "blog_title": "Black Magic [Maker Update #126]",
+    "blog_date": "2019-05-30"
+  },
+  "127": {
+    "episode_number": 127,
+    "num_method": "title_bracket",
+    "video_id": "Mg25mofeIRU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/bring-the-heat-maker-update-127-adafruit-edition/",
+    "blog_title": "Bring the Heat [Maker Update #127 Adafruit Edition]",
+    "blog_date": "2019-06-06"
+  },
+  "128": {
+    "episode_number": 128,
+    "num_method": "title_bracket",
+    "video_id": "Z1FAlenQMJw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/end-of-an-era-maker-update-128/",
+    "blog_title": "End of an Era [Maker Update #128]",
+    "blog_date": "2019-06-13"
+  },
+  "129": {
+    "episode_number": 129,
+    "num_method": "title_bracket",
+    "video_id": "Te03lRpQ7LE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/for-the-record-maker-update-129/",
+    "blog_title": "For the Record [Maker Update #129]",
+    "blog_date": "2019-06-20"
+  },
+  "130": {
+    "episode_number": 130,
+    "num_method": "title_bracket",
+    "video_id": "Upn0-oVAF6Y",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/infinite-keanu-maker-update-130-adafruit-edition/",
+    "blog_title": "Infinite Keanu [Maker Update #130 *Adafruit Edition*]",
+    "blog_date": "2019-07-05"
+  },
+  "131": {
+    "episode_number": 131,
+    "num_method": "title_bracket",
+    "video_id": "XDYP2cVj5aE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/something-in-the-air-maker-update-131/",
+    "blog_title": "Something in the Air [Maker Update #131]",
+    "blog_date": "2019-07-11"
+  },
+  "132": {
+    "episode_number": 132,
+    "num_method": "title_bracket",
+    "video_id": "G2Khe_QSA30",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/instant-replay-maker-update-132/",
+    "blog_title": "Instant Replay [Maker Update #132]",
+    "blog_date": "2019-07-18"
+  },
+  "133": {
+    "episode_number": 133,
+    "num_method": "title_bracket",
+    "video_id": "atOAfMr4Rpg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/shaken-not-stirred-maker-update-133/",
+    "blog_title": "Shaken, Not Stirred [Maker Update #133]",
+    "blog_date": "2019-07-25"
+  },
+  "134": {
+    "episode_number": 134,
+    "num_method": "title_bracket",
+    "video_id": "xc_inKTITgk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/flip-out-maker-update-134-adafruit-edition/",
+    "blog_title": "Flip-Out [Maker Update #134 &#8211; Adafruit Edition]",
+    "blog_date": "2019-08-01"
+  },
+  "135": {
+    "episode_number": 135,
+    "num_method": "title_bracket",
+    "video_id": "XIkkkZgbKGM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/fly-by-maker-update-135/",
+    "blog_title": "Fly-By [Maker Update #135]",
+    "blog_date": "2019-08-08"
+  },
+  "136": {
+    "episode_number": 136,
+    "num_method": "title_bracket",
+    "video_id": "XnZHSJC6dGg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/fading-triangles-maker-update-136/",
+    "blog_title": "Fading Triangles [Maker Update #136]",
+    "blog_date": "2019-08-15"
+  },
+  "137": {
+    "episode_number": 137,
+    "num_method": "title_bracket",
+    "video_id": "Dc161BrbGuE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/hocus-pocus-maker-update-137/",
+    "blog_title": "Hocus-Pocus [Maker Update #137]",
+    "blog_date": "2019-08-22"
+  },
+  "138": {
+    "episode_number": 138,
+    "num_method": "title_bracket",
+    "video_id": "FWt6Vi4Htxc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/lasers-to-11-maker-update-138/",
+    "blog_title": "Lasers to 11 [Maker Update #138]",
+    "blog_date": "2019-08-29"
+  },
+  "139": {
+    "episode_number": 139,
+    "num_method": "title_bracket",
+    "video_id": "e0nlHFemk2I",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/visors-down-maker-update-139/",
+    "blog_title": "Visors Down [Maker Update #139]",
+    "blog_date": "2019-09-05"
+  },
+  "140": {
+    "episode_number": 140,
+    "num_method": "title_bracket",
+    "video_id": "GKDE8E0Q0BA",
+    "vid_method": "content_fallback",
+    "blog_url": "https://www.makerprojectlab.com/making-an-impact-maker-update-140/",
+    "blog_title": "Making an Impact [Maker Update #140]",
+    "blog_date": "2019-09-12"
+  },
+  "141": {
+    "episode_number": 141,
+    "num_method": "title_bracket",
+    "video_id": "gL586jr_yiE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/internet-of-tiny-cars-maker-update-141/",
+    "blog_title": "Internet of Tiny Cars [Maker Update #141]",
+    "blog_date": "2019-09-19"
+  },
+  "142": {
+    "episode_number": 142,
+    "num_method": "title_bracket",
+    "video_id": "OGifVgc2aS4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/framed-maker-update-142/",
+    "blog_title": "Framed [Maker Update #142]",
+    "blog_date": "2019-09-26"
+  },
+  "143": {
+    "episode_number": 143,
+    "num_method": "title_bracket",
+    "video_id": "DW09bSGNuHE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/glass-eye-for-the-spooky-guy-maker-update-143-adafruit-edition/",
+    "blog_title": "Glass Eye for the Spooky Guy [Maker Update #143] *Adafruit Edition*",
+    "blog_date": "2019-10-03"
+  },
+  "144": {
+    "episode_number": 144,
+    "num_method": "shownotes_header",
+    "video_id": "vLa9UqhfPvc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/little-dipper-maker-update-144/",
+    "blog_title": "Little Dipper [Maker Update #144]",
+    "blog_date": "2019-10-10"
+  },
+  "145": {
+    "episode_number": 145,
+    "num_method": "title_bracket",
+    "video_id": "w8CAmYqW9yM",
+    "vid_method": "content_fallback",
+    "blog_url": "https://www.makerprojectlab.com/spider-roll-maker-update-145/",
+    "blog_title": "Spider Roll [Maker Update #145]",
+    "blog_date": "2019-10-17"
+  },
+  "146": {
+    "episode_number": 146,
+    "num_method": "title_bracket",
+    "video_id": "jT6fZGkA1EI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/in-sync-maker-update-146/",
+    "blog_title": "In Sync [Maker Update #146]",
+    "blog_date": "2019-10-24"
+  },
+  "147": {
+    "episode_number": 147,
+    "num_method": "title_bracket",
+    "video_id": "RqZRKUbA_p0",
+    "vid_method": "content_fallback",
+    "blog_url": "https://www.makerprojectlab.com/youve-got-my-eyes-maker-update-147/",
+    "blog_title": "You&#8217;ve Got My Eyes [Maker Update #147]",
+    "blog_date": "2019-10-31"
+  },
+  "148": {
+    "episode_number": 148,
+    "num_method": "title_bracket",
+    "video_id": "QMAuJIiMuT0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/pumpkin-spice-reflow-maker-update-148/",
+    "blog_title": "Pumpkin Spice Reflow [Maker Update #148]",
+    "blog_date": "2019-11-06"
+  },
+  "149": {
+    "episode_number": 149,
+    "num_method": "title_bracket",
+    "video_id": "YEz-r8KDY-0",
+    "vid_method": "content_fallback",
+    "blog_url": "https://www.makerprojectlab.com/out-of-thin-air-maker-update-149/",
+    "blog_title": "Out Of Thin Air [Maker Update #149]",
+    "blog_date": "2019-11-14"
+  },
+  "150": {
+    "episode_number": 150,
+    "num_method": "title_bracket",
+    "video_id": "QLuF5eE3qDE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/doomsday-pi-maker-update-150/",
+    "blog_title": "Doomsday Pi [Maker Update #150]",
+    "blog_date": "2019-11-21"
+  },
+  "151": {
+    "episode_number": 151,
+    "num_method": "title_bracket",
+    "video_id": "CZvZBG6_WRY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/chestnuts-roasting-on-a-dumpster-fire-maker-update-151-adafruit-edition/",
+    "blog_title": "Chestnuts Roasting on a Dumpster Fire [Maker Update #151] *Adafruit Edition*",
+    "blog_date": "2019-12-05"
+  },
+  "152": {
+    "episode_number": 152,
+    "num_method": "title_bracket",
+    "video_id": "I-Q-8ZifIh0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/signs-of-attraction-maker-update-152/",
+    "blog_title": "Signs of Attraction [Maker Update #152]",
+    "blog_date": "2019-12-12"
+  },
+  "153": {
+    "episode_number": 153,
+    "num_method": "title_bracket",
+    "video_id": "GDAZEBGzxa8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/5-favorite-maker-projects-of-2019-maker-update-153/",
+    "blog_title": "5 Favorite Maker Projects of 2019 [Maker Update #153]",
+    "blog_date": "2019-12-19"
+  },
+  "154": {
+    "episode_number": 154,
+    "num_method": "title_bracket",
+    "video_id": "29NC1po7BQk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/cyberslider-maker-update-154-adafruit-edition/",
+    "blog_title": "CyberSlider [Maker Update #154] *Adafruit Edition*",
+    "blog_date": "2020-01-02"
+  },
+  "155": {
+    "episode_number": 155,
+    "num_method": "title_bracket",
+    "video_id": "VonIYQ5-PZk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/recharge-your-underwear-maker-update-155-ces-edition/",
+    "blog_title": "Recharge Your Underwear [Maker Update #155] *CES Edition*",
+    "blog_date": "2020-01-13"
+  },
+  "156": {
+    "episode_number": 156,
+    "num_method": "shownotes_header",
+    "video_id": "DMVwoCbu9-s",
+    "vid_method": "content_fallback",
+    "blog_url": "https://www.makerprojectlab.com/pixel-patience-maker-update-156/",
+    "blog_title": "Pixel Patience [Maker Update #156]",
+    "blog_date": "2020-01-16"
+  },
+  "157": {
+    "episode_number": 157,
+    "num_method": "shownotes_header",
+    "video_id": "48W3reIZT24",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/side-iron-maker-update-157/",
+    "blog_title": "Side Iron [Maker Update #157]",
+    "blog_date": "2020-01-23"
+  },
+  "158": {
+    "episode_number": 158,
+    "num_method": "shownotes_header",
+    "video_id": "rmV7erLdlB8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/engage-hyperdrive-maker-update-158/",
+    "blog_title": "Engage Hyperdrive [Maker Update #158]",
+    "blog_date": "2020-01-30"
+  },
+  "159": {
+    "episode_number": 159,
+    "num_method": "shownotes_header",
+    "video_id": "cqdcXvi5GDQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/infinity-machine-maker-update-159-adafruit-edition/",
+    "blog_title": "Infinity Machine [Maker Update #159] *Adafruit Edition*",
+    "blog_date": "2020-02-04"
+  },
+  "160": {
+    "episode_number": 160,
+    "num_method": "shownotes_header",
+    "video_id": "mEIA9Xyityg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/rolling-the-dice-maker-update-160/",
+    "blog_title": "Rolling the Dice [Maker Update #160]",
+    "blog_date": "2020-02-06"
+  },
+  "161": {
+    "episode_number": 161,
+    "num_method": "title_bracket",
+    "video_id": "KnnIA7pmZhM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/be-still-my-heart-maker-update-161/",
+    "blog_title": "Be Still My Heart [Maker Update #161]",
+    "blog_date": "2020-02-13"
+  },
+  "162": {
+    "episode_number": 162,
+    "num_method": "shownotes_header",
+    "video_id": "s-SmFTajHXU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/paint-by-numbers-maker-update-162/",
+    "blog_title": "Paint by Numbers [Maker Update #162]",
+    "blog_date": "2020-02-27"
+  },
+  "163": {
+    "episode_number": 163,
+    "num_method": "title_bracket",
+    "video_id": "6OH4aytKNvI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/ble-gently-weeps/",
+    "blog_title": "While my BLE Gently Weeps [Maker Update #163] *Adafruit Edition*",
+    "blog_date": "2020-03-02"
+  },
+  "164": {
+    "episode_number": 164,
+    "num_method": "shownotes_header",
+    "video_id": "EtsXA8kzjas",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/running-through-my-mind-maker-update-164/",
+    "blog_title": "Running Through My Mind [Maker Update #164]",
+    "blog_date": "2020-03-05"
+  },
+  "165": {
+    "episode_number": 165,
+    "num_method": "title_bracket",
+    "video_id": "OBT1UGk4tPQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/bounce-with-me-maker-update-165/",
+    "blog_title": "Bounce With Me [Maker Update #165]",
+    "blog_date": "2020-03-12"
+  },
+  "166": {
+    "episode_number": 166,
+    "num_method": "title_bracket",
+    "video_id": "UpRqNlbIx5M",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/shelf-life-maker-update-166/",
+    "blog_title": "Shelf Life [Maker Update #166]",
+    "blog_date": "2020-03-19"
+  },
+  "167": {
+    "episode_number": 167,
+    "num_method": "title_bracket",
+    "video_id": "dEKILUQ7saU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/neck-adjustment-maker-update-167/",
+    "blog_title": "Neck Adjustment [Maker Update #167]",
+    "blog_date": "2020-03-26"
+  },
+  "168": {
+    "episode_number": 168,
+    "num_method": "title_bracket",
+    "video_id": "ImXLFxyhcRE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/scrub-a-dub-maker-update-168/",
+    "blog_title": "Scrub-a-Dub [Maker Update #168]",
+    "blog_date": "2020-04-02"
+  },
+  "169": {
+    "episode_number": 169,
+    "num_method": "title_bracket",
+    "video_id": "7oeCHBWXGxk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/midi-face-melter-maker-update-169/",
+    "blog_title": "MIDI Face Melter [Maker Update #169 Adafruit Edition]",
+    "blog_date": "2020-04-06"
+  },
+  "170": {
+    "episode_number": 170,
+    "num_method": "title_bracket",
+    "video_id": "8Qp0RJg_1yc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/in-situ-maker-update-170/",
+    "blog_title": "In Situ [Maker Update #170]",
+    "blog_date": "2020-04-09"
+  },
+  "171": {
+    "episode_number": 171,
+    "num_method": "title_bracket",
+    "video_id": "DeddWWgjG30",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/onward-and-upward-maker-update-171/",
+    "blog_title": "Onward and Upward [Maker Update #171]",
+    "blog_date": "2020-04-16"
+  },
+  "172": {
+    "episode_number": 172,
+    "num_method": "shownotes_header",
+    "video_id": "g9PuLVRAV0g",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/coin-op-pop-maker-update-172/",
+    "blog_title": "Coin-Op Pop [Maker Update #172]",
+    "blog_date": "2020-04-23"
+  },
+  "173": {
+    "episode_number": 173,
+    "num_method": "title_bracket",
+    "video_id": "Sywbqn4qe3M",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/supermarket-sweep-maker-update-173/",
+    "blog_title": "Supermarket Sweep [Maker Update #173]",
+    "blog_date": "2020-04-30"
+  },
+  "174": {
+    "episode_number": 174,
+    "num_method": "title_bracket",
+    "video_id": "ynL6NJ074F0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/handwavey-details-maker-update-174-adafruit-edition/",
+    "blog_title": "Handwavey Details [Maker Update #174 *Adafruit Edition*]",
+    "blog_date": "2020-05-05"
+  },
+  "175": {
+    "episode_number": 175,
+    "num_method": "shownotes_header",
+    "video_id": "qsFWNe33qBM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/monster-chompers-maker-update-175/",
+    "blog_title": "Monster Chompers [Maker Update #175]",
+    "blog_date": "2020-05-07"
+  },
+  "176": {
+    "episode_number": 176,
+    "num_method": "shownotes_header",
+    "video_id": "T-otyq6n7gI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/thank-you-for-being-a-friend-maker-update-176/",
+    "blog_title": "Thank You for Being a Friend [Maker Update #176]",
+    "blog_date": "2020-05-14"
+  },
+  "177": {
+    "episode_number": 177,
+    "num_method": "shownotes_header",
+    "video_id": "nmHfLi90NuQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/chocolate-volume-maker-update-177/",
+    "blog_title": "Chocolate Volume [Maker Update #177]",
+    "blog_date": "2020-05-21"
+  },
+  "178": {
+    "episode_number": 178,
+    "num_method": "shownotes_header",
+    "video_id": "eFJxbrZwxWw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/pi-way-to-the-danger-zone-maker-update-178/",
+    "blog_title": "Pi-way to the Danger Zone [Maker Update #178]",
+    "blog_date": "2020-05-28"
+  },
+  "179": {
+    "episode_number": 179,
+    "num_method": "shownotes_header",
+    "video_id": "fMSLFVk7d50",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/symphony-of-solenoids-maker-update-179-adafruit-edition/",
+    "blog_title": "Symphony of Solenoids [Maker Update #179 Adafruit Edition]",
+    "blog_date": "2020-06-02"
+  },
+  "180": {
+    "episode_number": 180,
+    "num_method": "shownotes_header",
+    "video_id": "A1rmh44CvJg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dress-defender-maker-update-180/",
+    "blog_title": "Dress Defender [Maker Update #180]",
+    "blog_date": "2020-06-04"
+  },
+  "181": {
+    "episode_number": 181,
+    "num_method": "shownotes_header",
+    "video_id": "k1q7YYx1SC4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/grin-and-wear-it-maker-update-181/",
+    "blog_title": "Grin and Wear It [Maker Update #181]",
+    "blog_date": "2020-06-11"
+  },
+  "182": {
+    "episode_number": 182,
+    "num_method": "shownotes_header",
+    "video_id": "ukcpuFfghdk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/bending-the-rules-maker-update-182/",
+    "blog_title": "Bending the Rules [Maker Update #182]",
+    "blog_date": "2020-06-18"
+  },
+  "183": {
+    "episode_number": 183,
+    "num_method": "shownotes_header",
+    "video_id": "V1zzTUGfbSw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/bike-messenger-maker-update-183/",
+    "blog_title": "Bike Messenger [Maker Update #183]",
+    "blog_date": "2020-06-25"
+  },
+  "184": {
+    "episode_number": 184,
+    "num_method": "shownotes_header",
+    "video_id": "xAj3_eYhM34",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/beachcomber-maker-update-184/",
+    "blog_title": "Beachcomber [Maker Update #184]",
+    "blog_date": "2020-07-02"
+  },
+  "185": {
+    "episode_number": 185,
+    "num_method": "shownotes_header",
+    "video_id": "ktj7Z1UW_HI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/are-friends-electric-maker-update-185-adafruit-edition/",
+    "blog_title": "Are Friends Electric? [Maker Update #185 Adafruit Edition]",
+    "blog_date": "2020-07-07"
+  },
+  "186": {
+    "episode_number": 186,
+    "num_method": "shownotes_header",
+    "video_id": "ogrI7kvDk2w",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/housebreaking-your-robot-maker-update-186/",
+    "blog_title": "Housebreaking Your Robot [Maker Update #186]",
+    "blog_date": "2020-07-09"
+  },
+  "187": {
+    "episode_number": 187,
+    "num_method": "shownotes_header",
+    "video_id": "k8m0CiOn42I",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/maker-update-187/",
+    "blog_title": "Stem to Stern [Maker Update #187]",
+    "blog_date": "2020-07-17"
+  },
+  "188": {
+    "episode_number": 188,
+    "num_method": "shownotes_header",
+    "video_id": "wIAC44UqgEg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/servo-salon-maker-update-188/",
+    "blog_title": "Servo Salon [Maker Update #188]",
+    "blog_date": "2020-07-23"
+  },
+  "189": {
+    "episode_number": 189,
+    "num_method": "shownotes_header",
+    "video_id": "na5wh3XJJXg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/fog-cutter-maker-update-189/",
+    "blog_title": "Fog Cutter [Maker Update #189]",
+    "blog_date": "2020-07-30"
+  },
+  "190": {
+    "episode_number": 190,
+    "num_method": "title_bracket",
+    "video_id": "AT6E3XgeZcY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/keyed-in-maker-update-190-adafruit-edition/",
+    "blog_title": "Keyed In [Maker Update #190] *Adafruit Edition*",
+    "blog_date": "2020-08-04"
+  },
+  "191": {
+    "episode_number": 191,
+    "num_method": "title_bracket",
+    "video_id": "YvN7oPAYxrM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/touchy-subject-maker-update-191/",
+    "blog_title": "Touchy Subject [Maker Update #191]",
+    "blog_date": "2020-08-06"
+  },
+  "192": {
+    "episode_number": 192,
+    "num_method": "title_bracket",
+    "video_id": "gzSXwv50tAc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/witchcraft-maker-update-192/",
+    "blog_title": "Witchcraft [Maker Update #192]",
+    "blog_date": "2020-08-13"
+  },
+  "193": {
+    "episode_number": 193,
+    "num_method": "shownotes_header",
+    "video_id": "Rfn0obYECkQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/mad-mask-maker-update-193/",
+    "blog_title": "Mad Mask [Maker Update #193]",
+    "blog_date": "2020-08-20"
+  },
+  "194": {
+    "episode_number": 194,
+    "num_method": "shownotes_header",
+    "video_id": "muphgh0BiKM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/you-cant-do-it-maker-update-194/",
+    "blog_title": "You Can&#8217;t Do It [Maker Update #194]",
+    "blog_date": "2020-08-27"
+  },
+  "195": {
+    "episode_number": 195,
+    "num_method": "title_bracket",
+    "video_id": "JwMOcx1fIf4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/drum-break-maker-update-195-adafruit-edition/",
+    "blog_title": "Drum Break! [Maker Update #195 *Adafruit Edition*]",
+    "blog_date": "2020-09-01"
+  },
+  "196": {
+    "episode_number": 196,
+    "num_method": "shownotes_header",
+    "video_id": "x7Uchcp2UiM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/smart-garbage-maker-update-196/",
+    "blog_title": "Smart Garbage [Maker Update #196]",
+    "blog_date": "2020-09-03"
+  },
+  "197": {
+    "episode_number": 197,
+    "num_method": "shownotes_header",
+    "video_id": "Ff7-rIdCktw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/servo-seamstress-maker-update-197/",
+    "blog_title": "Servo Seamstress [Maker Update 197]",
+    "blog_date": "2020-09-10"
+  },
+  "198": {
+    "episode_number": 198,
+    "num_method": "shownotes_header",
+    "video_id": "tOf3mGb34Ek",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/circadian-sound-maker-update-198/",
+    "blog_title": "Circadian Sound [Maker Update #198]",
+    "blog_date": "2020-09-17"
+  },
+  "199": {
+    "episode_number": 199,
+    "num_method": "shownotes_header",
+    "video_id": "ongNzH9qbcw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/pan-tilt-zoom-maker-update-199/",
+    "blog_title": "Pan, Tilt, Zoom [Maker Update #199]",
+    "blog_date": "2020-09-24"
+  },
+  "200": {
+    "episode_number": 200,
+    "num_method": "shownotes_header",
+    "video_id": "5oakaYeGsj8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/binary-revolution-maker-update-200/",
+    "blog_title": "Binary Revolution [Maker Update #200]",
+    "blog_date": "2020-10-01"
+  },
+  "201": {
+    "episode_number": 201,
+    "num_method": "shownotes_header",
+    "video_id": "yQRj66Gqp4s",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/midi-monster-mash-maker-update-adafruit-edition/",
+    "blog_title": "MIDI Monster Mash [Maker Update] *Adafruit Edition*",
+    "blog_date": "2020-10-06"
+  },
+  "202": {
+    "episode_number": 202,
+    "num_method": "shownotes_header",
+    "video_id": "46DrbPvRk-k",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/slice-of-light-maker-update/",
+    "blog_title": "Slice of Light [Maker Update]",
+    "blog_date": "2020-10-08"
+  },
+  "203": {
+    "episode_number": 203,
+    "num_method": "shownotes_header",
+    "video_id": "6DN--DJ2cM0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dropping-the-ball-maker-update/",
+    "blog_title": "Dropping the Ball [Maker Update]",
+    "blog_date": "2020-10-15"
+  },
+  "204": {
+    "episode_number": 204,
+    "num_method": "shownotes_header",
+    "video_id": "20tSip3ob-A",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dont-forget-the-greeblies-maker-update/",
+    "blog_title": "Don&#8217;t Forget the Greeblies [Maker Update]",
+    "blog_date": "2020-10-22"
+  },
+  "205": {
+    "episode_number": 205,
+    "num_method": "shownotes_header",
+    "video_id": "yYigyEFckcA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/hands-free-pumpkin-maker-update/",
+    "blog_title": "Hands-Free Pumpkin [Maker Update]",
+    "blog_date": "2020-10-29"
+  },
+  "206": {
+    "episode_number": 206,
+    "num_method": "shownotes_header",
+    "video_id": "2yRqJRdFEH8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/ballot-dropper-maker-update-adafruit-edition/",
+    "blog_title": "Ballot Dropper [Maker Update] *Adafruit Edition*",
+    "blog_date": "2020-11-02"
+  },
+  "207": {
+    "episode_number": 207,
+    "num_method": "shownotes_header",
+    "video_id": "es7cSl4Sjdc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/deep-breath-maker-update/",
+    "blog_title": "Deep Breath [Maker Update]",
+    "blog_date": "2020-11-05"
+  },
+  "208": {
+    "episode_number": 208,
+    "num_method": "shownotes_header",
+    "video_id": "-7dJHyFiEow",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/counter-rhythm-maker-update/",
+    "blog_title": "Counter Rhythm [Maker Update]",
+    "blog_date": "2020-11-12"
+  },
+  "209": {
+    "episode_number": 209,
+    "num_method": "shownotes_header",
+    "video_id": "VPaLtD4prbI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dream-house-maker-update/",
+    "blog_title": "Dream House [Maker Update]",
+    "blog_date": "2020-11-19"
+  },
+  "210": {
+    "episode_number": 210,
+    "num_method": "shownotes_header",
+    "video_id": "vn2wPB9kzH0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/toy-story-maker-update/",
+    "blog_title": "Toy Story [Maker Update]",
+    "blog_date": "2020-12-03"
+  },
+  "211": {
+    "episode_number": 211,
+    "num_method": "shownotes_header",
+    "video_id": "whnv6EGnEZA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/2020-besties-maker-update-adafruit-edition/",
+    "blog_title": "2020 Besties [Maker Update *Adafruit Edition*]",
+    "blog_date": "2020-12-08"
+  },
+  "212": {
+    "episode_number": 212,
+    "num_method": "shownotes_header",
+    "video_id": "s0Rb1uSoJ7k",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/hot-dog-maker-update/",
+    "blog_title": "Hot Dog [Maker Update]",
+    "blog_date": "2020-12-10"
+  },
+  "213": {
+    "episode_number": 213,
+    "num_method": "shownotes_header",
+    "video_id": "kvv-IW3m0fk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/best-pandemic-projects-of-2020-maker-update/",
+    "blog_title": "Best Pandemic Projects of 2020 [Maker Update]",
+    "blog_date": "2020-12-17"
+  },
+  "214": {
+    "episode_number": 214,
+    "num_method": "shownotes_header",
+    "video_id": "74rezMKrOY8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/domino-effect-maker-update/",
+    "blog_title": "Domino Effect [Maker Update]",
+    "blog_date": "2021-01-07"
+  },
+  "215": {
+    "episode_number": 215,
+    "num_method": "shownotes_header",
+    "video_id": "WY5A72b6K9I",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/rgb-raft-on-blue-water-maker-update/",
+    "blog_title": "RGB Raft on Blue Water [Maker Update]",
+    "blog_date": "2021-01-14"
+  },
+  "216": {
+    "episode_number": 216,
+    "num_method": "shownotes_header",
+    "video_id": "kuwPW5E0Txc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/life-among-the-hexels-maker-update/",
+    "blog_title": "Life Among the Hexels [Maker Update]",
+    "blog_date": "2021-01-21"
+  },
+  "217": {
+    "episode_number": 217,
+    "num_method": "shownotes_header",
+    "video_id": "FDvh6lPyklU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/surfing-with-the-bern-maker-update/",
+    "blog_title": "Surfing with the Bern [Maker Update]",
+    "blog_date": "2021-01-28"
+  },
+  "218": {
+    "episode_number": 218,
+    "num_method": "shownotes_header",
+    "video_id": "4HbTysr4dvU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/a-stitch-in-time-maker-update/",
+    "blog_title": "A Stitch in Time [Maker Update]",
+    "blog_date": "2021-02-04"
+  },
+  "219": {
+    "episode_number": 219,
+    "num_method": "shownotes_header",
+    "video_id": "wP4GvGFthQU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/elevator-action-maker-update/",
+    "blog_title": "Elevator Action [Maker Update]",
+    "blog_date": "2021-02-11"
+  },
+  "220": {
+    "episode_number": 220,
+    "num_method": "shownotes_header",
+    "video_id": "X6UfTMHl8Ms",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/you-cant-make-an-omelette-maker-update/",
+    "blog_title": "You Can&#8217;t Make an Omelette&#8230; [Maker Update]",
+    "blog_date": "2021-02-18"
+  },
+  "221": {
+    "episode_number": 221,
+    "num_method": "shownotes_header",
+    "video_id": "n-lnGmF1k0k",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/winning-with-the-wiggle-stick-maker-update/",
+    "blog_title": "Winning with the Wiggle Stick [Maker Update]",
+    "blog_date": "2021-02-25"
+  },
+  "222": {
+    "episode_number": 222,
+    "num_method": "shownotes_header",
+    "video_id": "UfrT2ZgMNpU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/say-chess-to-the-dress-maker-update/",
+    "blog_title": "Say Chess To The Dress [Maker Update]",
+    "blog_date": "2021-03-04"
+  },
+  "223": {
+    "episode_number": 223,
+    "num_method": "shownotes_header",
+    "video_id": "8q8zVzq328s",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/among-the-stars-maker-update/",
+    "blog_title": "Among the Stars [Maker Update]",
+    "blog_date": "2021-03-11"
+  },
+  "224": {
+    "episode_number": 224,
+    "num_method": "shownotes_header",
+    "video_id": "R0ost6f2aI8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/paint-by-numbers-maker-update/",
+    "blog_title": "Paint by Numbers [Maker Update]",
+    "blog_date": "2021-03-18"
+  },
+  "225": {
+    "episode_number": 225,
+    "num_method": "shownotes_header",
+    "video_id": "jUnAA68SWE4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/lofty-designs-maker-update/",
+    "blog_title": "Lofty Designs [Maker Update]",
+    "blog_date": "2021-03-25"
+  },
+  "226": {
+    "episode_number": 226,
+    "num_method": "shownotes_header",
+    "video_id": "zcuX52dUyz8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/your-move-maker-update/",
+    "blog_title": "Your Move [Maker Update]",
+    "blog_date": "2021-04-01"
+  },
+  "227": {
+    "episode_number": 227,
+    "num_method": "shownotes_header",
+    "video_id": "kc3hP2JC3Cg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/take-my-picture-maker-update/",
+    "blog_title": "Take My Picture [Maker Update]",
+    "blog_date": "2021-04-08"
+  },
+  "228": {
+    "episode_number": 228,
+    "num_method": "shownotes_header",
+    "video_id": "UT7QtMkAUmY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/a-stiff-drink-maker-update/",
+    "blog_title": "A Stiff Drink [Maker Update]",
+    "blog_date": "2021-04-15"
+  },
+  "229": {
+    "episode_number": 229,
+    "num_method": "shownotes_header",
+    "video_id": "usVfokYDB0g",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/virtual-high-five-maker-update/",
+    "blog_title": "Virtual High Five [Maker Update]",
+    "blog_date": "2021-04-22"
+  },
+  "230": {
+    "episode_number": 230,
+    "num_method": "shownotes_header",
+    "video_id": "tntvaE1CjBU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/extensive-modifications/",
+    "blog_title": "Extensive Modifications",
+    "blog_date": "2021-04-29"
+  },
+  "231": {
+    "episode_number": 231,
+    "num_method": "shownotes_header",
+    "video_id": "V6zsyaubnLw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/pizza-navigation-maker-update/",
+    "blog_title": "Pizza Navigation [Maker Update]",
+    "blog_date": "2021-05-06"
+  },
+  "232": {
+    "episode_number": 232,
+    "num_method": "shownotes_header",
+    "video_id": "-IOtufNoWc0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-impossible-cnc-maker-update/",
+    "blog_title": "The Impossible CNC [Maker Update]",
+    "blog_date": "2021-05-13"
+  },
+  "233": {
+    "episode_number": 233,
+    "num_method": "shownotes_header",
+    "video_id": "vYdpOjoxPKk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/jam-on-it-maker-update/",
+    "blog_title": "Jam On It [Maker Update]",
+    "blog_date": "2021-05-20"
+  },
+  "234": {
+    "episode_number": 234,
+    "num_method": "shownotes_header",
+    "video_id": "HduK5Qrow88",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/schooner-or-later-maker-update/",
+    "blog_title": "Schooner or Later [Maker Update]",
+    "blog_date": "2021-05-27"
+  },
+  "235": {
+    "episode_number": 235,
+    "num_method": "shownotes_header",
+    "video_id": "HPhYEJpSQLk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/roll-with-it-maker-update/",
+    "blog_title": "Roll With It [Maker Update]",
+    "blog_date": "2021-06-03"
+  },
+  "236": {
+    "episode_number": 236,
+    "num_method": "shownotes_header",
+    "video_id": "4ScfwQ3kn-0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/wheres-my-jetpack-maker-update/",
+    "blog_title": "Where&#8217;s My Jetpack? [Maker Update]",
+    "blog_date": "2021-06-10"
+  },
+  "237": {
+    "episode_number": 237,
+    "num_method": "shownotes_header",
+    "video_id": "umKfsHgOiCo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/no-stairway-maker-update/",
+    "blog_title": "No Stairway [Maker Update]",
+    "blog_date": "2021-06-17"
+  },
+  "238": {
+    "episode_number": 238,
+    "num_method": "shownotes_header",
+    "video_id": "RnA2BELtiXI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/snap-on-lasers-maker-update/",
+    "blog_title": "Snap-On Lasers [Maker Update]",
+    "blog_date": "2021-06-24"
+  },
+  "239": {
+    "episode_number": 239,
+    "num_method": "shownotes_header",
+    "video_id": "5PXNlkIql4o",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/in-the-interest-of-transparency-maker-update/",
+    "blog_title": "In the Interest of Transparency [Maker Update]",
+    "blog_date": "2021-07-01"
+  },
+  "240": {
+    "episode_number": 240,
+    "num_method": "shownotes_header",
+    "video_id": "wvgiW-MYTDo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/aspirational-computer-maker-update/",
+    "blog_title": "Aspirational Computer [Maker Update]",
+    "blog_date": "2021-07-08"
+  },
+  "241": {
+    "episode_number": 241,
+    "num_method": "shownotes_header",
+    "video_id": "cP3-3EK7WSI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/puzzle-pixels-maker-update/",
+    "blog_title": "Puzzle Pixels [Maker Update]",
+    "blog_date": "2021-07-15"
+  },
+  "242": {
+    "episode_number": 242,
+    "num_method": "shownotes_header",
+    "video_id": "HP1U2CMx9QE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/switch-on-the-power-maker-update/",
+    "blog_title": "Switch on the Power [Maker Update]",
+    "blog_date": "2021-07-22"
+  },
+  "243": {
+    "episode_number": 243,
+    "num_method": "shownotes_header",
+    "video_id": "T1yluOT_zFE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/kanpai-maker-update/",
+    "blog_title": "Kanpai! [Maker Update]",
+    "blog_date": "2021-07-29"
+  },
+  "244": {
+    "episode_number": 244,
+    "num_method": "shownotes_header",
+    "video_id": "GJHm4vw8ccE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/printing-on-the-ceiling-maker-update/",
+    "blog_title": "Printing on the Ceiling [Maker Update]",
+    "blog_date": "2021-08-05"
+  },
+  "245": {
+    "episode_number": 245,
+    "num_method": "shownotes_header",
+    "video_id": "k9z0x9-vJeo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/weird-flex-but-ok-maker-update/",
+    "blog_title": "Weird Flex But Ok [Maker Update]",
+    "blog_date": "2021-08-12"
+  },
+  "246": {
+    "episode_number": 246,
+    "num_method": "shownotes_header",
+    "video_id": "gssl--Tnz_c",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/howls-moving-crafting-hoard-maker-update/",
+    "blog_title": "Howl&#8217;s Moving Crafting Hoard [Maker Update]",
+    "blog_date": "2021-08-19"
+  },
+  "247": {
+    "episode_number": 247,
+    "num_method": "shownotes_header",
+    "video_id": "qZpHRvJ-HCU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/nickel-in-a-pickle-maker-update/",
+    "blog_title": "Nickel in a Pickle [Maker Update]",
+    "blog_date": "2021-08-26"
+  },
+  "248": {
+    "episode_number": 248,
+    "num_method": "shownotes_header",
+    "video_id": "jalN2ixLPnc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/wearable-miracle-maker-update/",
+    "blog_title": "Wearable Miracle [Maker Update]",
+    "blog_date": "2021-09-02"
+  },
+  "249": {
+    "episode_number": 249,
+    "num_method": "shownotes_header",
+    "video_id": "kzS5Q88OOOk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/what-do-you-do-with-a-drunken-skeleton/",
+    "blog_title": "What Do You Do With a Drunken Skeleton?",
+    "blog_date": "2021-09-09"
+  },
+  "250": {
+    "episode_number": 250,
+    "num_method": "shownotes_header",
+    "video_id": "wI0UaR3exCk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/mind-reading-bean-machine-maker-update/",
+    "blog_title": "Mind Reading Bean Machine [Maker Update]",
+    "blog_date": "2021-09-16"
+  },
+  "251": {
+    "episode_number": 251,
+    "num_method": "shownotes_header",
+    "video_id": "pzRUMN21pnE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/built-to-spill-maker-update/",
+    "blog_title": "Built To Spill [Maker Update]",
+    "blog_date": "2021-09-23"
+  },
+  "252": {
+    "episode_number": 252,
+    "num_method": "shownotes_header",
+    "video_id": "2QjVMyzk2GE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/hackson-pollock-maker-update/",
+    "blog_title": "Hackson Pollock [Maker Update]",
+    "blog_date": "2021-09-30"
+  },
+  "253": {
+    "episode_number": 253,
+    "num_method": "shownotes_header",
+    "video_id": "j4asf18Ziws",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/roll-top-puzzle-podium-maker-update/",
+    "blog_title": "Roll-Top Puzzle Podium [Maker Update]",
+    "blog_date": "2021-10-07"
+  },
+  "254": {
+    "episode_number": 254,
+    "num_method": "shownotes_header",
+    "video_id": "CppXuPUiPng",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/g-code-wuz-here-maker-update/",
+    "blog_title": "G-code Wuz Here [Maker Update]",
+    "blog_date": "2021-10-14"
+  },
+  "255": {
+    "episode_number": 255,
+    "num_method": "shownotes_header",
+    "video_id": "qWCYfJDUOnU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/at-your-command-maker-update/",
+    "blog_title": "At Your Command [Maker Update]",
+    "blog_date": "2021-10-21"
+  },
+  "256": {
+    "episode_number": 256,
+    "num_method": "shownotes_header",
+    "video_id": "SnbdzMWzjo0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/picture-this-maker-update/",
+    "blog_title": "Picture This [Maker Update]",
+    "blog_date": "2021-10-28"
+  },
+  "257": {
+    "episode_number": 257,
+    "num_method": "shownotes_header",
+    "video_id": "bN1F_pgfhC0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/magic-wheelchair-snakes-on-a-magic-wheelchair-plane-maker-update/",
+    "blog_title": "Magic Wheelchair Snakes on a Magic Wheelchair Plane [Maker Update]",
+    "blog_date": "2021-11-04"
+  },
+  "258": {
+    "episode_number": 258,
+    "num_method": "shownotes_header",
+    "video_id": "tk6MQvtfN6s",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/packs-a-punch-maker-update/",
+    "blog_title": "Packs a Punch [Maker Update]",
+    "blog_date": "2021-11-11"
+  },
+  "259": {
+    "episode_number": 259,
+    "num_method": "manual_typo_correction",
+    "video_id": "oo3eLtTGTCc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/g-code-good-guy-maker-update/",
+    "blog_title": "G-code Good Guy [Maker Update]",
+    "blog_date": "2021-11-18"
+  },
+  "260": {
+    "episode_number": 260,
+    "num_method": "shownotes_header",
+    "video_id": "aNF66qiR_Zk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/driving-meat-crazy-maker-update/",
+    "blog_title": "Driving Meat Crazy [Maker Update]",
+    "blog_date": "2021-11-26"
+  },
+  "261": {
+    "episode_number": 261,
+    "num_method": "shownotes_header",
+    "video_id": "0_FVEg77U60",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-seaworthy-syringes-maker-update/",
+    "blog_title": "The Seaworthy Syringes [Maker Update]",
+    "blog_date": "2021-12-09"
+  },
+  "262": {
+    "episode_number": 262,
+    "num_method": "shownotes_header",
+    "video_id": "tLgBn8ikyTo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/under-pressure-maker-update/",
+    "blog_title": "Under Pressure [Maker Update]",
+    "blog_date": "2021-12-16"
+  },
+  "263": {
+    "episode_number": 263,
+    "num_method": "shownotes_header",
+    "video_id": "ZLpjrUxZx40",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/2021-wrap-up-maker-update/",
+    "blog_title": "2021 Wrap-Up [Maker Update]",
+    "blog_date": "2021-12-30"
+  },
+  "264": {
+    "episode_number": 264,
+    "num_method": "shownotes_header",
+    "video_id": "g_Md4S3055c",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dont-stress-the-dress-maker-update/",
+    "blog_title": "Don&#8217;t Stress the Dress [Maker Update]",
+    "blog_date": "2022-01-06"
+  },
+  "265": {
+    "episode_number": 265,
+    "num_method": "shownotes_header",
+    "video_id": "xOR4EOecKMs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/invisible-touch-maker-update/",
+    "blog_title": "Invisible Touch [Maker Update]",
+    "blog_date": "2022-01-13"
+  },
+  "266": {
+    "episode_number": 266,
+    "num_method": "shownotes_header",
+    "video_id": "kJut5gMnSDk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/easy-breezy-maker-update/",
+    "blog_title": "Easy Breezy [Maker Update]",
+    "blog_date": "2022-01-20"
+  },
+  "267": {
+    "episode_number": 267,
+    "num_method": "shownotes_header",
+    "video_id": "hYtTA_sUNZE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/within-constraints-maker-update/",
+    "blog_title": "Within Constraints [Maker Update]",
+    "blog_date": "2022-01-27"
+  },
+  "268": {
+    "episode_number": 268,
+    "num_method": "shownotes_header",
+    "video_id": "M0Zj1qGT4HM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/space-junk-maker-update/",
+    "blog_title": "Space Junk [Maker Update]",
+    "blog_date": "2022-02-03"
+  },
+  "269": {
+    "episode_number": 269,
+    "num_method": "shownotes_header",
+    "video_id": "HIXFlATx9Ys",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/half-past-a-full-house-maker-update/",
+    "blog_title": "Half Past a Full House [Maker Update]",
+    "blog_date": "2022-02-10"
+  },
+  "270": {
+    "episode_number": 270,
+    "num_method": "shownotes_header",
+    "video_id": "iyfpNirQ3Cs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/turn-turn-turn-maker-update/",
+    "blog_title": "Turn, Turn, Turn [Maker Update]",
+    "blog_date": "2022-02-17"
+  },
+  "271": {
+    "episode_number": 271,
+    "num_method": "manual_typo_correction",
+    "video_id": "Yg0pJC2kM6g",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/all-that-glitters-maker-update/",
+    "blog_title": "All That Glitters [Maker Update]",
+    "blog_date": "2022-02-25"
+  },
+  "272": {
+    "episode_number": 272,
+    "num_method": "shownotes_header",
+    "video_id": "5Vxv2BDc-Ew",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/funk-in-the-trunk-maker-update/",
+    "blog_title": "Funk in the Trunk [Maker Update]",
+    "blog_date": "2022-03-03"
+  },
+  "273": {
+    "episode_number": 273,
+    "num_method": "shownotes_header",
+    "video_id": "NfHk4LNmQZo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dont-overthink-it-maker-update/",
+    "blog_title": "Don&#8217;t Overthink It [Maker Update]",
+    "blog_date": "2022-03-10"
+  },
+  "274": {
+    "episode_number": 274,
+    "num_method": "shownotes_header",
+    "video_id": "eF5NNZ6-rgA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/where-the-magic-happens-maker-update/",
+    "blog_title": "Where the Magic Happens [Maker Update]",
+    "blog_date": "2022-03-17"
+  },
+  "275": {
+    "episode_number": 275,
+    "num_method": "shownotes_header",
+    "video_id": "9g764hOJ-7U",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/something-in-the-air-maker-update/",
+    "blog_title": "Something In the Air [Maker Update]",
+    "blog_date": "2022-03-24"
+  },
+  "276": {
+    "episode_number": 276,
+    "num_method": "shownotes_header",
+    "video_id": "Jrbyo_GtFXQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/in-a-word-maker-update/",
+    "blog_title": "In a Word [Maker Update]",
+    "blog_date": "2022-03-31"
+  },
+  "277": {
+    "episode_number": 277,
+    "num_method": "shownotes_header",
+    "video_id": "TCxtVQMJiJ4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/sorting-by-suction-maker-update/",
+    "blog_title": "Sorting by Suction [Maker Update]",
+    "blog_date": "2022-04-07"
+  },
+  "278": {
+    "episode_number": 278,
+    "num_method": "date_proximity(0d)",
+    "video_id": "jBDRgOewF8I",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/express-yourself-maker-update/",
+    "blog_title": "Express Yourself [Maker Update]",
+    "blog_date": "2022-04-14"
+  },
+  "279": {
+    "episode_number": 279,
+    "num_method": "shownotes_header",
+    "video_id": "avt8Jx_0mqM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/moonshot-maker-update/",
+    "blog_title": "Moonshot [Maker Update]",
+    "blog_date": "2022-04-21"
+  },
+  "280": {
+    "episode_number": 280,
+    "num_method": "shownotes_header",
+    "video_id": "CJK0_ihqNNw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/lens-flare-maker-update/",
+    "blog_title": "Lens Flare [Maker Update]",
+    "blog_date": "2022-04-28"
+  },
+  "281": {
+    "episode_number": 281,
+    "num_method": "shownotes_header",
+    "video_id": "pk3y9WrMGik",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/in-bloom-maker-update/",
+    "blog_title": "In Bloom [Maker Update]",
+    "blog_date": "2022-05-05"
+  },
+  "282": {
+    "episode_number": 282,
+    "num_method": "shownotes_header",
+    "video_id": "DBOBtnujgc8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/frame-by-frame-maker-update/",
+    "blog_title": "Frame by Frame [Maker Update]",
+    "blog_date": "2022-05-12"
+  },
+  "283": {
+    "episode_number": 283,
+    "num_method": "shownotes_header",
+    "video_id": "HmyPfUsfV8o",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/handpan-servo-band-maker-update/",
+    "blog_title": "Handpan Servo Band [Maker Update]",
+    "blog_date": "2022-05-19"
+  },
+  "284": {
+    "episode_number": 284,
+    "num_method": "shownotes_header",
+    "video_id": "WkpnoeVVvFA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/access-granted-maker-update/",
+    "blog_title": "Access Granted [Maker Update]",
+    "blog_date": "2022-05-26"
+  },
+  "285": {
+    "episode_number": 285,
+    "num_method": "shownotes_header",
+    "video_id": "GE8-7C8uORM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/ground-score-maker-update/",
+    "blog_title": "Ground Score [Maker Update]",
+    "blog_date": "2022-06-02"
+  },
+  "286": {
+    "episode_number": 286,
+    "num_method": "shownotes_header",
+    "video_id": "SjmzeXc42Vs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/with-a-twist-maker-update/",
+    "blog_title": "With a Twist [Maker Update]",
+    "blog_date": "2022-06-09"
+  },
+  "287": {
+    "episode_number": 287,
+    "num_method": "shownotes_header",
+    "video_id": "VXFg0AfISz0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/eternal-september-maker-update/",
+    "blog_title": "Eternal September [Maker Update]",
+    "blog_date": "2022-06-16"
+  },
+  "288": {
+    "episode_number": 288,
+    "num_method": "shownotes_header",
+    "video_id": "OaqA9uCBAGU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/tangled-up-in-hue/",
+    "blog_title": "Tangled Up In Hue",
+    "blog_date": "2022-06-23"
+  },
+  "289": {
+    "episode_number": 289,
+    "num_method": "shownotes_header",
+    "video_id": "3jpaBhROYGc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/stamp-of-approval-maker-update/",
+    "blog_title": "Stamp of Approval [Maker Update]",
+    "blog_date": "2022-06-30"
+  },
+  "290": {
+    "episode_number": 290,
+    "num_method": "shownotes_header",
+    "video_id": "83o7ehRkaZ4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/feedback-looper-maker-update/",
+    "blog_title": "Feedback Looper [Maker Update]",
+    "blog_date": "2022-07-07"
+  },
+  "291": {
+    "episode_number": 291,
+    "num_method": "shownotes_header",
+    "video_id": "z8tTwziiqxo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/ready-to-rumble-maker-update/",
+    "blog_title": "Ready to Rumble [Maker Update]",
+    "blog_date": "2022-07-14"
+  },
+  "292": {
+    "episode_number": 292,
+    "num_method": "shownotes_header",
+    "video_id": "uwDP4-p0510",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-automation-paradox-maker-update/",
+    "blog_title": "The Automation Paradox [Maker Update]",
+    "blog_date": "2022-07-21"
+  },
+  "293": {
+    "episode_number": 293,
+    "num_method": "shownotes_header",
+    "video_id": "A5-B6kr3E5Q",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/robot-regularity-maker-update/",
+    "blog_title": "Robot Regularity [Maker Update]",
+    "blog_date": "2022-07-28"
+  },
+  "294": {
+    "episode_number": 294,
+    "num_method": "shownotes_header",
+    "video_id": "ggEMSwgpYck",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/get-into-the-groove-maker-update/",
+    "blog_title": "Get Into the Groove [Maker Update]",
+    "blog_date": "2022-08-04"
+  },
+  "295": {
+    "episode_number": 295,
+    "num_method": "shownotes_header",
+    "video_id": "lfet0ni8r-k",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/just-read-the-instructions-maker-update/",
+    "blog_title": "Just Read the Instructions [Maker Update]",
+    "blog_date": "2022-08-11"
+  },
+  "296": {
+    "episode_number": 296,
+    "num_method": "shownotes_header",
+    "video_id": "XOghGdR6GvI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/wrap-music-maker-update/",
+    "blog_title": "Wrap Music [Maker Update]",
+    "blog_date": "2022-08-18"
+  },
+  "297": {
+    "episode_number": 297,
+    "num_method": "shownotes_header",
+    "video_id": "Jfb_ceDn0CA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/circus-cyborg-maker-update/",
+    "blog_title": "Circus Cyborg [Maker Update]",
+    "blog_date": "2022-08-25"
+  },
+  "298": {
+    "episode_number": 298,
+    "num_method": "shownotes_header",
+    "video_id": "UYxLq8mdk2A",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/makers-at-silicon-2022-maker-update/",
+    "blog_title": "Makers at SiliCon 2022 [Maker Update]",
+    "blog_date": "2022-09-01"
+  },
+  "299": {
+    "episode_number": 299,
+    "num_method": "shownotes_header",
+    "video_id": "C21A-GhYUhs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/laser-landscaping-maker-update/",
+    "blog_title": "Laser Landscaping [Maker Update]",
+    "blog_date": "2022-09-08"
+  },
+  "300": {
+    "episode_number": 300,
+    "num_method": "shownotes_header",
+    "video_id": "Juie_lJMQEM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/xtra-life-maker-update/",
+    "blog_title": "Xtra Life [Maker Update]",
+    "blog_date": "2022-09-15"
+  },
+  "301": {
+    "episode_number": 301,
+    "num_method": "shownotes_header",
+    "video_id": "r_Zot2UQTy0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/shoot-to-thrill-maker-update/",
+    "blog_title": "Shoot to Thrill [Maker Update]",
+    "blog_date": "2022-09-22"
+  },
+  "302": {
+    "episode_number": 302,
+    "num_method": "shownotes_header",
+    "video_id": "6TcBU9sxMnE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/split-the-difference-maker-update/",
+    "blog_title": "Split the Difference [Maker Update]",
+    "blog_date": "2022-09-29"
+  },
+  "303": {
+    "episode_number": 303,
+    "num_method": "shownotes_header",
+    "video_id": "BRs2w0rJESc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/kinematic-conundrum-maker-update/",
+    "blog_title": "Kinematic Conundrum [Maker Update]",
+    "blog_date": "2022-10-06"
+  },
+  "304": {
+    "episode_number": 304,
+    "num_method": "shownotes_header",
+    "video_id": "c3eZl2DsOSI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/in-flux-maker-update/",
+    "blog_title": "In Flux [Maker Update]",
+    "blog_date": "2022-10-13"
+  },
+  "305": {
+    "episode_number": 305,
+    "num_method": "shownotes_header",
+    "video_id": "_XnVTAHL-Bg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/sisyphus-at-work-maker-update/",
+    "blog_title": "Sisyphus At Work [Maker Update]",
+    "blog_date": "2022-10-20"
+  },
+  "306": {
+    "episode_number": 306,
+    "num_method": "shownotes_header",
+    "video_id": "fH4F2hkaGE8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/synthesthesia-maker-update/",
+    "blog_title": "Synthesthesia [Maker Update]",
+    "blog_date": "2022-10-27"
+  },
+  "307": {
+    "episode_number": 307,
+    "num_method": "shownotes_header",
+    "video_id": "xlUFQX6-sE4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/hot-pocket-maker-update/",
+    "blog_title": "Hot Pocket [Maker Update]",
+    "blog_date": "2022-11-03"
+  },
+  "308": {
+    "episode_number": 308,
+    "num_method": "shownotes_header",
+    "video_id": "f5Y-O0vGBfs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/pleats-and-tweets-maker-update/",
+    "blog_title": "Pleats and Tweets [Maker Update]",
+    "blog_date": "2022-11-10"
+  },
+  "309": {
+    "episode_number": 309,
+    "num_method": "shownotes_header",
+    "video_id": "vyQ_dY2IdNk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/a-nose-for-art-maker-update/",
+    "blog_title": "A Nose for Art [Maker Update]",
+    "blog_date": "2022-11-17"
+  },
+  "310": {
+    "episode_number": 310,
+    "num_method": "shownotes_header",
+    "video_id": "SFi3YkVGcsU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/sound-is-just-wiggly-air-maker-update/",
+    "blog_title": "Sound Is Just Wiggly Air [Maker Update]",
+    "blog_date": "2022-11-25"
+  },
+  "311": {
+    "episode_number": 311,
+    "num_method": "shownotes_header",
+    "video_id": "UWGqzA7qjFs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/iot-xmas-spirit-maker-update/",
+    "blog_title": "IoT Xmas Spirit [Maker Update]",
+    "blog_date": "2022-12-01"
+  },
+  "312": {
+    "episode_number": 312,
+    "num_method": "shownotes_header",
+    "video_id": "WdCZLdnesaU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/monkeys-paw-maker-update/",
+    "blog_title": "Monkey&#8217;s Paw [Maker Update]",
+    "blog_date": "2022-12-08"
+  },
+  "313": {
+    "episode_number": 313,
+    "num_method": "shownotes_header",
+    "video_id": "NX5ME8qp1zo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/ornament-of-doom-maker-update/",
+    "blog_title": "Ornament of Doom [Maker Update]",
+    "blog_date": "2022-12-15"
+  },
+  "314": {
+    "episode_number": 314,
+    "num_method": "shownotes_header",
+    "video_id": "Bcpz1bi7Uek",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2022-maker-update/",
+    "blog_title": "Favorite Projects of 2022 [Maker Update]",
+    "blog_date": "2022-12-31"
+  },
+  "315": {
+    "episode_number": 315,
+    "num_method": "shownotes_header",
+    "video_id": "gkMQm9WnYiI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/shop-chop-maker-update/",
+    "blog_title": "Shop Chop [Maker Update]",
+    "blog_date": "2023-01-05"
+  },
+  "316": {
+    "episode_number": 316,
+    "num_method": "shownotes_header",
+    "video_id": "jDSoCwWg8s4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/its-a-sign-maker-update/",
+    "blog_title": "It&#8217;s a Sign [Maker Update]",
+    "blog_date": "2023-01-12"
+  },
+  "317": {
+    "episode_number": 317,
+    "num_method": "shownotes_header",
+    "video_id": "Ea0FmFwqmHE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/on-the-level-maker-update/",
+    "blog_title": "On The Level [Maker Update]",
+    "blog_date": "2023-01-19"
+  },
+  "318": {
+    "episode_number": 318,
+    "num_method": "shownotes_header",
+    "video_id": "_VKJxBw8k2g",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/rolling-with-the-rabbit-maker-update/",
+    "blog_title": "Rolling With the Rabbit [Maker Update]",
+    "blog_date": "2023-01-26"
+  },
+  "319": {
+    "episode_number": 319,
+    "num_method": "shownotes_header",
+    "video_id": "EU3gsv5QbaI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/cut-of-your-jib-maker-update/",
+    "blog_title": "Cut of Your Jib [Maker Update]",
+    "blog_date": "2023-02-02"
+  },
+  "320": {
+    "episode_number": 320,
+    "num_method": "shownotes_header",
+    "video_id": "Zh4Udwhojrc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/canned-response-maker-update/",
+    "blog_title": "Canned Response [Maker Update]",
+    "blog_date": "2023-02-09"
+  },
+  "321": {
+    "episode_number": 321,
+    "num_method": "shownotes_header",
+    "video_id": "3_yHJiyu6yM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/glow-up-maker-update/",
+    "blog_title": "Glow Up [Maker Update]",
+    "blog_date": "2023-02-27"
+  },
+  "322": {
+    "episode_number": 322,
+    "num_method": "shownotes_header",
+    "video_id": "Ybz2ulcMfak",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/digital-analog-maker-update/",
+    "blog_title": "Digital Analog [Maker Update]",
+    "blog_date": "2023-02-27"
+  },
+  "323": {
+    "episode_number": 323,
+    "num_method": "shownotes_header",
+    "video_id": "lgH9Ac-dPV0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/segment-surf-maker-update/",
+    "blog_title": "Segment Surf [Maker Update]",
+    "blog_date": "2023-03-02"
+  },
+  "324": {
+    "episode_number": 324,
+    "num_method": "shownotes_header",
+    "video_id": "ptVtFnv5XwA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/return-to-sender-maker-update/",
+    "blog_title": "Return to Sender [Maker Update]",
+    "blog_date": "2023-03-09"
+  },
+  "325": {
+    "episode_number": 325,
+    "num_method": "shownotes_header",
+    "video_id": "UYZtlKZtzMc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/oddly-satisfying-solutions-maker-update/",
+    "blog_title": "Oddly Satisfying Solutions [Maker Update]",
+    "blog_date": "2023-03-16"
+  },
+  "326": {
+    "episode_number": 326,
+    "num_method": "shownotes_header",
+    "video_id": "1YCDWvW7V-0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/reverse-engineering-maker-update/",
+    "blog_title": "Reverse Engineering [Maker Update]",
+    "blog_date": "2023-03-23"
+  },
+  "327": {
+    "episode_number": 327,
+    "num_method": "shownotes_header",
+    "video_id": "VhqL1_ks3Yc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-makers-of-alt-ctrl-gdc-2023-maker-update/",
+    "blog_title": "The Makers of Alt.CTRL GDC 2023 [Maker Update]",
+    "blog_date": "2023-03-30"
+  },
+  "328": {
+    "episode_number": 328,
+    "num_method": "shownotes_header",
+    "video_id": "tjvxBeG_NUQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dancing-with-myself-maker-update/",
+    "blog_title": "Dancing With Myself [Maker Update]",
+    "blog_date": "2023-04-06"
+  },
+  "329": {
+    "episode_number": 329,
+    "num_method": "shownotes_header",
+    "video_id": "MPo6E5v_sc0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-law-of-attraction-maker-update/",
+    "blog_title": "The Law of Attraction [Maker Update]",
+    "blog_date": "2023-04-13"
+  },
+  "330": {
+    "episode_number": 330,
+    "num_method": "shownotes_header",
+    "video_id": "wuHf-yPVENE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/walk-this-way-maker-update/",
+    "blog_title": "Walk This Way [Maker Update]",
+    "blog_date": "2023-04-20"
+  },
+  "331": {
+    "episode_number": 331,
+    "num_method": "user_provided",
+    "video_id": "J1C9xzrP1uc",
+    "vid_method": "youtube_playlist",
+    "blog_url": null,
+    "blog_title": null,
+    "blog_date": null
+  },
+  "332": {
+    "episode_number": 332,
+    "num_method": "shownotes_header",
+    "video_id": "7XElGE-KQsY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/tread-gently-maker-update/",
+    "blog_title": "Tread Gently [Maker Update]",
+    "blog_date": "2023-05-11"
+  },
+  "333": {
+    "episode_number": 333,
+    "num_method": "shownotes_header",
+    "video_id": "5mfalFoJHiQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/jar-of-flies-maker-update/",
+    "blog_title": "Jar of Flies [Maker Update]",
+    "blog_date": "2023-05-18"
+  },
+  "334": {
+    "episode_number": 334,
+    "num_method": "shownotes_header",
+    "video_id": "UVs9mfIRUv4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/nostalgic-technologies-maker-update/",
+    "blog_title": "Nostalgic Technologies [Maker Update]",
+    "blog_date": "2023-05-25"
+  },
+  "335": {
+    "episode_number": 335,
+    "num_method": "shownotes_header",
+    "video_id": "aDPi_nSBGek",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/up-in-the-air-maker-update/",
+    "blog_title": "Up in the Air [Maker Update]",
+    "blog_date": "2023-06-01"
+  },
+  "336": {
+    "episode_number": 336,
+    "num_method": "shownotes_header",
+    "video_id": "235PrpELLJw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/keeps-on-ticking-maker-update/",
+    "blog_title": "Keeps on Ticking [Maker Update]",
+    "blog_date": "2023-06-08"
+  },
+  "337": {
+    "episode_number": 337,
+    "num_method": "shownotes_header",
+    "video_id": "pQcVzG4N3Ac",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/a-nose-for-details-maker-update/",
+    "blog_title": "A Nose for Details [Maker Update]",
+    "blog_date": "2023-06-15"
+  },
+  "338": {
+    "episode_number": 338,
+    "num_method": "shownotes_header",
+    "video_id": "6G5_eWL_iLo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/extrudicate-maker-update/",
+    "blog_title": "Extrudicate! [Maker Update]",
+    "blog_date": "2023-06-22"
+  },
+  "339": {
+    "episode_number": 339,
+    "num_method": "shownotes_header",
+    "video_id": "HjICOcsuBKY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/i-think-im-a-clone-now-maker-update/",
+    "blog_title": "I Think I&#8217;m a Clone Now [Maker Update]",
+    "blog_date": "2023-07-06"
+  },
+  "340": {
+    "episode_number": 340,
+    "num_method": "shownotes_header",
+    "video_id": "KUEOLO_V6vc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/faster-blaster-maker-update/",
+    "blog_title": "Faster Blaster [Maker Update]",
+    "blog_date": "2023-07-06"
+  },
+  "341": {
+    "episode_number": 341,
+    "num_method": "shownotes_header",
+    "video_id": "sIE7BKGIYNM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-future-we-forgot-to-make-maker-update/",
+    "blog_title": "The Future We Forgot To Make [Maker Update]",
+    "blog_date": "2023-07-27"
+  },
+  "342": {
+    "episode_number": 342,
+    "num_method": "shownotes_header",
+    "video_id": "7sr27mHPyvY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/brick-by-brick-maker-update/",
+    "blog_title": "Brick by Brick [Maker Update]",
+    "blog_date": "2023-07-27"
+  },
+  "343": {
+    "episode_number": 343,
+    "num_method": "shownotes_header",
+    "video_id": "zgLp9CwhBM4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/from-the-shadows-maker-update/",
+    "blog_title": "From the Shadows [Maker Update]",
+    "blog_date": "2023-07-27"
+  },
+  "344": {
+    "episode_number": 344,
+    "num_method": "shownotes_header",
+    "video_id": "15m6_qQrF38",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/goggles-down-maker-update/",
+    "blog_title": "Goggles Down [Maker Update]",
+    "blog_date": "2023-08-03"
+  },
+  "345": {
+    "episode_number": 345,
+    "num_method": "shownotes_header",
+    "video_id": "d5tRteEUUTw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/all-jedis-can-solder-maker-update/",
+    "blog_title": "All Jedis Can Solder [Maker Update]",
+    "blog_date": "2023-08-15"
+  },
+  "346": {
+    "episode_number": 346,
+    "num_method": "shownotes_header",
+    "video_id": "_BVD5o6Tz3o",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/flight-control-maker-update/",
+    "blog_title": "Flight Control [Maker Update]",
+    "blog_date": "2023-08-17"
+  },
+  "347": {
+    "episode_number": 347,
+    "num_method": "user_provided",
+    "video_id": "c_SeQgyDnBI",
+    "vid_method": "youtube_playlist",
+    "blog_url": null,
+    "blog_title": null,
+    "blog_date": null
+  },
+  "348": {
+    "episode_number": 348,
+    "num_method": "shownotes_header",
+    "video_id": "AUISYEYlguA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/family-file-tree-maker-update/",
+    "blog_title": "Family File Tree [Maker Update]",
+    "blog_date": "2023-08-31"
+  },
+  "349": {
+    "episode_number": 349,
+    "num_method": "shownotes_header",
+    "video_id": "RMvu85w9a28",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/heart-of-the-machine-maker-update/",
+    "blog_title": "Heart of the Machine [Maker Update]",
+    "blog_date": "2023-09-07"
+  },
+  "350": {
+    "episode_number": 350,
+    "num_method": "shownotes_header",
+    "video_id": "fNRIZka9N1I",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/all-eyes-on-me-maker-update/",
+    "blog_title": "All Eyes On Me [Maker Update]",
+    "blog_date": "2023-09-14"
+  },
+  "351": {
+    "episode_number": 351,
+    "num_method": "shownotes_header",
+    "video_id": "NQy1xTqOWBA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/classic-cuts-maker-update/",
+    "blog_title": "Classic Cuts [Maker Update]",
+    "blog_date": "2023-09-21"
+  },
+  "352": {
+    "episode_number": 352,
+    "num_method": "shownotes_header",
+    "video_id": "gTwGI8oh9eo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/an-ear-for-art-maker-update/",
+    "blog_title": "An Ear for Art [Maker Update]",
+    "blog_date": "2023-09-28"
+  },
+  "353": {
+    "episode_number": 353,
+    "num_method": "shownotes_header",
+    "video_id": "651LFos90oA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/picture-perfect-maker-update/",
+    "blog_title": "Picture Perfect [Maker Update]",
+    "blog_date": "2023-10-05"
+  },
+  "354": {
+    "episode_number": 354,
+    "num_method": "shownotes_header",
+    "video_id": "uCczrXYN6VY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/prime-time-maker-update/",
+    "blog_title": "Prime Time [Maker Update]",
+    "blog_date": "2023-10-12"
+  },
+  "355": {
+    "episode_number": 355,
+    "num_method": "shownotes_header",
+    "video_id": "P4ht9Daf3mg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/jumping-the-jungle-maker-update/",
+    "blog_title": "Jumping the Jungle [Maker Update]",
+    "blog_date": "2023-10-19"
+  },
+  "356": {
+    "episode_number": 356,
+    "num_method": "shownotes_header",
+    "video_id": "nLOBcRbueOI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/cyber-sandwich-maker-update/",
+    "blog_title": "Cyber Sandwich [Maker Update]",
+    "blog_date": "2023-10-26"
+  },
+  "357": {
+    "episode_number": 357,
+    "num_method": "shownotes_header",
+    "video_id": "OSUC3ZmGVFU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/black-sails-at-showtime-maker-update/",
+    "blog_title": "Black Sails at Showtime [Maker Update]",
+    "blog_date": "2023-11-02"
+  },
+  "358": {
+    "episode_number": 358,
+    "num_method": "shownotes_header",
+    "video_id": "aeiGsKRUghA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/multiplayer-mural-maker-update/",
+    "blog_title": "Multiplayer Mural [Maker Update]",
+    "blog_date": "2023-11-09"
+  },
+  "359": {
+    "episode_number": 359,
+    "num_method": "shownotes_header",
+    "video_id": "pRwb7kNH_-4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/wind-beneath-my-wings-maker-update/",
+    "blog_title": "Wind Beneath My Wings [Maker Update]",
+    "blog_date": "2023-11-16"
+  },
+  "360": {
+    "episode_number": 360,
+    "num_method": "shownotes_header",
+    "video_id": "F_IkrM0yU-M",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/new-heights-for-hot-glue-maker-update/",
+    "blog_title": "New Heights for Hot Glue [Maker Update]",
+    "blog_date": "2023-11-30"
+  },
+  "361": {
+    "episode_number": 361,
+    "num_method": "shownotes_header",
+    "video_id": "KHgs1AxG7Fc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-ceilings-the-limit-maker-update/",
+    "blog_title": "The Ceiling&#8217;s the Limit [Maker Update]",
+    "blog_date": "2023-12-07"
+  },
+  "362": {
+    "episode_number": 362,
+    "num_method": "shownotes_header",
+    "video_id": "4fSzHQnfKMU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/string-symphony-maker-update/",
+    "blog_title": "String Symphony [Maker Update]",
+    "blog_date": "2023-12-14"
+  },
+  "363": {
+    "episode_number": 363,
+    "num_method": "shownotes_header",
+    "video_id": "62ASq-osskc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2023-maker-update/",
+    "blog_title": "Favorite Projects of 2023 [Maker Update]",
+    "blog_date": "2023-12-28"
+  },
+  "364": {
+    "episode_number": 364,
+    "num_method": "shownotes_header",
+    "video_id": "-SpIfq7bb7k",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/scheduled-delivery-maker-update/",
+    "blog_title": "Scheduled Delivery [Maker Update]",
+    "blog_date": "2024-01-04"
+  },
+  "365": {
+    "episode_number": 365,
+    "num_method": "shownotes_header",
+    "video_id": "qqV-LnJ2vXk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/rainy-day-projects-maker-update/",
+    "blog_title": "Rainy Day Projects [Maker Update]",
+    "blog_date": "2024-01-11"
+  },
+  "366": {
+    "episode_number": 366,
+    "num_method": "manual_typo_correction",
+    "video_id": "dLdcNAWzjAE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/bread-roll-maker-update/",
+    "blog_title": "Bread Roll [Maker Update]",
+    "blog_date": "2024-01-18"
+  },
+  "367": {
+    "episode_number": 367,
+    "num_method": "shownotes_header",
+    "video_id": "ZTiZAPY9muY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/your-input-is-welcome-maker-update/",
+    "blog_title": "Your Input Is Welcome [Maker Update]",
+    "blog_date": "2024-01-25"
+  },
+  "368": {
+    "episode_number": 368,
+    "num_method": "shownotes_header",
+    "video_id": "94EVgYAAhAQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/tumbling-towards-tea-time-maker-update/",
+    "blog_title": "Tumbling Towards Tea Time [Maker Update]",
+    "blog_date": "2024-02-01"
+  },
+  "369": {
+    "episode_number": 369,
+    "num_method": "shownotes_header",
+    "video_id": "W9-7abM7iKA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/lets-cyber-maker-update/",
+    "blog_title": "Let&#8217;s Cyber [Maker Update]",
+    "blog_date": "2024-02-08"
+  },
+  "370": {
+    "episode_number": 370,
+    "num_method": "shownotes_header",
+    "video_id": "PRupJVNP72E",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/mixed-to-perfection-maker-update/",
+    "blog_title": "Mixed to Perfection [Maker Update]",
+    "blog_date": "2024-02-15"
+  },
+  "371": {
+    "episode_number": 371,
+    "num_method": "shownotes_header",
+    "video_id": "2T7K5aviO_A",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/this-was-a-triumph-maker-update/",
+    "blog_title": "This Was a Triumph [Maker Update]",
+    "blog_date": "2024-02-22"
+  },
+  "372": {
+    "episode_number": 372,
+    "num_method": "shownotes_header",
+    "video_id": "Su8QtGqhZVc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/lets-get-small-maker-update/",
+    "blog_title": "Let&#8217;s Get Small [Maker Update]",
+    "blog_date": "2024-02-29"
+  },
+  "373": {
+    "episode_number": 373,
+    "num_method": "shownotes_header",
+    "video_id": "YKL7zjbK74o",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/any-color-you-like-maker-update/",
+    "blog_title": "Any Color You Like [Maker Update]",
+    "blog_date": "2024-03-07"
+  },
+  "374": {
+    "episode_number": 374,
+    "num_method": "shownotes_header",
+    "video_id": "agM3CrmVxOM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/ready-oar-not-maker-update/",
+    "blog_title": "Ready Oar Not [Maker Update]",
+    "blog_date": "2024-03-14"
+  },
+  "375": {
+    "episode_number": 375,
+    "num_method": "shownotes_header",
+    "video_id": "Y7u_cg3uhTs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/good-for-health-bad-for-education-maker-update/",
+    "blog_title": "Good for Health, Bad for Education [Maker Update]",
+    "blog_date": "2024-03-21"
+  },
+  "376": {
+    "episode_number": 376,
+    "num_method": "shownotes_header",
+    "video_id": "e1U9lsrL2ME",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/prop-chops-maker-update/",
+    "blog_title": "Prop Chops [Maker Update]",
+    "blog_date": "2024-03-28"
+  },
+  "377": {
+    "episode_number": 377,
+    "num_method": "shownotes_header",
+    "video_id": "awQGtMVfzH0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/clicky-computer-maker-update/",
+    "blog_title": "Clicky Computer [Maker Update]",
+    "blog_date": "2024-04-04"
+  },
+  "378": {
+    "episode_number": 378,
+    "num_method": "shownotes_header",
+    "video_id": "Z0NEKTxluhQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/grievous-engineering-maker-update/",
+    "blog_title": "Grievous Engineering [Maker Update]",
+    "blog_date": "2024-04-11"
+  },
+  "379": {
+    "episode_number": 379,
+    "num_method": "shownotes_header",
+    "video_id": "cKV1f3Lh_HA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/counting-cams-maker-update/",
+    "blog_title": "Counting Cams [Maker Update]",
+    "blog_date": "2024-04-18"
+  },
+  "380": {
+    "episode_number": 380,
+    "num_method": "shownotes_header",
+    "video_id": "jjKH-n-wji4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/arduino-i-choose-you-maker-update/",
+    "blog_title": "Arduino, I Choose You! [Maker Update]",
+    "blog_date": "2024-04-25"
+  },
+  "381": {
+    "episode_number": 381,
+    "num_method": "shownotes_header",
+    "video_id": "LDPltbFL3qY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/vegas-baby-maker-update/",
+    "blog_title": "Vegas Baby [Maker Update]",
+    "blog_date": "2024-05-02"
+  },
+  "382": {
+    "episode_number": 382,
+    "num_method": "shownotes_header",
+    "video_id": "BAuoxYztPDs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/maritime-miyazaki-maker-update/",
+    "blog_title": "Maritime Miyazaki [Maker Update]",
+    "blog_date": "2024-05-09"
+  },
+  "383": {
+    "episode_number": 383,
+    "num_method": "shownotes_header",
+    "video_id": "_Y8Ton9V9K8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/lean-machine-maker-update/",
+    "blog_title": "Lean Machine [Maker Update]",
+    "blog_date": "2024-05-16"
+  },
+  "384": {
+    "episode_number": 384,
+    "num_method": "shownotes_header",
+    "video_id": "MLZ3RarpO5o",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/360-noscope-maker-update/",
+    "blog_title": "360 Noscope [Maker Update]",
+    "blog_date": "2024-05-23"
+  },
+  "385": {
+    "episode_number": 385,
+    "num_method": "shownotes_header",
+    "video_id": "w_mLmJ3PXjk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/one-more-round-maker-update/",
+    "blog_title": "One More Round [Maker Update]",
+    "blog_date": "2024-05-30"
+  },
+  "386": {
+    "episode_number": 386,
+    "num_method": "shownotes_header",
+    "video_id": "UuTPFqu35po",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/chard-gpt-maker-update/",
+    "blog_title": "Chard GPT [Maker Update]",
+    "blog_date": "2024-06-06"
+  },
+  "387": {
+    "episode_number": 387,
+    "num_method": "shownotes_header",
+    "video_id": "JnaY5_4zJA0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/whistle-while-your-robots-work-maker-update/",
+    "blog_title": "Whistle While Your Robots Work [Maker Update]",
+    "blog_date": "2024-06-13"
+  },
+  "388": {
+    "episode_number": 388,
+    "num_method": "shownotes_header",
+    "video_id": "eCDPsDo1c3w",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/fight-for-the-users-maker-update/",
+    "blog_title": "Fight For The Users [Maker Update]",
+    "blog_date": "2024-06-20"
+  },
+  "389": {
+    "episode_number": 389,
+    "num_method": "shownotes_header",
+    "video_id": "lr2wBfHE-DY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/reality-bytes-maker-update/",
+    "blog_title": "Reality Bytes [Maker Update]",
+    "blog_date": "2024-06-27"
+  },
+  "390": {
+    "episode_number": 390,
+    "num_method": "shownotes_header",
+    "video_id": "FHErRvlZRAs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/its-in-the-bag-maker-update/",
+    "blog_title": "It&#8217;s In the Bag [Maker Update]",
+    "blog_date": "2024-07-05"
+  },
+  "391": {
+    "episode_number": 391,
+    "num_method": "shownotes_header",
+    "video_id": "LWAcrzjv-pU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/a-kerf-goodnight-maker-update/",
+    "blog_title": "A Kerf Goodnight [Maker Update]",
+    "blog_date": "2024-07-11"
+  },
+  "392": {
+    "episode_number": 392,
+    "num_method": "shownotes_header",
+    "video_id": "lgR7ohu386g",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/instrument-landing-maker-update/",
+    "blog_title": "Instrument Landing [Maker Update]",
+    "blog_date": "2024-07-18"
+  },
+  "393": {
+    "episode_number": 393,
+    "num_method": "shownotes_header",
+    "video_id": "CQ0ntml2kZQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/too-many-turn-offs-maker-update/",
+    "blog_title": "Too Many Turn-Offs [Maker Update]",
+    "blog_date": "2024-07-25"
+  },
+  "394": {
+    "episode_number": 394,
+    "num_method": "shownotes_header",
+    "video_id": "p7z_Pj-mwEs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/its-a-bug-hunt-maker-update/",
+    "blog_title": "It&#8217;s a Bug Hunt [Maker Update]",
+    "blog_date": "2024-08-01"
+  },
+  "395": {
+    "episode_number": 395,
+    "num_method": "shownotes_header",
+    "video_id": "dA594zq9CkM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/pitch-perfect-plastic-maker-update/",
+    "blog_title": "Pitch-Perfect Plastic [Maker Update]",
+    "blog_date": "2024-08-08"
+  },
+  "396": {
+    "episode_number": 396,
+    "num_method": "shownotes_header",
+    "video_id": "WWTWzlhcXzU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/bigger-meatier-craftier-maker-update/",
+    "blog_title": "Bigger, Meatier, Craftier [Maker Update]",
+    "blog_date": "2024-08-15"
+  },
+  "397": {
+    "episode_number": 397,
+    "num_method": "shownotes_header",
+    "video_id": "CyfRO_zhDP0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/gauging-your-reaction-maker-update/",
+    "blog_title": "Gauging Your Reaction [Maker Update]",
+    "blog_date": "2024-08-22"
+  },
+  "398": {
+    "episode_number": 398,
+    "num_method": "shownotes_header",
+    "video_id": "s3sAGLloGi8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/packs-a-punch-maker-update-2/",
+    "blog_title": "Packs a Punch [Maker Update]",
+    "blog_date": "2024-08-29"
+  },
+  "399": {
+    "episode_number": 399,
+    "num_method": "shownotes_header",
+    "video_id": "sQbjq-he3Xs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/its-all-in-the-wrist-maker-update/",
+    "blog_title": "It&#8217;s All in the Wrist [Maker Update]",
+    "blog_date": "2024-09-05"
+  },
+  "400": {
+    "episode_number": 400,
+    "num_method": "shownotes_header",
+    "video_id": "v83Fnyfg2PU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/more-is-more-maker-update/",
+    "blog_title": "More Is More [Maker Update]",
+    "blog_date": "2024-09-12"
+  },
+  "401": {
+    "episode_number": 401,
+    "num_method": "shownotes_header",
+    "video_id": "6wnj2yneBog",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/bar-crawl-maker-update/",
+    "blog_title": "Bar Crawl [Maker Update]",
+    "blog_date": "2024-09-19"
+  },
+  "402": {
+    "episode_number": 402,
+    "num_method": "shownotes_header",
+    "video_id": "vWARh2JnnJQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/folding-light-maker-update/",
+    "blog_title": "Folding Light [Maker Update]",
+    "blog_date": "2024-09-26"
+  },
+  "403": {
+    "episode_number": 403,
+    "num_method": "shownotes_header",
+    "video_id": "g_b9DkZBczE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/headfirst-maker-update/",
+    "blog_title": "Headfirst [Maker Update]",
+    "blog_date": "2024-10-03"
+  },
+  "404": {
+    "episode_number": 404,
+    "num_method": "shownotes_header",
+    "video_id": "JKoLZEK4jXw",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/not-found-maker-update/",
+    "blog_title": "Not Found [Maker Update]",
+    "blog_date": "2024-10-10"
+  },
+  "405": {
+    "episode_number": 405,
+    "num_method": "shownotes_header",
+    "video_id": "sfjR-UamFK8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/infinity-plus-infinity-maker-update/",
+    "blog_title": "Infinity Plus Infinity [Maker Update]",
+    "blog_date": "2024-10-17"
+  },
+  "406": {
+    "episode_number": 406,
+    "num_method": "shownotes_header",
+    "video_id": "d4orf3006-A",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/cubist-conundrum-maker-update/",
+    "blog_title": "Cubist Conundrum [Maker Update]",
+    "blog_date": "2024-10-24"
+  },
+  "407": {
+    "episode_number": 407,
+    "num_method": "shownotes_header",
+    "video_id": "O3B9X4tK5QM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/low-rider-maker-update/",
+    "blog_title": "Low Rider [Maker Update]",
+    "blog_date": "2024-10-31"
+  },
+  "408": {
+    "episode_number": 408,
+    "num_method": "shownotes_header",
+    "video_id": "mmsxNPLCjic",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dino-dna-maker-update/",
+    "blog_title": "Dino DNA [Maker Update]",
+    "blog_date": "2024-11-07"
+  },
+  "409": {
+    "episode_number": 409,
+    "num_method": "shownotes_header",
+    "video_id": "Ev-uVfi4Q1Y",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/unexpected-promotion-maker-update/",
+    "blog_title": "Unexpected Promotion [Maker Update]",
+    "blog_date": "2024-11-14"
+  },
+  "410": {
+    "episode_number": 410,
+    "num_method": "shownotes_header",
+    "video_id": "xAxIDaIahZ0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/every-tool-is-a-hammer-maker-update/",
+    "blog_title": "Every Tool is a Hammer [Maker Update]",
+    "blog_date": "2024-11-21"
+  },
+  "411": {
+    "episode_number": 411,
+    "num_method": "shownotes_header",
+    "video_id": "f3_lLdpr6bs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/face-it-maker-update/",
+    "blog_title": "Face It [Maker Update]",
+    "blog_date": "2024-12-05"
+  },
+  "412": {
+    "episode_number": 412,
+    "num_method": "shownotes_header",
+    "video_id": "YmVGKeTboEo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/bombastic-side-eye-maker-update/",
+    "blog_title": "Bombastic Side Eye [Maker Update]",
+    "blog_date": "2024-12-12"
+  },
+  "413": {
+    "episode_number": 413,
+    "num_method": "shownotes_header",
+    "video_id": "bH7o_gSR8so",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/tough-call-maker-update/",
+    "blog_title": "Tough Call [Maker Update]",
+    "blog_date": "2024-12-19"
+  },
+  "414": {
+    "episode_number": 414,
+    "num_method": "shownotes_header",
+    "video_id": "jdwhenWVT4o",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2024-maker-update/",
+    "blog_title": "Favorite Projects of 2024 [Maker Update]",
+    "blog_date": "2025-01-02"
+  },
+  "415": {
+    "episode_number": 415,
+    "num_method": "shownotes_header",
+    "video_id": "G_LZY32h-h8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/autopilot-engage-maker-update/",
+    "blog_title": "Autopilot Engage [Maker Update]",
+    "blog_date": "2025-01-09"
+  },
+  "416": {
+    "episode_number": 416,
+    "num_method": "shownotes_header",
+    "video_id": "rHKkvutDX-Y",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/full-circle-maker-update/",
+    "blog_title": "Full Circle [Maker Update]",
+    "blog_date": "2025-01-16"
+  },
+  "417": {
+    "episode_number": 417,
+    "num_method": "shownotes_header",
+    "video_id": "9nzUtPVK3k0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/public-displays-of-amazing-maker-update/",
+    "blog_title": "Public Displays of Amazing [Maker Update]",
+    "blog_date": "2025-01-23"
+  },
+  "418": {
+    "episode_number": 418,
+    "num_method": "shownotes_header",
+    "video_id": "sCcqgq5TJok",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/its-a-long-way-to-the-top-maker-update/",
+    "blog_title": "It&#8217;s a Long Way to the Top [Maker Update]",
+    "blog_date": "2025-01-30"
+  },
+  "419": {
+    "episode_number": 419,
+    "num_method": "shownotes_header",
+    "video_id": "riTTVcranzc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/chalk-it-up-maker-update/",
+    "blog_title": "Chalk it Up [Maker Update]",
+    "blog_date": "2025-02-06"
+  },
+  "420": {
+    "episode_number": 420,
+    "num_method": "shownotes_header",
+    "video_id": "-EFj9wDRjOk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/sense-of-scale-maker-update/",
+    "blog_title": "Sense of Scale [Maker Update]",
+    "blog_date": "2025-02-13"
+  },
+  "421": {
+    "episode_number": 421,
+    "num_method": "shownotes_header",
+    "video_id": "Nmnq50JaGo4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-office-of-buckminster-fuller-maker-update/",
+    "blog_title": "The Office of Buckminster Fuller [Maker Update]",
+    "blog_date": "2025-02-23"
+  },
+  "422": {
+    "episode_number": 422,
+    "num_method": "shownotes_header",
+    "video_id": "6I9QO6mJC0U",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/sparking-conversation-maker-update/",
+    "blog_title": "Sparking Conversation [Maker Update]",
+    "blog_date": "2025-02-27"
+  },
+  "423": {
+    "episode_number": 423,
+    "num_method": "shownotes_header",
+    "video_id": "EZrCjcU7LLI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/sharper-image-maker-update/",
+    "blog_title": "Sharper Image [Maker Update]",
+    "blog_date": "2025-03-06"
+  },
+  "424": {
+    "episode_number": 424,
+    "num_method": "shownotes_header",
+    "video_id": "rvhNgB0Jfns",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/unlimited-edition-maker-update/",
+    "blog_title": "Unlimited Edition [Maker Update]",
+    "blog_date": "2025-03-13"
+  },
+  "425": {
+    "episode_number": 425,
+    "num_method": "shownotes_header",
+    "video_id": "FIvBwvyZQNU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/keys-to-success-maker-update/",
+    "blog_title": "Keys to Success [Maker Update]",
+    "blog_date": "2025-03-20"
+  },
+  "426": {
+    "episode_number": 426,
+    "num_method": "shownotes_header",
+    "video_id": "jnZ-LQtQQz8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-futures-so-bright-maker-update/",
+    "blog_title": "The Future&#8217;s So Bright [Maker Update]",
+    "blog_date": "2025-03-27"
+  },
+  "427": {
+    "episode_number": 427,
+    "num_method": "shownotes_header",
+    "video_id": "0ogzbrs40Fc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/positive-feedback-maker-update/",
+    "blog_title": "Positive Feedback [Maker Update]",
+    "blog_date": "2025-04-03"
+  },
+  "428": {
+    "episode_number": 428,
+    "num_method": "shownotes_header",
+    "video_id": "_TC9LTd-YSM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/something-old-something-new-maker-update/",
+    "blog_title": "Something Old, Something New [Maker Update]",
+    "blog_date": "2025-04-10"
+  },
+  "429": {
+    "episode_number": 429,
+    "num_method": "shownotes_header",
+    "video_id": "Fmz2CILTRGg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/tabletop-turing-machine-maker-update/",
+    "blog_title": "Tabletop Turing Machine [Maker Update]",
+    "blog_date": "2025-04-17"
+  },
+  "430": {
+    "episode_number": 430,
+    "num_method": "shownotes_header",
+    "video_id": "lVstQIS4yFk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/captains-chair-maker-update/",
+    "blog_title": "Captain&#8217;s Chair [Maker Update]",
+    "blog_date": "2025-04-24"
+  },
+  "431": {
+    "episode_number": 431,
+    "num_method": "shownotes_header",
+    "video_id": "kQyRRSLpYg0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/lets-be-the-first-maker-update/",
+    "blog_title": "Let&#8217;s Be the First [Maker Update]",
+    "blog_date": "2025-05-01"
+  },
+  "432": {
+    "episode_number": 432,
+    "num_method": "shownotes_header",
+    "video_id": "pH0g0wA836s",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/hatching-a-plan-maker-update/",
+    "blog_title": "Hatching a Plan [Maker Update]",
+    "blog_date": "2025-05-08"
+  },
+  "433": {
+    "episode_number": 433,
+    "num_method": "shownotes_header",
+    "video_id": "OWey7IzKJq8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/twist-of-the-wrist-maker-update/",
+    "blog_title": "Twist of the Wrist [Maker Update]",
+    "blog_date": "2025-05-15"
+  },
+  "434": {
+    "episode_number": 434,
+    "num_method": "shownotes_header",
+    "video_id": "d0MRrju1KRA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/noise-revolution-maker-update/",
+    "blog_title": "Noise Revolution [Maker Update]",
+    "blog_date": "2025-05-22"
+  },
+  "435": {
+    "episode_number": 435,
+    "num_method": "shownotes_header",
+    "video_id": "TCTOv17SZJ8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/robotic-roger-deakins-maker-update/",
+    "blog_title": "Robotic Roger Deakins [Maker Update]",
+    "blog_date": "2025-05-29"
+  },
+  "436": {
+    "episode_number": 436,
+    "num_method": "shownotes_header",
+    "video_id": "m2J_q-I_NTI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/band-in-a-box-maker-update/",
+    "blog_title": "Band in a Box [Maker Update]",
+    "blog_date": "2025-06-05"
+  },
+  "437": {
+    "episode_number": 437,
+    "num_method": "shownotes_header",
+    "video_id": "o_RGkE6OXN4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/angry-birds-maker-update/",
+    "blog_title": "Angry Birds [Maker Update]",
+    "blog_date": "2025-06-12"
+  },
+  "438": {
+    "episode_number": 438,
+    "num_method": "shownotes_header",
+    "video_id": "aFmXhiTfC3o",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/more-than-meets-the-eye-maker-update/",
+    "blog_title": "More Than Meets the Eye [Maker Update]",
+    "blog_date": "2025-06-19"
+  },
+  "439": {
+    "episode_number": 439,
+    "num_method": "shownotes_header",
+    "video_id": "nSxaeFLYWz4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/pipe-dreams-maker-update/",
+    "blog_title": "Pipe Dreams [Maker Update]",
+    "blog_date": "2025-06-26"
+  },
+  "440": {
+    "episode_number": 440,
+    "num_method": "shownotes_header",
+    "video_id": "3t6bnDvqJTg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dream-on-maker-update/",
+    "blog_title": "Dream On [Maker Update]",
+    "blog_date": "2025-07-03"
+  },
+  "441": {
+    "episode_number": 441,
+    "num_method": "shownotes_header",
+    "video_id": "I79l34hbcQo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/peppermint-express-maker-update/",
+    "blog_title": "Peppermint Express [Maker Update]",
+    "blog_date": "2025-07-10"
+  },
+  "442": {
+    "episode_number": 442,
+    "num_method": "shownotes_header",
+    "video_id": "OP2NCzSACxU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/it-takes-a-village-maker-update/",
+    "blog_title": "It Takes a Village [Maker Update]",
+    "blog_date": "2025-07-17"
+  },
+  "443": {
+    "episode_number": 443,
+    "num_method": "shownotes_header",
+    "video_id": "cok6xbb7uWI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/5-projects-from-open-sauce-2025-maker-update/",
+    "blog_title": "5 Projects From Open Sauce 2025 [Maker Update]",
+    "blog_date": "2025-07-24"
+  },
+  "444": {
+    "episode_number": 444,
+    "num_method": "shownotes_header",
+    "video_id": "X8BeqnaLXCI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/talkin-trash-maker-update/",
+    "blog_title": "Talkin&#8217; Trash [Maker Update]",
+    "blog_date": "2025-07-31"
+  },
+  "445": {
+    "episode_number": 445,
+    "num_method": "shownotes_header",
+    "video_id": "lXmN_6rN77w",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/pixel-perfect-maker-update/",
+    "blog_title": "Pixel Perfect [Maker Update]",
+    "blog_date": "2025-08-07"
+  },
+  "446": {
+    "episode_number": 446,
+    "num_method": "shownotes_header",
+    "video_id": "67WEveZ0Zp4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/flex-time-maker-update/",
+    "blog_title": "Flex Time [Maker Update]",
+    "blog_date": "2025-08-14"
+  },
+  "447": {
+    "episode_number": 447,
+    "num_method": "shownotes_header",
+    "video_id": "Y4uZM9Yo3xI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/eyes-on-the-prize-maker-update/",
+    "blog_title": "Eyes On the Prize [Maker Update]",
+    "blog_date": "2025-08-21"
+  },
+  "448": {
+    "episode_number": 448,
+    "num_method": "shownotes_header",
+    "video_id": "Zl1rFMJB2_Q",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/the-eyes-have-it-maker-update/",
+    "blog_title": "The Eyes Have It [Maker Update]",
+    "blog_date": "2025-08-28"
+  },
+  "449": {
+    "episode_number": 449,
+    "num_method": "shownotes_header",
+    "video_id": "xQgajatkpnk",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/eggselent-engineering-maker-update/",
+    "blog_title": "Eggselent Engineering [Maker Update]",
+    "blog_date": "2025-09-04"
+  },
+  "450": {
+    "episode_number": 450,
+    "num_method": "shownotes_header",
+    "video_id": "A5xMMpWG7SE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/turtle-power-maker-update/",
+    "blog_title": "Turtle Power [Maker Update]",
+    "blog_date": "2025-09-11"
+  },
+  "451": {
+    "episode_number": 451,
+    "num_method": "shownotes_header",
+    "video_id": "89ckABOkfEg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/magic-wherever-you-look-maker-update/",
+    "blog_title": "Magic Wherever You Look [Maker Update]",
+    "blog_date": "2025-09-18"
+  },
+  "452": {
+    "episode_number": 452,
+    "num_method": "shownotes_header",
+    "video_id": "XxWcpAC1yxg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/crab-craft-maker-update/",
+    "blog_title": "Crab Craft [Maker Update]",
+    "blog_date": "2025-09-25"
+  },
+  "453": {
+    "episode_number": 453,
+    "num_method": "shownotes_header",
+    "video_id": "eH1IsjpVqwY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/pasta-power-maker-update/",
+    "blog_title": "Pasta Power [Maker Update]",
+    "blog_date": "2025-10-02"
+  },
+  "454": {
+    "episode_number": 454,
+    "num_method": "shownotes_header",
+    "video_id": "nCgG6V3yXXU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/off-the-deep-end-maker-update/",
+    "blog_title": "Off the Deep End [Maker Update]",
+    "blog_date": "2025-10-09"
+  },
+  "455": {
+    "episode_number": 455,
+    "num_method": "user_provided",
+    "video_id": "SSIO6gxezXs",
+    "vid_method": "youtube_playlist",
+    "blog_url": null,
+    "blog_title": null,
+    "blog_date": null
+  },
+  "456": {
+    "episode_number": 456,
+    "num_method": "shownotes_header",
+    "video_id": "jyWTlfnPvZ4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/man-of-steel-maker-update/",
+    "blog_title": "Man of Steel [Maker Update]",
+    "blog_date": "2025-10-23"
+  },
+  "457": {
+    "episode_number": 457,
+    "num_method": "shownotes_header",
+    "video_id": "bXfEp4JCSrI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/built-for-speed-maker-update/",
+    "blog_title": "Built for Speed [Maker Update]",
+    "blog_date": "2025-10-30"
+  },
+  "458": {
+    "episode_number": 458,
+    "num_method": "shownotes_header",
+    "video_id": "stvuv0ATXmA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/under-the-big-top-maker-update/",
+    "blog_title": "Under the Big Top [Maker Update]",
+    "blog_date": "2025-11-06"
+  },
+  "459": {
+    "episode_number": 459,
+    "num_method": "shownotes_header",
+    "video_id": "5KLHOXWWdgM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/an-elegant-weapon-maker-update/",
+    "blog_title": "An Elegant Weapon [Maker Update]",
+    "blog_date": "2025-11-13"
+  },
+  "460": {
+    "episode_number": 460,
+    "num_method": "shownotes_header",
+    "video_id": "afyMJSIOtVA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/sorting-it-out-maker-update/",
+    "blog_title": "Sorting it Out [Maker Update]",
+    "blog_date": "2025-11-20"
+  },
+  "461": {
+    "episode_number": 461,
+    "num_method": "shownotes_header",
+    "video_id": "mQUXWQRF2kU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/planting-good-habits-maker-update/",
+    "blog_title": "Planting Good Habits [Maker Update]",
+    "blog_date": "2025-12-04"
+  },
+  "462": {
+    "episode_number": 462,
+    "num_method": "shownotes_header",
+    "video_id": "RyRfIybAwIA",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/bin-buddy-maker-update/",
+    "blog_title": "Bin Buddy [Maker Update]",
+    "blog_date": "2025-12-11"
+  },
+  "463": {
+    "episode_number": 463,
+    "num_method": "shownotes_header",
+    "video_id": "giq0YNE0O3k",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/loading-ready-run-maker-update/",
+    "blog_title": "Loading Ready Run [Maker Update]",
+    "blog_date": "2025-12-18"
+  },
+  "464": {
+    "episode_number": 464,
+    "num_method": "shownotes_header",
+    "video_id": "5nwDrmrytvo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2025-maker-update/",
+    "blog_title": "Favorite Projects of 2025 [Maker Update]",
+    "blog_date": "2026-01-05"
+  },
+  "465": {
+    "episode_number": 465,
+    "num_method": "shownotes_header",
+    "video_id": "uZYnsTaoKTg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/hex-on-your-door-maker-update/",
+    "blog_title": "Hex On Your Door [Maker Update]",
+    "blog_date": "2026-01-08"
+  },
+  "466": {
+    "episode_number": 466,
+    "num_method": "shownotes_header",
+    "video_id": "wWe1g-vIwwQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dialing-it-in-maker-update/",
+    "blog_title": "Dialing It In [Maker Update]",
+    "blog_date": "2026-01-15"
+  },
+  "467": {
+    "episode_number": 467,
+    "num_method": "shownotes_header",
+    "video_id": "iWnmNPQ_44Y",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/take-it-for-a-spin-maker-update/",
+    "blog_title": "Take it for a Spin [Maker Update]",
+    "blog_date": "2026-01-22"
+  },
+  "468": {
+    "episode_number": 468,
+    "num_method": "shownotes_header",
+    "video_id": "UhQIiRWBDGQ",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/thats-the-spirit-maker-update/",
+    "blog_title": "That&#8217;s the Spirit [Maker Update]",
+    "blog_date": "2026-01-29"
+  },
+  "469": {
+    "episode_number": 469,
+    "num_method": "shownotes_header",
+    "video_id": "fyR3Dv0BOlo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/seeing-double-maker-update/",
+    "blog_title": "Seeing Double [Maker Update]",
+    "blog_date": "2026-02-05"
+  },
+  "470": {
+    "episode_number": 470,
+    "num_method": "shownotes_header",
+    "video_id": "mwJKMwVieqs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/be-more-maker-update/",
+    "blog_title": "Be More [Maker Update]",
+    "blog_date": "2026-02-12"
+  },
+  "471": {
+    "episode_number": 471,
+    "num_method": "shownotes_header",
+    "video_id": "gBiG8B-54S4",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/in-my-lane-flourishing-maker-update/",
+    "blog_title": "In My Lane, Flourishing [Maker Update]",
+    "blog_date": "2026-02-19"
+  },
+  "472": {
+    "episode_number": 472,
+    "num_method": "shownotes_header",
+    "video_id": "B-66ZBJ6rNs",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/back-on-track-maker-update/",
+    "blog_title": "Back On Track [Maker Update]",
+    "blog_date": "2026-02-27"
+  },
+  "473": {
+    "episode_number": 473,
+    "num_method": "shownotes_header",
+    "video_id": "PAzosz6g2js",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/spool-speed-ahead-maker-update/",
+    "blog_title": "Spool Speed Ahead [Maker Update]",
+    "blog_date": "2026-03-05"
+  },
+  "474": {
+    "episode_number": 474,
+    "num_method": "shownotes_header",
+    "video_id": "lUVlauwsN8I",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/plowing-ahead-maker-update/",
+    "blog_title": "Plowing Ahead [Maker Update]",
+    "blog_date": "2026-03-12"
+  },
+  "475": {
+    "episode_number": 475,
+    "num_method": "shownotes_header",
+    "video_id": "BCTmkaNRJpU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/do-a-kickflip-maker-update/",
+    "blog_title": "Do a Kickflip [Maker Update]",
+    "blog_date": "2026-03-19"
+  },
+  "476": {
+    "episode_number": 476,
+    "num_method": "user_provided",
+    "video_id": "HZ6xq52eUAI",
+    "vid_method": "youtube_playlist",
+    "blog_url": null,
+    "blog_title": null,
+    "blog_date": null
+  },
+  "477": {
+    "episode_number": 477,
+    "num_method": "shownotes_header",
+    "video_id": "zJWnsZAELa0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dial-m-for-maker-maker-update/",
+    "blog_title": "Dial M for Maker [Maker Update]",
+    "blog_date": "2026-04-02"
+  },
+  "478": {
+    "episode_number": 478,
+    "num_method": "shownotes_header",
+    "video_id": "Txd-ll6OPo8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/keep-your-chin-up-maker-update/",
+    "blog_title": "Keep Your Chin Up [Maker Update]",
+    "blog_date": "2026-04-09"
+  },
+  "479": {
+    "episode_number": 479,
+    "num_method": "shownotes_header",
+    "video_id": "hWQGnH9OBa8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/perfect-pitch-printer-maker-update/",
+    "blog_title": "Perfect Pitch Printer [Maker Update]",
+    "blog_date": "2026-04-16"
+  },
+  "480": {
+    "episode_number": 480,
+    "num_method": "shownotes_header",
+    "video_id": "lziDdwIAUts",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/made-to-fade-maker-update/",
+    "blog_title": "Made to Fade [Maker Update]",
+    "blog_date": "2026-04-23"
+  },
+  "481": {
+    "episode_number": 481,
+    "num_method": "shownotes_header",
+    "video_id": "eeGZ0l2yWeY",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/all-wound-up-maker-update/",
+    "blog_title": "All Wound Up [Maker Update]",
+    "blog_date": "2026-04-30"
+  },
+  "482": {
+    "episode_number": 482,
+    "num_method": "shownotes_header",
+    "video_id": "s-VcdzAVMg0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/imagine-that-maker-update/",
+    "blog_title": "Imagine That [Maker Update]",
+    "blog_date": "2026-05-07"
+  },
+  "483": {
+    "episode_number": 483,
+    "num_method": "shownotes_header",
+    "video_id": "3slot-jFbkI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/chasing-the-sun-maker-update/",
+    "blog_title": "Chasing the Sun [Maker Update]",
+    "blog_date": "2026-05-14"
+  },
+  "484": {
+    "episode_number": 484,
+    "num_method": "shownotes_header",
+    "video_id": "3MdqE4y7pMM",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/troll-roll-maker-update/",
+    "blog_title": "Troll Roll [Maker Update]",
+    "blog_date": "2026-05-21"
+  },
+  "485": {
+    "episode_number": 485,
+    "num_method": "user_provided",
+    "video_id": "K6QaRlwngJE",
+    "vid_method": "youtube_playlist",
+    "blog_url": null,
+    "blog_title": null,
+    "blog_date": null
+  },
+  "486": {
+    "episode_number": 486,
+    "num_method": "shownotes_header",
+    "video_id": "btCEB34Fnwo",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/dialing-for-directions-maker-update/",
+    "blog_title": "Dialing for Directions [Maker Update]",
+    "blog_date": "2026-06-04"
+  },
+  "487": {
+    "episode_number": 487,
+    "num_method": "shownotes_header",
+    "video_id": "aYFrjVv4nP0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/making-friends-maker-update/",
+    "blog_title": "Making Friends [Maker Update]",
+    "blog_date": "2026-06-11"
+  },
+  "488": {
+    "episode_number": 488,
+    "num_method": "shownotes_header",
+    "video_id": "r3tB-Iqyhs0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/random-fun-maker-update/",
+    "blog_title": "Random Fun [Maker Update]",
+    "blog_date": "2026-06-19"
+  },
+  "489": {
+    "episode_number": 489,
+    "num_method": "shownotes_header",
+    "video_id": "4--GDrFPLkc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/checkmate-humans-maker-update/",
+    "blog_title": "Checkmate, humans! [Maker Update]",
+    "blog_date": "2026-06-25"
+  },
+  "490": {
+    "episode_number": 490,
+    "num_method": "shownotes_header",
+    "video_id": "gxVZIdy60wc",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/portable-worlds-maker-update/",
+    "blog_title": "Portable Worlds [Maker Update]",
+    "blog_date": "2026-07-02"
+  },
+  "491": {
+    "episode_number": 491,
+    "num_method": "shownotes_header",
+    "video_id": "3Y-rTNgBq6w",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/patterns-in-the-pixels-maker-update/",
+    "blog_title": "Patterns in the Pixels [Maker Update]",
+    "blog_date": "2026-07-09"
+  },
+  "492": {
+    "episode_number": 492,
+    "num_method": "shownotes_header",
+    "video_id": "317m6JKKrNU",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/fool-of-a-took-maker-update/",
+    "blog_title": "Fool of a Took [Maker Update]",
+    "blog_date": "2026-07-16"
+  },
+  "493": {
+    "episode_number": 493,
+    "num_method": "shownotes_header",
+    "video_id": "6oJhaaashr0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/projects-from-open-sauce-2026-maker-update/",
+    "blog_title": "Projects from Open Sauce 2026 [Maker Update]",
+    "blog_date": "2026-07-23"
+  },
+  "494": {
+    "episode_number": 494,
+    "num_method": "shownotes_header",
+    "video_id": "BxsQvojhQc0",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/paperback-writer-maker-update/",
+    "blog_title": "Paperback Writer [Maker Update]",
+    "blog_date": "2026-07-30"
+  },
+  "495": {
+    "episode_number": 495,
+    "num_method": "shownotes_header",
+    "video_id": "0pVIroIZPm8",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/soul-file-maker-update/",
+    "blog_title": "Soul File [Maker Update]",
+    "blog_date": "2026-08-06"
+  },
+  "496": {
+    "episode_number": 496,
+    "num_method": "shownotes_header",
+    "video_id": "JyovE8wLhAI",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/babelfish-maker-update/",
+    "blog_title": "Babelfish [Maker Update]",
+    "blog_date": "2026-08-13"
+  },
+  "497": {
+    "episode_number": 497,
+    "num_method": "shownotes_header",
+    "video_id": "IZg3i-qUwcg",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/pocket-secretary-maker-update/",
+    "blog_title": "Pocket Secretary [Maker Update]",
+    "blog_date": "2026-08-20"
+  },
+  "498": {
+    "episode_number": 498,
+    "num_method": "shownotes_header",
+    "video_id": "mwA6wQARSGE",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/visor-visions-maker-update/",
+    "blog_title": "Visor Visions [Maker Update]",
+    "blog_date": "2026-08-27"
+  },
+  "499": {
+    "episode_number": 499,
+    "num_method": "shownotes_header",
+    "video_id": "4FQt3HW2I_U",
+    "vid_method": "intro_paragraph",
+    "blog_url": "https://www.makerprojectlab.com/cozy-home-for-a-chaotic-mind-maker-update/",
+    "blog_title": "Cozy Home for a Chaotic Mind [Maker Update]",
+    "blog_date": "2026-09-03"
+  }
+}

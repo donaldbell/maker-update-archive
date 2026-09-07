@@ -1,0 +1,19 @@
+# Intermediate/working artifacts from the enrichment pipeline — all
+# reconstructable by re-running the scripts against the kept source files.
+# Not worth long-term version control.
+
+data/blog_posts_raw.json
+data/project_tip_scope.csv
+data/tagging_input.csv
+data/tagged_chunk_*.csv
+data/tagged_final_v2.csv
+data/uncategorized_candidates.csv
+data/uncategorized_recovered.csv
+data/uncategorized_tagged_chunk_*.csv
+data/pass2_input.csv
+data/pass2_chunk_*.csv
+data/low_confidence_for_pass2.csv
+data/test_batch_pass1.csv
+
+# OS cruft
+.DS_Store
