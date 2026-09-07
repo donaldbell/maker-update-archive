@@ -3,46 +3,15 @@
     "keyboard",
     "hardware-project"
   ],
-  "10155863888510146": [
-    "video",
-    "facebook",
-    "gigapanner"
-  ],
-  "1159161535220125697": [
-    "programming",
-    "twitter",
-    "status",
-    "stephaniecodes"
-  ],
-  "1163509773142130688": [
-    "twitter",
-    "status",
-    "coregeeknet"
-  ],
   "123-block": [
     "woodworking",
     "precision",
     "shop-tools"
   ],
-  "163565": [
-    "hackaday",
-    "lissajukebox"
-  ],
   "18650": [
     "electronics",
     "battery",
     "power-management"
-  ],
-  "2019": [
-    "files",
-    "chin",
-    "lillych"
-  ],
-  "247332053": [
-    "vimeo"
-  ],
-  "247332235": [
-    "vimeo"
   ],
   "3d-design": [
     "software",
@@ -51,16 +20,16 @@
     "art",
     "textile",
     "tinkercad",
-    "weaving",
-    "workflow"
+    "workflow",
+    "freecad"
   ],
   "3d-filament": [
     "3d-printing",
     "electroplating",
     "electronics",
     "robotics",
-    "music",
     "cosplay",
+    "music",
     "vehicles"
   ],
   "3d-graphics": [
@@ -71,16 +40,12 @@
     "contour-map",
     "topography"
   ],
-  "3d-model": [
-    "papercraft",
-    "unfold"
-  ],
   "3d-modeling": [
     "cad",
-    "tinkercad",
     "voronoi-pattern",
     "design",
     "software",
+    "tinkercad",
     "ai",
     "mechanical-design",
     "sculpture"
@@ -99,21 +64,16 @@
     "parenting-bot",
     "sla-resin"
   ],
-  "3d-printer-design": [
-    "3d-printing",
-    "diy-equipment",
-    "reprap"
-  ],
   "3d-printer-nozzles": [
     "3d-printing",
     "filament"
   ],
   "3d-printing": [
-    "plastic",
     "robotics",
+    "plastic",
     "pla",
-    "electronics",
     "mechanical",
+    "electronics",
     "tutorial",
     "props",
     "cosplay"
@@ -138,12 +98,6 @@
     "electronics",
     "raspberry-pi",
     "sculpture"
-  ],
-  "555-timer": [
-    "electronics",
-    "led",
-    "sculpture",
-    "circuit-design"
   ],
   "7-segment": [
     "led",
@@ -177,14 +131,14 @@
     "pet-automation"
   ],
   "accessibility": [
-    "3d-printing",
-    "tutorial",
     "gaming",
     "braille",
+    "3d-printing",
     "electronics",
     "adafruit",
     "wearables",
-    "ai"
+    "ai",
+    "soldering"
   ],
   "accessories": [
     "3d-printing",
@@ -211,9 +165,6 @@
     "metrology",
     "precision-measurement"
   ],
-  "acknowledgment": [
-    "thank-you"
-  ],
   "acme-thread": [
     "machining",
     "threading"
@@ -227,11 +178,6 @@
     "sculpture",
     "engineering",
     "physics"
-  ],
-  "acrobatics": [
-    "robotics",
-    "mechanical-engineering",
-    "performance-art"
   ],
   "acrylic": [
     "lighting",
@@ -254,35 +200,22 @@
     "3d-printing",
     "animation",
     "servo",
-    "servo-motors",
-    "origami",
-    "linear"
+    "origami"
   ],
   "adafruit": [
     "electronics",
     "arduino",
-    "wearables",
     "led",
-    "circuitpython",
+    "wearables",
     "neopixel",
+    "circuitpython",
     "pyportal",
     "iot"
-  ],
-  "adafruit_arcada_gifdecoder": [
-    "adafruit",
-    "programming",
-    "github"
   ],
   "adam-savage": [
     "tool-technique",
     "vacuum-forming",
-    "philosophy",
     "plastic-shaping"
-  ],
-  "adambender": [
-    "info",
-    "lithium",
-    "post"
   ],
   "adapter": [
     "3d-printing",
@@ -309,8 +242,8 @@
   ],
   "add-on": [
     "electronics",
-    "hackaday",
-    "badge"
+    "badge",
+    "hackaday"
   ],
   "additive-manufacturing": [
     "3d-printing",
@@ -345,10 +278,7 @@
     "hot-glue",
     "chart",
     "3d-printing",
-    "electronics"
-  ],
-  "adhesive-guide": [
-    "material-joining"
+    "craft"
   ],
   "adhesive-technique": [
     "hot-glue",
@@ -396,13 +326,9 @@
     "tool-review",
     "mechanics",
     "case",
-    "touchscreen",
     "lcd",
+    "touchscreen",
     "budget"
-  ],
-  "after": [
-    "ammarkalo",
-    "pressure"
   ],
   "aging-effects": [
     "props",
@@ -412,18 +338,18 @@
   ],
   "ai": [
     "robotics",
-    "raspberry-pi",
-    "electronics",
     "diy",
     "tutorial",
+    "electronics",
+    "raspberry-pi",
     "3d-printing",
     "machine-learning",
     "wearables"
   ],
   "ai-arm-kit": [
     "robotics",
-    "learning-platform",
     "legged-motion",
+    "learning-platform",
     "seeed-studio"
   ],
   "ai-generation": [
@@ -495,8 +421,8 @@
     "iot",
     "smart-home",
     "motion-control",
-    "facial-recognition",
     "candy-launcher",
+    "facial-recognition",
     "hand-washing"
   ],
   "algorithm-visualization": [
@@ -517,8 +443,8 @@
   ],
   "aliexpress": [
     "electronics",
-    "shopping",
-    "recommendations"
+    "recommendations",
+    "shopping"
   ],
   "alt-ctrl": [
     "interactive",
@@ -540,25 +466,21 @@
   ],
   "alternatives": [
     "raspberry-pi",
-    "software",
-    "open-source",
-    "resources",
     "single-board-computer"
   ],
   "aluminum": [
-    "design",
     "furniture",
     "metalworking",
+    "design",
     "upcycling",
     "metal",
     "repurposing",
     "wall-art"
   ],
   "aluminum-extrusion": [
-    "design",
     "furniture",
-    "industrial",
-    "structural"
+    "design",
+    "industrial"
   ],
   "amateur-rockets": [
     "rocketry",
@@ -573,18 +495,10 @@
     "music-visualization",
     "smart-speaker"
   ],
-  "ammarkalo": [
-    "after",
-    "pressure"
-  ],
   "amoled": [
     "3d-printing",
     "simulation",
     "speakers"
-  ],
-  "ampere-hour": [
-    "electronics",
-    "teaching"
   ],
   "amphibious-vehicles": [
     "robotics",
@@ -597,10 +511,6 @@
   ],
   "amplifier-design": [
     "audio-electronics"
-  ],
-  "analog": [
-    "3d-printing",
-    "camera"
   ],
   "analog-control": [
     "lighting",
@@ -617,8 +527,8 @@
   ],
   "analog-tech": [
     "kinetic-art",
-    "maker-culture",
     "interactive-installation",
+    "maker-culture",
     "art-theory",
     "design-philosophy",
     "mechanical-systems"
@@ -670,10 +580,10 @@
     "3d-printing",
     "mechanical",
     "robotics",
-    "electronics",
     "led",
-    "stop-motion",
-    "cosplay"
+    "electronics",
+    "cosplay",
+    "sculpture"
   ],
   "animation-history": [
     "vintage",
@@ -741,22 +651,14 @@
     "display",
     "space",
     "github",
-    "radio",
     "time",
+    "radio",
     "real"
   ],
   "app": [
-    "robotics",
     "adafruit",
-    "ai",
     "esp32",
-    "bluetooth",
-    "smartphone"
-  ],
-  "apple-media": [
-    "wireless",
-    "bluetooth",
-    "music-control"
+    "bluetooth"
   ],
   "application": [
     "hot-glue",
@@ -783,8 +685,8 @@
     "adafruit",
     "retro-gaming",
     "game-emulation",
-    "software",
     "display",
+    "software",
     "hardware",
     "library",
     "gif"
@@ -796,37 +698,26 @@
     "woodworking",
     "makecode",
     "wearables",
-    "mechanical",
-    "retro-tech"
+    "retro-tech",
+    "game-design"
   ],
   "arcade-controller": [
     "game-controller",
     "modular"
-  ],
-  "arcade-game": [
-    "esp32",
-    "retro-gaming",
-    "embedded-gamedev",
-    "interactive-electronics"
-  ],
-  "arcade-machine": [
-    "mechanical",
-    "automation",
-    "novelty"
   ],
   "archery": [
     "robotics",
     "computer-vision"
   ],
   "architecture": [
-    "3d-printing",
-    "barcelona",
-    "design",
     "miniature-building",
+    "3d-printing",
     "woodworking",
+    "design",
     "cardboard",
     "home-automation",
-    "foam"
+    "foam",
+    "miniature"
   ],
   "arduboy": [
     "retro-gaming",
@@ -839,8 +730,8 @@
     "robotics",
     "3d-printing",
     "sensor",
-    "wearables",
     "automation",
+    "neopixel",
     "programming"
   ],
   "arduino-compatible": [
@@ -885,8 +776,8 @@
     "robotics",
     "led",
     "kinetic-art",
-    "lighting",
-    "cnc"
+    "3d-printing",
+    "lighting"
   ],
   "art-badge": [
     "soldering"
@@ -902,9 +793,9 @@
     "electronics",
     "processing",
     "kinect",
-    "robotics",
-    "kinetic-art",
-    "music"
+    "lighting",
+    "music",
+    "sculpture"
   ],
   "art-machines": [
     "generative-art",
@@ -920,12 +811,6 @@
   "art-supplies": [
     "markers"
   ],
-  "art-tech": [
-    "camera",
-    "circuit-bending",
-    "electronics-modification",
-    "image-distortion"
-  ],
   "art-theory": [
     "maker-culture",
     "analog-tech",
@@ -933,10 +818,10 @@
   ],
   "art-tool": [
     "3d-printing",
-    "software",
     "cnc",
-    "design-tool",
+    "software",
     "recycling",
+    "design-tool",
     "drawing",
     "plotting",
     "spirograph"
@@ -978,10 +863,6 @@
   "artist-profile": [
     "workshop-tour"
   ],
-  "ascii-art": [
-    "creative-coding",
-    "editor"
-  ],
   "assembly": [
     "electronics",
     "laser-cutting",
@@ -1015,8 +896,8 @@
     "ai",
     "software",
     "open-source",
-    "accessibility",
-    "computer-vision"
+    "computer-vision",
+    "accessibility"
   ],
   "assistive-technology": [
     "wheelchair",
@@ -1028,20 +909,15 @@
     "props",
     "star-wars"
   ],
-  "atari-punk": [
-    "electronics",
-    "music",
-    "synth"
-  ],
   "audio": [
     "electronics",
-    "music",
     "raspberry-pi",
+    "music",
     "adafruit",
-    "led",
     "wearables",
     "sound",
-    "diy"
+    "led",
+    "ai"
   ],
   "audio-electronics": [
     "amplifier-design"
@@ -1142,14 +1018,9 @@
     "arduino",
     "raspberry-pi",
     "mechanical",
-    "cnc",
     "3d-printing",
-    "sensor"
-  ],
-  "automato": [
-    "portfolio",
-    "believe_it_yourself",
-    "farm"
+    "music",
+    "cnc"
   ],
   "automaton": [
     "kinetic-art",
@@ -1166,10 +1037,10 @@
     "3d-printing",
     "sensor",
     "gauge",
-    "robotics",
     "arduino",
     "art",
-    "mechanical-design"
+    "display",
+    "metalworking"
   ],
   "autonomous": [
     "robotics",
@@ -1177,8 +1048,8 @@
     "sensor",
     "esp32",
     "pcb",
-    "bluetooth",
     "machine-learning",
+    "bluetooth",
     "neural-networks"
   ],
   "autonomous-robots": [
@@ -1221,13 +1092,13 @@
   ],
   "badge": [
     "electronics",
-    "sao",
     "wearables",
     "led",
-    "hackaday",
-    "nixie-tubes",
-    "tutorial",
-    "retro-tech"
+    "retro-tech",
+    "display",
+    "microcontroller",
+    "interactive",
+    "retro-gaming"
   ],
   "badgelife": [
     "tracker"
@@ -1271,8 +1142,8 @@
   ],
   "ball-machine": [
     "kinetic-art",
-    "lego",
-    "mechanics"
+    "mechanics",
+    "lego"
   ],
   "ball-run": [
     "sculpture",
@@ -1302,21 +1173,6 @@
     "video",
     "portable",
     "tool-stand"
-  ],
-  "bar": [
-    "3d-printing",
-    "architecture",
-    "barcelona"
-  ],
-  "barcelona": [
-    "3d-printing",
-    "architecture",
-    "woodworking",
-    "design",
-    "metalworking",
-    "makerspace",
-    "industrial",
-    "bar"
   ],
   "bathroom-storage": [
     "3d-printing"
@@ -1361,7 +1217,6 @@
     "wearables",
     "arduino",
     "props",
-    "fashion-tech",
     "back-to-the-future"
   ],
   "bed": [
@@ -1428,11 +1283,6 @@
     "fictional",
     "yourself"
   ],
-  "believe_it_yourself": [
-    "portfolio",
-    "automato",
-    "farm"
-  ],
   "belt": [
     "3d-printing",
     "mechanical",
@@ -1454,7 +1304,6 @@
     "fabrication",
     "epoxy",
     "sheet-metal",
-    "kerf",
     "lamination"
   ],
   "bent-lamination": [
@@ -1473,11 +1322,6 @@
   "beverage": [
     "robotics",
     "automation"
-  ],
-  "beverage-cooling": [
-    "coaster",
-    "heat",
-    "thermal-design"
   ],
   "beverage-dispensing": [
     "raspberry-pi",
@@ -1504,9 +1348,9 @@
     "wearables",
     "gaming",
     "robotics",
-    "music",
     "lighting",
-    "mechanical-design"
+    "mechanical-design",
+    "metalworking"
   ],
   "bike-parts": [
     "recycled-materials"
@@ -1591,8 +1435,8 @@
   ],
   "bits": [
     "tutorial",
-    "switches",
     "vr",
+    "switches",
     "rotary-tools",
     "dremel"
   ],
@@ -1600,10 +1444,6 @@
     "experiments",
     "television",
     "white"
-  ],
-  "blackmageeyes": [
-    "github",
-    "dukeofdummies"
   ],
   "blade-sharpening": [
     "leather-honing",
@@ -1614,14 +1454,14 @@
     "nerf"
   ],
   "ble": [
-    "bluetooth",
     "circuitpython",
-    "keyboard",
-    "hid",
+    "bluetooth",
     "robotics",
     "adafruit",
     "wearables",
-    "music"
+    "music",
+    "microcontroller",
+    "sensor"
   ],
   "ble-beacon": [
     "iot",
@@ -1645,9 +1485,7 @@
   ],
   "blender": [
     "cad",
-    "3d-modeling",
     "geometry-nodes",
-    "procedural-design",
     "procedural-modeling"
   ],
   "blender-software": [
@@ -1675,16 +1513,12 @@
     "origami",
     "mathematics"
   ],
-  "bluepad32": [
-    "controller",
-    "game-hardware"
-  ],
   "bluetooth": [
     "wireless",
-    "ble",
     "led",
     "adafruit",
     "wearables",
+    "ble",
     "music",
     "microcontroller",
     "esp32"
@@ -1713,14 +1547,9 @@
     "wifi",
     "remote-control",
     "watercraft",
-    "diy",
     "adafruit",
+    "diy",
     "fabrication"
-  ],
-  "bonding": [
-    "electronics",
-    "adhesive",
-    "assembly"
   ],
   "bonnet": [
     "raspberry-pi",
@@ -1873,11 +1702,6 @@
     "puppet",
     "movement"
   ],
-  "brick": [
-    "software",
-    "animation",
-    "stop-motion"
-  ],
   "bridges": [
     "3d-printing",
     "support-free"
@@ -1887,24 +1711,11 @@
     "storage",
     "home-organization"
   ],
-  "browser": [
-    "electronics",
-    "circuit",
-    "web-tool"
-  ],
   "browser-based": [
     "automation",
     "lego",
-    "educational",
     "machine",
-    "sorting",
-    "interactive-learning",
-    "semiconductor-electronics",
-    "web-simulator"
-  ],
-  "browser-game": [
-    "interactive",
-    "motion-tracking"
+    "sorting"
   ],
   "brush": [
     "welding"
@@ -1934,10 +1745,6 @@
     "laser-cutting",
     "affordable",
     "roundup"
-  ],
-  "build_grippy": [
-    "projects",
-    "diyodemag"
   ],
   "builder": [
     "woodworking",
@@ -1973,12 +1780,6 @@
     "magic",
     "bitmark",
     "huang"
-  ],
-  "burning": [
-    "music",
-    "corejr",
-    "designing",
-    "soundcloud"
   ],
   "burning-man": [
     "event",
@@ -2040,17 +1841,12 @@
     "diy",
     "workshop-tool",
     "fastening",
-    "wiring",
-    "zip-ties"
+    "wiring"
   ],
   "cable-robots": [
     "robotics",
     "cad",
     "stepper-motors"
-  ],
-  "cable-ties": [
-    "cable-management",
-    "reusable"
   ],
   "cables": [
     "electronics",
@@ -2061,20 +1857,14 @@
     "management"
   ],
   "cad": [
-    "3d-modeling",
     "3d-printing",
+    "3d-modeling",
     "software",
     "design",
     "design-tool",
     "fusion360",
     "tutorial",
     "mechanical-design"
-  ],
-  "cad-modeling": [
-    "robotics",
-    "mechanical-design",
-    "automotive",
-    "ride-on-toy"
   ],
   "cad-software": [
     "electronics",
@@ -2091,21 +1881,20 @@
     "led",
     "circuitpython",
     "programming",
-    "education",
-    "battery"
+    "education"
   ],
   "calendar": [
     "raspberry-pi",
-    "software",
     "display",
+    "software",
     "home-automation",
     "crafting",
     "perpetual"
   ],
   "calibration": [
     "3d-printing",
-    "circuitpython",
     "sensor",
+    "circuitpython",
     "measurement",
     "optimization",
     "first-layer",
@@ -2129,11 +1918,6 @@
     "event",
     "bay-area"
   ],
-  "cam": [
-    "3d-printing",
-    "software",
-    "cad"
-  ],
   "cambridge": [
     "raspberry-pi",
     "retail",
@@ -2144,10 +1928,10 @@
     "photography",
     "robotics",
     "electronics",
-    "3d-printing",
     "mechanical",
     "sensor",
-    "film"
+    "film",
+    "3d-printing"
   ],
   "camera-accessories": [
     "3d-printing",
@@ -2167,8 +1951,6 @@
   ],
   "camera-tracking": [
     "robotics",
-    "3d-scanning",
-    "photogrammetry",
     "mechatronics"
   ],
   "camper-van": [
@@ -2202,16 +1984,11 @@
   ],
   "capacitive-touch": [
     "3d-printing",
-    "electronics",
-    "esp32",
-    "audio",
-    "badge",
-    "sao"
+    "esp32"
   ],
   "capacitor": [
     "electronics",
     "display",
-    "safety",
     "flip-dot",
     "electronics-demo",
     "high-speed-video"
@@ -2259,34 +2036,22 @@
     "game-controller"
   ],
   "cardboard": [
-    "3d-printing",
     "vehicles",
+    "3d-printing",
     "diy",
     "cosplay",
     "craft",
-    "software",
     "cnc",
+    "software",
     "laser-cutting"
-  ],
-  "cardboard-connector": [
-    "3d-printing",
-    "tool-design"
   ],
   "cardboard-frame": [
     "mold-making",
     "concrete"
   ],
-  "cardboard-joinery": [
-    "3d-printing",
-    "fasteners"
-  ],
   "cardboard-mockup": [
-    "prototyping",
-    "foam"
-  ],
-  "cardboard-tools": [
-    "3d-printing",
-    "workshop-tool"
+    "foam",
+    "prototyping"
   ],
   "career": [
     "fabrication"
@@ -2347,13 +2112,13 @@
   ],
   "casting": [
     "resin",
-    "3d-printing",
     "epoxy",
+    "3d-printing",
     "metalworking",
     "toy",
-    "cardboard",
     "production",
-    "soft-vinyl"
+    "soft-vinyl",
+    "robotics"
   ],
   "cat-entertainment": [
     "led",
@@ -2474,8 +2239,8 @@
   ],
   "chat": [
     "circuitpython",
-    "ble",
     "communication",
+    "ble",
     "morse-code"
   ],
   "chatgpt": [
@@ -2511,11 +2276,6 @@
     "kids-workshop",
     "mp3"
   ],
-  "chin": [
-    "files",
-    "2019",
-    "lillych"
-  ],
   "chocolate-sculpting": [
     "food-art"
   ],
@@ -2528,8 +2288,8 @@
     "ornament",
     "3d-printing",
     "electronics",
-    "diy",
     "led",
+    "diy",
     "automation",
     "furniture",
     "wood"
@@ -2560,8 +2320,8 @@
     "led",
     "pcb",
     "manufacturing",
-    "web-tool",
-    "christmas"
+    "christmas",
+    "ornament"
   ],
   "circuit-analysis": [
     "electronics",
@@ -2572,35 +2332,30 @@
     "electronics",
     "toy",
     "microcontroller",
-    "camera",
     "education",
     "hacking",
     "electronics-mod",
-    "reverse-engineering"
+    "reverse-engineering",
+    "cd-player"
   ],
   "circuit-boards": [
-    "electronics",
-    "breadboard",
     "desktop-manufacturing",
-    "pcb-milling",
-    "protoboard"
+    "pcb-milling"
   ],
   "circuit-building": [
     "electronics",
-    "diy",
-    "soldering",
     "open-source",
     "breadboard"
   ],
   "circuit-design": [
     "electronics",
     "robotics",
-    "led",
     "wearables",
     "music",
     "mechanical-design",
-    "sculpture",
-    "pcb"
+    "pcb",
+    "diy-equipment",
+    "badge"
   ],
   "circuit-playground": [
     "music",
@@ -2625,12 +2380,12 @@
   "circuitpython": [
     "adafruit",
     "programming",
-    "electronics",
     "microcontroller",
-    "led",
     "wearables",
+    "led",
     "iot",
-    "neopixel"
+    "education",
+    "electronics"
   ],
   "circuitry": [
     "electronics",
@@ -2750,10 +2505,10 @@
     "3d-printing",
     "robotics",
     "metalworking",
-    "art",
-    "automation",
     "laser-cutting",
-    "drawing"
+    "drawing",
+    "tutorial",
+    "mechanical"
   ],
   "cnc-alternative": [
     "3d-printing",
@@ -2769,11 +2524,7 @@
     "led",
     "neopixel",
     "decoration",
-    "light-effects",
-    "rainbow",
-    "beverage-cooling",
-    "dominikcisar",
-    "heat"
+    "light-effects"
   ],
   "coaster-display": [
     "addressable-rgb",
@@ -2812,10 +2563,10 @@
     "tutorial",
     "raspberry-pi",
     "gaming",
-    "3d-printing",
     "robotics",
     "arduino",
-    "plastic"
+    "pico",
+    "3d-printing"
   ],
   "coffee-grinder": [
     "soundproofing"
@@ -2856,12 +2607,9 @@
     "casting"
   ],
   "collaboration": [
-    "robotics",
     "art",
     "furniture",
-    "open-source",
     "neon-sign",
-    "platform",
     "table-design"
   ],
   "collaborative": [
@@ -2881,22 +2629,17 @@
     "sculpture",
     "manufacturing",
     "aerospace",
-    "switches",
-    "droid"
+    "droid",
+    "switches"
   ],
   "collection": [
     "3d-printing",
     "adafruit",
     "projects",
     "mixed",
-    "thingiverse",
     "ornament",
-    "gallery",
-    "model"
-  ],
-  "collin-lab": [
-    "electronics",
-    "youtube-hashtag"
+    "travel",
+    "thingiverse"
   ],
   "color": [
     "electronics",
@@ -2959,10 +2702,6 @@
     "ble",
     "radio"
   ],
-  "community-event": [
-    "maker-culture",
-    "gift-exchange"
-  ],
   "comparative": [
     "electronics",
     "tool-review",
@@ -2977,11 +2716,6 @@
     "tutorial",
     "soldering",
     "tool-review"
-  ],
-  "compatibility": [
-    "3d-printing",
-    "tutorial",
-    "lego"
   ],
   "competition": [
     "robotics",
@@ -3057,8 +2791,8 @@
   ],
   "computing": [
     "electronics",
-    "diy",
     "led",
+    "diy",
     "wearables",
     "arduino",
     "retro-tech",
@@ -3087,22 +2821,18 @@
   "conference": [
     "electronics",
     "event",
-    "art",
     "game-design",
-    "generative-art",
-    "alt-ctrl",
-    "open-hardware",
-    "talks"
+    "alt-ctrl"
   ],
   "connector": [
     "electronics",
-    "dupont",
     "3d-printing",
     "raspberry-pi",
-    "arduino",
     "mechanical",
-    "soldering",
-    "prototyping"
+    "assembly",
+    "modular",
+    "addressable-rgb",
+    "magnetic"
   ],
   "conservation": [
     "art",
@@ -3117,8 +2847,8 @@
     "jewelry"
   ],
   "constraints": [
-    "problem-solving",
-    "design-methodology"
+    "design-methodology",
+    "problem-solving"
   ],
   "construction": [
     "building",
@@ -3129,10 +2859,6 @@
     "metalworking",
     "scale-model",
     "droid"
-  ],
-  "construction-blocks": [
-    "3d-printing",
-    "interlocking"
   ],
   "construction-toy": [
     "cardboard",
@@ -3150,11 +2876,6 @@
     "diy",
     "channel"
   ],
-  "content-creation": [
-    "youtube-channel",
-    "electronics-engineering",
-    "tutorial-series"
-  ],
   "content-preview": [
     "magazine",
     "make-magazine"
@@ -3165,8 +2886,8 @@
     "mechanical",
     "art",
     "soldering",
-    "design",
     "furniture",
+    "design",
     "sculpture"
   ],
   "continuous": [
@@ -3184,8 +2905,8 @@
     "crafting",
     "vintage",
     "mechanical-art",
-    "optical-illusion",
-    "marble-run"
+    "marble-run",
+    "optical-illusion"
   ],
   "control-circuits": [
     "electronics",
@@ -3226,9 +2947,9 @@
     "alt-ctrl",
     "electronics",
     "robotics",
-    "software",
     "wearables",
-    "raspberry-pi"
+    "raspberry-pi",
+    "servo-motors"
   ],
   "conversion": [
     "mechanics",
@@ -3238,11 +2959,6 @@
     "your",
     "wearables",
     "game-design"
-  ],
-  "cookie-cutter": [
-    "3d-printing",
-    "easter-crafts",
-    "seasonal-projects"
   ],
   "cooking": [
     "robotics",
@@ -3258,15 +2974,14 @@
   ],
   "cooking-gadgets": [
     "instructables",
-    "kitchen-tools",
     "utensil-design",
+    "kitchen-tools",
     "multi-function-tool"
   ],
   "cool-tools": [
     "adafruit",
     "podcast",
-    "interview",
-    "tool-review"
+    "interview"
   ],
   "cooling": [
     "electronics",
@@ -3279,11 +2994,6 @@
     "evaporative-cooling",
     "foam-fog-effects",
     "special-effects-engineering"
-  ],
-  "coordination": [
-    "robotics",
-    "esp32",
-    "swarm"
   ],
   "copper": [
     "electronics",
@@ -3303,28 +3013,6 @@
   "cordless": [
     "power-tools",
     "heat-gun"
-  ],
-  "core77": [
-    "design",
-    "product-design"
-  ],
-  "coregeeknet": [
-    "twitter",
-    "status",
-    "1163509773142130688"
-  ],
-  "corejr": [
-    "music",
-    "burning",
-    "designing",
-    "soundcloud"
-  ],
-  "corexy": [
-    "art",
-    "furniture",
-    "kinetic",
-    "magnets",
-    "sand-table"
   ],
   "corner-rounding": [
     "spray-paint",
@@ -3375,12 +3063,6 @@
     "time",
     "election"
   ],
-  "counter": [
-    "automation",
-    "iot",
-    "sensor",
-    "vehicles"
-  ],
   "counter-device": [
     "electronics",
     "mechanical"
@@ -3397,8 +3079,8 @@
     "electronics",
     "diy",
     "tutorial",
-    "fabric",
-    "sewing"
+    "sewing",
+    "fabric"
   ],
   "covid-themed": [
     "craft",
@@ -3472,11 +3154,11 @@
     "software",
     "generative-art",
     "visualization",
-    "ascii-art",
     "art",
     "machine-learning",
     "textile",
-    "editor"
+    "algorithmic",
+    "interactive-fun"
   ],
   "creative-designs": [
     "3d-printing",
@@ -3511,10 +3193,7 @@
     "keyboard-matrix-decoding"
   ],
   "creative-tools": [
-    "music",
-    "art",
     "game",
-    "oblique-strategies",
     "brainstorming",
     "ideation"
   ],
@@ -3535,11 +3214,6 @@
   "creators": [
     "documentation",
     "maker-culture"
-  ],
-  "creature": [
-    "animatronics",
-    "sculpture",
-    "led-eyes"
   ],
   "crickit": [
     "adafruit",
@@ -3564,12 +3238,6 @@
   "crimping-tools": [
     "electronics",
     "connector"
-  ],
-  "crochet": [
-    "3d-printing",
-    "fiber-art",
-    "textile-design",
-    "hybrid-crafting"
   ],
   "cross": [
     "time",
@@ -3649,8 +3317,8 @@
   "cura": [
     "3d-printing",
     "slicing-software",
-    "slicing",
     "advanced-techniques",
+    "slicing",
     "plugin-software"
   ],
   "cura-review": [
@@ -3751,8 +3419,8 @@
   ],
   "customization": [
     "3d-printing",
-    "diy",
     "led",
+    "diy",
     "wearables",
     "furniture",
     "neopixel",
@@ -3761,13 +3429,13 @@
   ],
   "cutting": [
     "tool-review",
-    "metalworking",
-    "hand-tools",
     "precision",
-    "plastic",
+    "metalworking",
     "cardboard",
-    "metal",
-    "hardware"
+    "hardware",
+    "rotary-tools",
+    "knives",
+    "hobby-tools"
   ],
   "cutting-machine": [
     "scan-and-cut"
@@ -3858,8 +3526,8 @@
     "adafruit",
     "raspberry-pi",
     "home-automation",
-    "bluetooth",
     "smart-home",
+    "bluetooth",
     "automotive"
   ],
   "data": [
@@ -3873,8 +3541,8 @@
   "data-art": [
     "art",
     "interactive",
-    "radio",
-    "visualization"
+    "visualization",
+    "radio"
   ],
   "data-display": [
     "adafruit",
@@ -3911,15 +3579,6 @@
   "date": [
     "event"
   ],
-  "dc-motor": [
-    "motors",
-    "electrical-motors"
-  ],
-  "deadbolt": [
-    "3d-printing",
-    "tutorial",
-    "accessibility"
-  ],
   "debatable": [
     "instructables",
     "deliberator"
@@ -3929,13 +3588,13 @@
   ],
   "decoration": [
     "3d-printing",
-    "lighting",
     "led",
-    "art",
+    "lighting",
     "electronics",
     "kinetic-art",
-    "craft",
-    "animatronics"
+    "art",
+    "animatronics",
+    "neopixel"
   ],
   "decorative": [
     "lighting",
@@ -4005,13 +3664,13 @@
   ],
   "design": [
     "3d-printing",
-    "software",
     "cad",
+    "software",
     "electronics",
     "furniture",
     "robotics",
-    "art",
-    "engineering"
+    "led",
+    "mechanical"
   ],
   "design-approach": [
     "creative-process",
@@ -4021,11 +3680,6 @@
   "design-asset": [
     "emoji",
     "svg-graphics"
-  ],
-  "design-competition": [
-    "3d-printing",
-    "easter-contest",
-    "seasonal-making"
   ],
   "design-contest": [
     "3d-printing",
@@ -4052,8 +3706,8 @@
     "thrift-store-makeover"
   ],
   "design-methodology": [
-    "problem-solving",
-    "constraints"
+    "constraints",
+    "problem-solving"
   ],
   "design-philosophy": [
     "maker-culture",
@@ -4070,24 +3724,20 @@
     "prototyping",
     "sketching"
   ],
-  "design-reference": [
-    "wearables",
-    "pattern-book"
-  ],
   "design-software": [
     "electronics",
     "robotics",
     "wearables",
-    "cnc",
-    "laser-cutting",
     "fabric",
     "pcb",
-    "manufacturing"
+    "motion",
+    "front-panel",
+    "e-textile"
   ],
   "design-studio": [
     "installation",
-    "product-design",
     "kinetic-sculpture",
+    "product-design",
     "technical-art"
   ],
   "design-technique": [
@@ -4098,10 +3748,10 @@
   "design-tool": [
     "cad",
     "software",
-    "laser-cutting",
     "3d-printing",
     "electronics",
     "ai",
+    "laser-cutting",
     "woodworking",
     "music"
   ],
@@ -4116,12 +3766,6 @@
     "cad",
     "calipers"
   ],
-  "designing": [
-    "music",
-    "burning",
-    "corejr",
-    "soundcloud"
-  ],
   "desk-toy": [
     "3d-printing",
     "mechanical",
@@ -4131,11 +3775,6 @@
   "desktop-manufacturing": [
     "circuit-boards",
     "pcb-milling"
-  ],
-  "desktop-terminal": [
-    "raspberry-pi",
-    "interactive-display",
-    "severance-fan-art"
   ],
   "desktop-tool": [
     "laser-cutting",
@@ -4169,10 +3808,6 @@
     "smart-home",
     "diy-robotics"
   ],
-  "dewi-brunet": [
-    "design",
-    "origami"
-  ],
   "dial": [
     "input-device",
     "usb",
@@ -4203,9 +3838,7 @@
     "sheets"
   ],
   "digikey": [
-    "electronics",
-    "lighting",
-    "fasteners"
+    "electronics"
   ],
   "digital": [
     "camera",
@@ -4213,10 +3846,9 @@
   ],
   "digital-archiving": [
     "retro-tech",
-    "mac-software",
-    "open-access",
     "emulation",
-    "software-preservation"
+    "mac-software",
+    "open-access"
   ],
   "digital-art": [
     "projection-mapping"
@@ -4225,11 +3857,6 @@
     "electronics",
     "automotive",
     "gauge"
-  ],
-  "digital-fabrication": [
-    "makerspace",
-    "fablab",
-    "equipment"
   ],
   "digital-minimalism": [
     "diy",
@@ -4266,10 +3893,6 @@
     "switch",
     "illuminated"
   ],
-  "din-rail": [
-    "3d-printing",
-    "workshop-accessory"
-  ],
   "diorama": [
     "miniature",
     "book-nook",
@@ -4278,7 +3901,7 @@
     "lighting",
     "art",
     "animation",
-    "laser-cutting"
+    "sculpture"
   ],
   "direct-drive-printer": [
     "3d-printing"
@@ -4295,15 +3918,8 @@
     "toy",
     "launcher"
   ],
-  "disco-ball": [
-    "lighting",
-    "art",
-    "craft",
-    "decoration"
-  ],
   "discord": [
-    "adafruit",
-    "online-platform"
+    "adafruit"
   ],
   "disney": [
     "design",
@@ -4325,11 +3941,11 @@
     "electronics",
     "led",
     "clock",
-    "adafruit",
     "raspberry-pi",
     "gaming",
     "esp32",
-    "3d-printing"
+    "3d-printing",
+    "adafruit"
   ],
   "display-art": [
     "electronics",
@@ -4384,11 +4000,11 @@
     "robotics",
     "instructables",
     "maker",
-    "electronics",
-    "raspberry-pi",
     "ai",
-    "tutorial",
-    "3d-printing"
+    "electronics",
+    "3d-printing",
+    "raspberry-pi",
+    "tutorial"
   ],
   "diy-accessory": [
     "3d-printing",
@@ -4434,8 +4050,8 @@
     "gaming",
     "microcontroller",
     "circuitpython",
-    "open-source",
-    "controller"
+    "controller",
+    "open-source"
   ],
   "diy-equipment": [
     "3d-printing",
@@ -4556,12 +4172,6 @@
     "fruit-electronics",
     "random-number"
   ],
-  "diy-simulator": [
-    "robotics",
-    "flight-simulation",
-    "mechanical-platform",
-    "motion-simulation"
-  ],
   "diy-storage": [
     "furniture",
     "cup-holder"
@@ -4585,11 +4195,8 @@
     "soldering",
     "organization",
     "magnetic",
-    "electronics-tools",
-    "vacuum-forming"
-  ],
-  "diy-tutorial": [
-    "crafting"
+    "vacuum-forming",
+    "clamp"
   ],
   "diy-upgrade": [
     "optics",
@@ -4609,10 +4216,6 @@
     "electronics",
     "soldering",
     "mobile"
-  ],
-  "diyodemag": [
-    "projects",
-    "build_grippy"
   ],
   "dmx-control": [
     "open-source",
@@ -4640,9 +4243,9 @@
     "toy",
     "hacking",
     "repair",
-    "maker-culture",
     "maker-projects",
-    "resources"
+    "maker-culture",
+    "patreon"
   ],
   "dog": [
     "led",
@@ -4659,24 +4262,10 @@
     "optimization",
     "geometry"
   ],
-  "dominikcisar": [
-    "coaster",
-    "rainbow",
-    "roller"
-  ],
   "domino-machine": [
     "robotics",
     "automation",
     "programmable"
-  ],
-  "door-pull": [
-    "3d-printing",
-    "tutorial",
-    "accessibility"
-  ],
-  "doorbell": [
-    "arduino",
-    "wireless"
   ],
   "dowel": [
     "woodworking",
@@ -4693,21 +4282,14 @@
     "organizer"
   ],
   "drawing": [
-    "plotter",
     "cnc",
+    "plotter",
     "robotics",
     "software",
     "iot",
     "plotting",
-    "meetup",
-    "3d-printing"
-  ],
-  "drawing-automation": [
-    "software",
-    "cnc",
-    "open-source",
-    "generative-art",
-    "vector-graphics"
+    "3d-printing",
+    "mechanical"
   ],
   "drawing-machine": [
     "robotics",
@@ -4809,11 +4391,9 @@
   ],
   "driver": [
     "electronics",
-    "robotics",
     "led",
     "neopixel",
-    "prototyping",
-    "stepper-motors"
+    "prototyping"
   ],
   "droid": [
     "props",
@@ -4840,15 +4420,9 @@
     "diy",
     "piezo"
   ],
-  "dukeofdummies": [
-    "github",
-    "blackmageeyes"
-  ],
   "dupont": [
-    "connector",
     "electronics",
-    "3d-printing",
-    "arduino",
+    "connector",
     "wire-management"
   ],
   "durable": [
@@ -4912,20 +4486,6 @@
     "sculpture",
     "upcycling"
   ],
-  "easter-automation": [
-    "3d-printing",
-    "egg-decoration"
-  ],
-  "easter-contest": [
-    "3d-printing",
-    "design-competition",
-    "seasonal-making"
-  ],
-  "easter-crafts": [
-    "3d-printing",
-    "cookie-cutter",
-    "seasonal-projects"
-  ],
   "easter-egg": [
     "3d-printing",
     "storage",
@@ -4954,10 +4514,8 @@
   "editor": [
     "circuitpython",
     "programming",
-    "creative-coding",
     "phone",
-    "mobile",
-    "ascii-art"
+    "mobile"
   ],
   "edm": [
     "cnc",
@@ -4971,18 +4529,14 @@
     "adafruit",
     "design",
     "arduino",
-    "mechanical",
-    "microcontroller"
+    "microcontroller",
+    "board"
   ],
   "educational": [
     "3d-printing",
     "electronics",
     "arduino",
-    "cnc",
-    "instructables",
-    "physics",
-    "mechanical-engineering",
-    "simple-machines"
+    "cnc"
   ],
   "educational-resources": [
     "book",
@@ -4999,10 +4553,6 @@
     "synthesizer",
     "diy-machine"
   ],
-  "egg-decoration": [
-    "3d-printing",
-    "easter-automation"
-  ],
   "egg-sorting": [
     "mechanical",
     "automation",
@@ -5011,8 +4561,8 @@
   "el-wire": [
     "electronics",
     "lighting",
-    "diy",
     "led",
+    "diy",
     "clock",
     "education",
     "teardown",
@@ -5035,13 +4585,13 @@
   ],
   "electric": [
     "mechanical",
-    "music",
-    "vehicles",
     "pets",
     "boat",
     "skateboard",
     "custom-hardware",
-    "watercraft"
+    "watercraft",
+    "vehicle-modification",
+    "funny"
   ],
   "electric-motor": [
     "diy",
@@ -5059,10 +4609,6 @@
   "electrical": [
     "connector",
     "wire-connections"
-  ],
-  "electrical-motors": [
-    "motors",
-    "dc-motor"
   ],
   "electrical-organization": [
     "rack-mount"
@@ -5108,12 +4654,7 @@
     "midi",
     "pico"
   ],
-  "electronic-performance": [
-    "music"
-  ],
   "electronic-sculpture": [
-    "kinetic-art",
-    "synthesizer",
     "telephone",
     "unconventional"
   ],
@@ -5134,22 +4675,14 @@
   ],
   "electronics-assembly": [
     "soldering",
-    "automation",
     "led",
-    "tool-review",
-    "hand-tools",
+    "automation",
     "fixture",
-    "wire-stripping",
     "wire-joining"
   ],
   "electronics-demo": [
     "capacitor",
     "high-speed-video"
-  ],
-  "electronics-engineering": [
-    "youtube-channel",
-    "content-creation",
-    "tutorial-series"
   ],
   "electronics-kits": [
     "resistors"
@@ -5161,16 +4694,12 @@
     "battery",
     "retro-gaming",
     "vintage",
-    "circuit-bending",
-    "restoration"
+    "restoration",
+    "circuit-bending"
   ],
   "electronics-modification": [
-    "camera",
-    "circuit-bending",
     "humor-engineering",
-    "art-tech",
     "cooking-automation",
-    "image-distortion",
     "microwave-hacking"
   ],
   "electronics-organization": [
@@ -5186,9 +4715,7 @@
   "electronics-tools": [
     "tool-review",
     "diy-tools",
-    "flush-cutter",
     "portable-tool",
-    "purchasing",
     "soldering-accessory",
     "soldering-equipment",
     "soldering-station"
@@ -5212,23 +4739,9 @@
     "finishing",
     "etching"
   ],
-  "elements": [
-    "science",
-    "periodic-table"
-  ],
-  "ellipse": [
-    "woodworking",
-    "kerf"
-  ],
   "embedded": [
     "hacking",
     "flipper-zero"
-  ],
-  "embedded-gamedev": [
-    "esp32",
-    "retro-gaming",
-    "arcade-game",
-    "interactive-electronics"
   ],
   "embedded-motion": [
     "3d-printing",
@@ -5256,11 +4769,6 @@
   ],
   "emergency": [
     "cutting"
-  ],
-  "emg": [
-    "wearables",
-    "arduino",
-    "muscle-sensor"
   ],
   "emg-sensor": [
     "electronics",
@@ -5329,32 +4837,28 @@
     "steam"
   ],
   "engineering": [
-    "mechanical-design",
     "robotics",
-    "design",
-    "mechanism",
+    "mechanical-design",
     "electronics",
     "mechanical",
+    "design",
+    "mechanism",
     "3d-printing",
     "props"
-  ],
-  "engineering-education": [
-    "khan-academy",
-    "free-course"
   ],
   "engineering-methodology": [
     "reverse-engineering",
     "learning-methods"
   ],
   "engraving": [
-    "laser-cutting",
     "metal",
+    "laser-cutting",
     "workshop-tool",
     "machining",
-    "lettering",
-    "glass",
     "finishing-techniques",
-    "pneumatics"
+    "glass",
+    "pneumatics",
+    "pneumatic-tools"
   ],
   "entertainment": [
     "electronics",
@@ -5418,11 +4922,6 @@
     "plastic",
     "bending"
   ],
-  "equipment": [
-    "makerspace",
-    "fablab",
-    "digital-fabrication"
-  ],
   "equipment-build": [
     "3d-printing",
     "resin",
@@ -5442,12 +4941,6 @@
     "input",
     "comfort-engineering"
   ],
-  "erhu": [
-    "music",
-    "electric",
-    "hybrid",
-    "string-instrument"
-  ],
   "escape-room": [
     "props",
     "electronics",
@@ -5459,14 +4952,14 @@
     "weathering-techniques"
   ],
   "esp32": [
-    "robotics",
-    "electronics",
     "coding",
+    "robotics",
     "display",
     "iot",
-    "microcontroller",
     "3d-printing",
-    "raspberry-pi"
+    "electronics",
+    "raspberry-pi",
+    "tutorial"
   ],
   "esp32-microcontroller": [
     "electronics",
@@ -5522,10 +5015,10 @@
     "episode",
     "date",
     "schedule",
-    "festival",
-    "music",
-    "art",
-    "conference"
+    "challenge",
+    "electronics",
+    "robotics",
+    "art"
   ],
   "event-calendar": [
     "maker-community",
@@ -5535,9 +5028,6 @@
     "laser-cutting",
     "card-design",
     "personalization"
-  ],
-  "event-registration": [
-    "form"
   ],
   "everyday-carry": [
     "3d-printing",
@@ -5641,12 +5131,6 @@
     "clamp",
     "tool-modification"
   ],
-  "fablab": [
-    "makerspace",
-    "digital-fabrication",
-    "equipment",
-    "locator"
-  ],
   "fabric": [
     "sewing",
     "3d-printing",
@@ -5698,8 +5182,8 @@
   ],
   "face-mask": [
     "tutorial",
-    "fabric",
     "sewing",
+    "fabric",
     "covid-19"
   ],
   "face-shield": [
@@ -5707,19 +5191,11 @@
     "medical",
     "protective-equipment"
   ],
-  "facebook": [
-    "video",
-    "10155863888510146",
-    "gigapanner"
-  ],
   "facial-recognition": [
     "robotics",
-    "automation",
     "motion-control",
-    "launcher",
     "alexa",
-    "candy-launcher",
-    "opencv"
+    "candy-launcher"
   ],
   "fadecandy": [
     "led",
@@ -5738,14 +5214,14 @@
     "design-flaws"
   ],
   "fairy": [
-    "decoration",
     "miniature",
+    "decoration",
     "lantern",
     "led-craft"
   ],
   "fallout": [
-    "music",
     "cosplay",
+    "music",
     "props",
     "guitar"
   ],
@@ -5768,11 +5244,6 @@
     "linux",
     "pico-8"
   ],
-  "farm": [
-    "portfolio",
-    "automato",
-    "believe_it_yourself"
-  ],
   "fashion": [
     "wearables",
     "sewing",
@@ -5788,19 +5259,18 @@
     "robotics",
     "led",
     "computing",
-    "bci",
     "environmental-sensing",
     "serving-robot"
   ],
   "fasteners": [
     "metalworking",
-    "3d-printing",
     "tool-review",
-    "hardware",
-    "electronics",
+    "3d-printing",
     "fabric",
+    "hardware",
     "workshop-tool",
-    "repair"
+    "repair",
+    "tool-design"
   ],
   "fastening": [
     "3d-printing",
@@ -5819,12 +5289,6 @@
     "drone",
     "racing"
   ],
-  "fastled": [
-    "led",
-    "software",
-    "library",
-    "mapping"
-  ],
   "fastled-library": [
     "arduino",
     "esp32",
@@ -5841,11 +5305,6 @@
     "adafruit",
     "microcontroller",
     "grove"
-  ],
-  "feature": [
-    "youtube",
-    "watch",
-    "n2rzryrapyi"
   ],
   "featured": [
     "video",
@@ -5872,14 +5331,14 @@
     "music-visual"
   ],
   "festival": [
-    "event",
     "led",
     "wearables",
-    "music",
     "lighting",
     "art",
+    "event",
     "neopixel",
-    "vehicles"
+    "vehicles",
+    "performance"
   ],
   "festival-fashion": [
     "animation",
@@ -5890,11 +5349,10 @@
     "craftsmanship",
     "embroidery",
     "zodiac",
-    "3d-printing",
     "portrait",
-    "textile-design",
-    "crochet",
-    "hybrid-crafting"
+    "rug-tufting",
+    "textile-craft",
+    "thread-art"
   ],
   "fiber-crafts": [
     "textile-arts",
@@ -5923,15 +5381,6 @@
   "fidget-toy": [
     "3d-printing",
     "automotive"
-  ],
-  "figma": [
-    "iot",
-    "interactive",
-    "hardware",
-    "design-tool",
-    "prototyping",
-    "web-tool",
-    "proxy"
   ],
   "figure-art": [
     "sculpture",
@@ -5963,17 +5412,13 @@
     "metalworking"
   ],
   "files": [
-    "3d-printing",
-    "2019",
-    "chin",
-    "lillych"
+    "3d-printing"
   ],
   "film": [
     "camera",
     "3d-printing",
-    "mechanical-design",
     "animation",
-    "instructables",
+    "mechanical-design",
     "miniature",
     "3d-graphics",
     "cinema"
@@ -6024,19 +5469,19 @@
   "finishing": [
     "3d-printing",
     "woodworking",
-    "metal",
     "painting",
     "spray-paint",
     "post-processing",
     "metalworking",
-    "hand-tools"
+    "metal",
+    "paint"
   ],
   "finishing-techniques": [
     "cosplay",
     "props",
     "metalworking",
-    "laser-cutting",
     "wood",
+    "laser-cutting",
     "metal",
     "engraving",
     "sanding"
@@ -6061,15 +5506,6 @@
     "led-strip",
     "addressable",
     "wokwi"
-  ],
-  "firmware": [
-    "electronics",
-    "led",
-    "esp32",
-    "open-source",
-    "github",
-    "embedded-systems",
-    "led-matrix"
   ],
   "first-layer": [
     "3d-printing",
@@ -6112,8 +5548,8 @@
     "soldering",
     "fabrication",
     "welding",
-    "assembly",
     "workbench",
+    "assembly",
     "jig",
     "metal-fabrication"
   ],
@@ -6145,8 +5581,8 @@
   ],
   "flexible-filament": [
     "3d-printing",
-    "jewelry",
-    "fashion"
+    "fashion",
+    "jewelry"
   ],
   "flexible-material": [
     "3d-printing"
@@ -6162,11 +5598,9 @@
   ],
   "flexure": [
     "3d-printing",
-    "kinetic-art",
     "mechanical",
     "engineering",
-    "mechanism",
-    "mechanical-engineering"
+    "mechanism"
   ],
   "flexure-joint": [
     "3d-printing",
@@ -6179,12 +5613,6 @@
   "flight": [
     "toy",
     "papercraft"
-  ],
-  "flight-simulation": [
-    "robotics",
-    "diy-simulator",
-    "mechanical-platform",
-    "motion-simulation"
   ],
   "flip-clock": [
     "electronics",
@@ -6275,10 +5703,6 @@
     "diy-equipment",
     "pump"
   ],
-  "flush-cutter": [
-    "electronics-tools",
-    "purchasing"
-  ],
   "flying": [
     "robotics",
     "arduino",
@@ -6310,8 +5734,8 @@
     "cosplay",
     "adafruit",
     "craft",
-    "fabric",
     "sewing",
+    "fabric",
     "3d-printing",
     "arduino"
   ],
@@ -6352,14 +5776,9 @@
     "halloween",
     "cauldron"
   ],
-  "foldable": [
-    "open-source",
-    "textile",
-    "weaving"
-  ],
   "fona": [
-    "circuitpython",
     "sensor",
+    "circuitpython",
     "mobile",
     "sms"
   ],
@@ -6444,15 +5863,6 @@
     "3d-printing",
     "industry-trends"
   ],
-  "form": [
-    "event",
-    "event-registration",
-    "survey"
-  ],
-  "formlabs": [
-    "3d-printing",
-    "software"
-  ],
   "formula-1": [
     "open-source",
     "data",
@@ -6516,10 +5926,6 @@
     "software",
     "cad",
     "onshape"
-  ],
-  "free-course": [
-    "khan-academy",
-    "engineering-education"
   ],
   "freecad": [
     "cad",
@@ -6607,12 +6013,12 @@
   "fusion": [
     "retro-tech",
     "gaming",
-    "3d-printing",
     "tutorial",
-    "plastic",
-    "coding",
+    "3d-printing",
     "electronics",
-    "diy"
+    "raspberry-pi",
+    "ai",
+    "plastic"
   ],
   "fusion360": [
     "cad",
@@ -6621,8 +6027,8 @@
     "tutorial",
     "cosplay",
     "props",
-    "design",
-    "animation"
+    "animation",
+    "design"
   ],
   "futility": [
     "smart-home",
@@ -6631,9 +6037,7 @@
   "gadgets": [
     "3d-printing",
     "electronics",
-    "kitchen-tools",
-    "fun",
-    "randomizer"
+    "fun"
   ],
   "gaffer": [
     "tool-review",
@@ -6646,13 +6050,6 @@
     "tool-review",
     "strong",
     "wide"
-  ],
-  "gallery": [
-    "3d-printing",
-    "collection",
-    "imgur",
-    "model",
-    "t5n8g5l"
   ],
   "galvanizing": [
     "metal",
@@ -6694,28 +6091,24 @@
     "animation",
     "gaming",
     "vr",
-    "haptics",
     "modular",
+    "haptics",
     "musical-instrument"
   ],
   "game-design": [
-    "adafruit",
     "wearables",
     "arcade",
     "puzzle",
     "pinball",
     "3d-printing",
     "electronics",
-    "led"
+    "led",
+    "adafruit"
   ],
   "game-dev": [
-    "arduino",
-    "motion-control",
     "game-mechanics",
-    "indie-game",
     "puzzle-game",
-    "tetris",
-    "unreal-engine"
+    "tetris"
   ],
   "game-development": [
     "arcade",
@@ -6740,17 +6133,13 @@
     "gamebuino"
   ],
   "game-engine": [],
-  "game-hardware": [
-    "controller",
-    "bluepad32"
-  ],
   "game-mechanics": [
     "electronics",
     "3d-printing",
     "collectible",
-    "game-dev",
     "cube",
     "dice-roller",
+    "game-dev",
     "laser-tag",
     "puzzle-game"
   ],
@@ -6771,28 +6160,21 @@
   ],
   "game-tech": [
     "electronics",
-    "raspberry-pi",
     "ai",
     "interactive",
-    "chess",
-    "ocr"
+    "chess"
   ],
   "gamebuino": [
     "retro-gaming",
     "arcada",
     "game-emulation"
   ],
-  "gamelan": [
-    "music",
-    "bike",
-    "percussion"
-  ],
   "gamepad": [
     "electronics",
     "adafruit",
     "gaming",
-    "open-source",
     "pcb",
+    "open-source",
     "input-device",
     "pybadge",
     "breakout-board"
@@ -6803,8 +6185,8 @@
   ],
   "gaming": [
     "electronics",
-    "retro-tech",
     "3d-printing",
+    "retro-tech",
     "pla",
     "raspberry-pi",
     "display",
@@ -6839,12 +6221,10 @@
     "hidden-feature"
   ],
   "gaming-themed": [
-    "3d-printing",
     "led",
     "cosplay",
     "props",
-    "sword",
-    "timer-gadget"
+    "sword"
   ],
   "garbage": [
     "adafruit",
@@ -6869,8 +6249,8 @@
     "3d-printing",
     "iot",
     "sensor",
-    "diy",
     "adafruit",
+    "diy",
     "arduino",
     "woodworking",
     "lighting"
@@ -6896,10 +6276,9 @@
   ],
   "gcode": [
     "3d-printing",
-    "software",
-    "cnc",
     "automation",
-    "controls",
+    "cnc",
+    "software",
     "graphics",
     "web-app",
     "software-tools"
@@ -6924,8 +6303,8 @@
     "tutorial",
     "cad",
     "mechanism",
-    "design",
-    "cnc"
+    "cnc",
+    "animation"
   ],
   "gel-filters": [
     "led",
@@ -6937,12 +6316,6 @@
     "adhesive",
     "hot-glue"
   ],
-  "general-purpose": [
-    "tool-review",
-    "plastic",
-    "hand-tools",
-    "cutting"
-  ],
   "generative": [
     "music",
     "ai",
@@ -6952,27 +6325,18 @@
   ],
   "generative-art": [
     "software",
-    "art",
     "robotics",
     "ai",
+    "art",
     "visualization",
     "creative-coding",
     "led",
     "arduino"
   ],
-  "generative-design": [
-    "web-tool",
-    "voronoi"
-  ],
   "generative-music": [
     "ai",
     "audio",
     "collaborative"
-  ],
-  "generator": [
-    "puzzle",
-    "web-tool",
-    "jigsaw"
   ],
   "geneva": [
     "animation",
@@ -7078,18 +6442,9 @@
     "crank-powered",
     "portable-device"
   ],
-  "gift-exchange": [
-    "maker-culture",
-    "community-event"
-  ],
   "gift-guide": [
     "maker-projects",
     "youtube-video"
-  ],
-  "gigapanner": [
-    "video",
-    "10155863888510146",
-    "facebook"
   ],
   "gilding": [
     "repair",
@@ -7110,14 +6465,14 @@
     "mapping"
   ],
   "github": [
-    "software",
-    "adafruit",
-    "raspberry-pi",
     "processing",
     "examples",
-    "electronics",
     "robotics",
-    "led"
+    "adafruit",
+    "raspberry-pi",
+    "art",
+    "display",
+    "software"
   ],
   "glados": [
     "props",
@@ -7126,10 +6481,10 @@
     "voice-synthesis"
   ],
   "glass": [
-    "laser-cutting",
-    "optics",
     "ai",
     "retro-tech",
+    "laser-cutting",
+    "optics",
     "machining",
     "engraving",
     "oil-can",
@@ -7196,13 +6551,10 @@
     "adhesive"
   ],
   "go-kart": [
-    "3d-printing",
     "robotics",
-    "mechanical-design",
     "mechanics",
     "crowdfunding",
-    "diy-vehicle",
-    "large-format"
+    "diy-vehicle"
   ],
   "goggles": [
     "cosplay",
@@ -7227,9 +6579,6 @@
     "led",
     "arduino",
     "iot"
-  ],
-  "google-docs": [
-    "documentation"
   ],
   "google-home": [
     "automation",
@@ -7258,7 +6607,7 @@
     "iot",
     "audio",
     "drone",
-    "radio"
+    "technology"
   ],
   "gradient": [
     "3d-printing",
@@ -7285,12 +6634,12 @@
   "graphics": [
     "software",
     "web-app",
-    "retro-tech",
-    "design",
     "cnc",
+    "design",
     "microcontroller",
     "led-display",
-    "pixel-art"
+    "gcode",
+    "pattern-generation"
   ],
   "grass-cutting": [
     "automation",
@@ -7315,17 +6664,13 @@
     "kinetic-art",
     "mechanical-motion",
     "perpetual-motion",
-    "rainbow",
-    "ball-run"
+    "ball-run",
+    "rainbow"
   ],
   "green-screen": [
     "special-effects",
     "filming",
     "vfx"
-  ],
-  "greeting": [
-    "announcement",
-    "year-transition"
   ],
   "greeting-card": [
     "electronics",
@@ -7338,27 +6683,17 @@
     "rc-vehicle",
     "explosive-prop"
   ],
-  "grid-based-design": [
-    "3d-printing",
-    "gridfinity",
-    "modular-storage",
-    "organization-system"
-  ],
   "gridfinity": [
     "3d-printing",
     "storage",
     "organization",
     "modular-design",
-    "storage-organization",
-    "grid-based-design",
-    "modular-storage",
-    "organization-system"
+    "storage-organization"
   ],
   "grinding": [
     "hand-tools",
     "finishing",
-    "metal",
-    "woodworking"
+    "metal"
   ],
   "grip-design": [
     "3d-printing",
@@ -7387,14 +6722,6 @@
     "wireless",
     "feather"
   ],
-  "gta": [
-    "radio",
-    "transmitter"
-  ],
-  "guerilla-beam": [
-    "3d-printing",
-    "structure"
-  ],
   "guitar": [
     "music",
     "led",
@@ -7421,19 +6748,13 @@
     "magnetometer",
     "sensor-calibration"
   ],
-  "h-bridge": [
-    "electronics",
-    "motor-control"
-  ],
   "hackaday": [
     "electronics",
-    "badge",
     "music",
     "programming",
-    "sao",
-    "163565",
+    "badge",
     "add-on",
-    "lissajukebox"
+    "take"
   ],
   "hacking": [
     "electronics",
@@ -7462,17 +6783,12 @@
   ],
   "hair-washing": [
     "toy",
-    "product",
-    "children"
+    "children",
+    "product"
   ],
   "hairstyle": [
     "led",
     "wearables"
-  ],
-  "halftone": [
-    "laser-cutting",
-    "engraving",
-    "image-processing"
   ],
   "halloween": [
     "props",
@@ -7529,12 +6845,12 @@
   "hand-tools": [
     "howto",
     "woodworking",
-    "tool-review",
     "soldering",
-    "metalworking",
-    "metal",
+    "tool-review",
     "precision",
-    "knipex"
+    "knipex",
+    "electronics",
+    "metalworking"
   ],
   "hand-tracking": [
     "robotics",
@@ -7561,12 +6877,6 @@
     "raspberry-pi",
     "gaming",
     "emulation"
-  ],
-  "handheld-electronics": [
-    "esp32",
-    "game-design",
-    "led-game",
-    "microcontroller-projects"
   ],
   "handles": [
     "mechanical-design",
@@ -7596,10 +6906,10 @@
     "breakout-board"
   ],
   "haptics": [
-    "design",
     "prototyping",
     "vr",
     "electronics",
+    "design",
     "interactive",
     "game",
     "open-source",
@@ -7611,9 +6921,9 @@
     "storage",
     "tool-review",
     "microcontroller",
-    "iot",
     "photography",
-    "fasteners"
+    "electronics",
+    "diy"
   ],
   "hardware-control": [
     "music-electronics",
@@ -7648,11 +6958,6 @@
     "props",
     "interactive",
     "game"
-  ],
-  "hass": [
-    "khan-academy",
-    "humanities",
-    "storytelling"
   ],
   "hat": [
     "electronics",
@@ -7696,11 +7001,6 @@
     "pyportal",
     "medical"
   ],
-  "health-tech": [
-    "wearables",
-    "arduino",
-    "open-source"
-  ],
   "heart": [
     "3d-printing",
     "wearables",
@@ -7719,11 +7019,6 @@
   "heartbeat-dress": [
     "electronics",
     "wearables"
-  ],
-  "heat": [
-    "coaster",
-    "beverage-cooling",
-    "thermal-design"
   ],
   "heat-forming": [
     "acrylic-molding"
@@ -7765,14 +7060,14 @@
     "mandalorian"
   ],
   "hid": [
-    "keyboard",
-    "ble",
     "usb",
     "adafruit",
     "circuitpython",
     "controller",
-    "bluetooth",
-    "input-device"
+    "keyboard",
+    "input-device",
+    "ble",
+    "mouse"
   ],
   "hidden-feature": [
     "furniture",
@@ -7804,13 +7099,13 @@
   ],
   "high-voltage": [
     "electronics",
-    "badge",
-    "vintage",
-    "sao",
-    "nixie-tubes",
     "neon-sign",
     "glass-working",
-    "neon"
+    "neon",
+    "diy-physics",
+    "experimental",
+    "sign-making",
+    "workshop-decor"
   ],
   "highlights": [
     "video",
@@ -7830,8 +7125,8 @@
     "retro-tech",
     "science",
     "automation",
-    "software",
     "display",
+    "software",
     "esp32",
     "arcade",
     "space"
@@ -7901,11 +7196,11 @@
   "home-automation": [
     "iot",
     "adafruit",
-    "esp32",
     "raspberry-pi",
     "display",
     "sensor",
     "audio",
+    "esp32",
     "machine-learning"
   ],
   "home-decor": [
@@ -7931,22 +7226,11 @@
   "home-organization": [
     "3d-printing",
     "storage",
-    "broom-holder",
-    "utility-prints"
-  ],
-  "home-theater": [
-    "3d-printing",
-    "motorized-lift"
+    "broom-holder"
   ],
   "homebrew": [
     "retro-gaming",
     "playstation"
-  ],
-  "homekit": [
-    "adafruit",
-    "iot",
-    "esp32",
-    "home-automation"
   ],
   "homelab": [
     "networking",
@@ -8067,11 +7351,6 @@
     "installation",
     "tensegrity"
   ],
-  "humanities": [
-    "khan-academy",
-    "hass",
-    "storytelling"
-  ],
   "humanoid": [
     "3d-printing",
     "robotics",
@@ -8095,26 +7374,14 @@
     "game-design",
     "puzzle",
     "remote-control",
-    "electronics-modification",
     "cooking-automation",
+    "electronics-modification",
     "game-modification",
     "mechanical-challenge"
   ],
   "hvac": [
     "diy",
     "air-filtration"
-  ],
-  "hybrid": [
-    "music",
-    "electric",
-    "erhu",
-    "string-instrument"
-  ],
-  "hybrid-crafting": [
-    "3d-printing",
-    "fiber-art",
-    "textile-design",
-    "crochet"
   ],
   "hydraulics": [
     "engineering",
@@ -8133,7 +7400,6 @@
     "arduino",
     "microcontroller",
     "connector",
-    "serial-communication",
     "encoder",
     "trrs-jack"
   ],
@@ -8151,12 +7417,8 @@
   ],
   "ideation": [
     "game",
-    "creative-tools",
-    "brainstorming"
-  ],
-  "idl8tvi": [
-    "youtube",
-    "watch"
+    "brainstorming",
+    "creative-tools"
   ],
   "ikea": [
     "3d-printing",
@@ -8183,19 +7445,10 @@
     "optics",
     "theater-technique"
   ],
-  "image-art": [
-    "imgur"
-  ],
   "image-capture": [
     "sensor",
     "camera",
     "diy-optics"
-  ],
-  "image-distortion": [
-    "camera",
-    "circuit-bending",
-    "electronics-modification",
-    "art-tech"
   ],
   "image-generation": [
     "ai",
@@ -8204,12 +7457,7 @@
   ],
   "image-processing": [
     "3d-printing",
-    "software",
-    "laser-cutting",
-    "engraving",
-    "lithophane",
-    "software-tools",
-    "halftone"
+    "software"
   ],
   "image-recognition": [
     "ai",
@@ -8237,11 +7485,6 @@
     "software",
     "os-installation"
   ],
-  "imgur": [
-    "gallery",
-    "image-art",
-    "t5n8g5l"
-  ],
   "incremental-forming": [
     "cnc",
     "machining",
@@ -8251,10 +7494,6 @@
     "electronics",
     "camera",
     "privacy"
-  ],
-  "indie-game": [
-    "game-dev",
-    "unreal-engine"
   ],
   "indiegogo": [
     "robotics",
@@ -8280,12 +7519,12 @@
   "industrial": [
     "raspberry-pi",
     "electronics",
-    "woodworking",
-    "design",
     "furniture",
-    "metalworking",
+    "design",
     "iot",
-    "adhesive"
+    "adhesive",
+    "embedded-systems",
+    "edge-computing"
   ],
   "industrial-control": [
     "electronics",
@@ -8329,17 +7568,12 @@
     "giant",
     "party-canoe"
   ],
-  "info": [
-    "adambender",
-    "lithium",
-    "post"
-  ],
   "infrared": [
     "electronics",
     "robotics",
     "sensor",
-    "controls",
     "computer-vision",
+    "controls",
     "display-technology",
     "eye-tracking"
   ],
@@ -8373,9 +7607,9 @@
     "dyes"
   ],
   "inkscape": [
-    "vector-graphics",
     "pattern-design",
-    "repeats"
+    "repeats",
+    "vector-graphics"
   ],
   "innovation": [
     "robotics",
@@ -8397,21 +7631,15 @@
     "macro-keys",
     "trackball"
   ],
-  "input-control": [
-    "bluetooth",
-    "keyboard",
-    "ble",
-    "hid"
-  ],
   "input-device": [
     "electronics",
     "adafruit",
     "controller",
     "usb",
-    "mechanical-keyboard",
     "cnc",
     "gaming",
-    "switches"
+    "pybadge",
+    "gamepad"
   ],
   "insects": [
     "movement",
@@ -8427,9 +7655,6 @@
     "art",
     "social-media"
   ],
-  "instagram-art": [
-    "social-media"
-  ],
   "installation": [
     "art",
     "sculpture",
@@ -8437,8 +7662,8 @@
     "interactive",
     "interactive-art",
     "lighting",
-    "ai",
-    "maker"
+    "maker",
+    "raspberry-pi"
   ],
   "installation-art": [
     "kinetic-art",
@@ -8462,12 +7687,7 @@
     "lighting",
     "wood",
     "adafruit",
-    "arduino"
-  ],
-  "instructables-contest": [
-    "raspberry-pi",
-    "maker-projects",
-    "learning-platform"
+    "tutorial"
   ],
   "instrument": [
     "music",
@@ -8516,17 +7736,17 @@
     "adafruit",
     "controls",
     "alt-ctrl",
-    "robotics"
+    "music"
   ],
   "interactive-art": [
     "installation",
-    "mechanical-design",
     "robotics",
     "raspberry-pi",
-    "kinetic-art",
     "music",
     "ai",
-    "metalworking"
+    "mechanical-design",
+    "sensor",
+    "machine-learning"
   ],
   "interactive-device": [
     "3d-printing",
@@ -8537,16 +7757,9 @@
   ],
   "interactive-display": [
     "raspberry-pi",
-    "severance-fan-art",
     "retro-computing",
-    "desktop-terminal",
-    "screen-design"
-  ],
-  "interactive-electronics": [
-    "esp32",
-    "retro-gaming",
-    "arcade-game",
-    "embedded-gamedev"
+    "screen-design",
+    "severance-fan-art"
   ],
   "interactive-fun": [
     "machine-learning",
@@ -8555,7 +7768,6 @@
   "interactive-game": [
     "adafruit",
     "motion-control",
-    "web-app",
     "marble-maze"
   ],
   "interactive-installation": [
@@ -8565,12 +7777,6 @@
     "lava-lamp",
     "mechanical-systems",
     "mixed-media"
-  ],
-  "interactive-learning": [
-    "educational",
-    "browser-based",
-    "semiconductor-electronics",
-    "web-simulator"
   ],
   "interactive-projects": [
     "electronics",
@@ -8597,10 +7803,6 @@
   "interior-design": [
     "diy",
     "woodworking"
-  ],
-  "interlocking": [
-    "3d-printing",
-    "construction-blocks"
   ],
   "internet-archive": [
     "retro-technology"
@@ -8653,8 +7855,8 @@
     "electronics",
     "raspberry-pi",
     "arduino",
-    "esp32",
-    "home-automation"
+    "circuitpython",
+    "esp32"
   ],
   "iot-platform": [
     "microcontroller",
@@ -8710,9 +7912,9 @@
     "electronics",
     "led",
     "neopixel",
-    "diy",
     "soldering",
-    "design"
+    "design",
+    "hand-tools"
   ],
   "jewelry-clamps": [
     "metalworking",
@@ -8726,14 +7928,11 @@
     "vehicles",
     "assembly",
     "tool-technique",
-    "joinery"
+    "workshop-tips"
   ],
   "jigsaw": [
     "woodworking",
-    "power-tools",
-    "puzzle",
-    "web-tool",
-    "generator"
+    "power-tools"
   ],
   "johanna": [
     "screen",
@@ -8747,8 +7946,8 @@
     "metalworking",
     "hand-tools",
     "jig",
-    "table-saw",
-    "hinges"
+    "hinges",
+    "pattern"
   ],
   "joining": [
     "metalworking",
@@ -8762,10 +7961,10 @@
   ],
   "joints": [
     "woodworking",
-    "laser-cutting",
     "wood",
-    "assembly",
-    "acrylic"
+    "laser-cutting",
+    "acrylic",
+    "assembly"
   ],
   "joke-projects": [
     "electronics",
@@ -8788,15 +7987,6 @@
   "jump-augmentation": [
     "footwear",
     "wearable-tech"
-  ],
-  "k3zaplv10z8": [
-    "youtube",
-    "watch"
-  ],
-  "k40": [
-    "software",
-    "controls",
-    "laser-cutter"
   ],
   "katana": [
     "led",
@@ -8821,25 +8011,15 @@
     "audio",
     "sound-design"
   ],
-  "kerf": [
-    "woodworking",
-    "bending",
-    "ellipse"
-  ],
-  "key-fobs": [
-    "3d-printing",
-    "practical-prints",
-    "sd-card-storage"
-  ],
   "keyboard": [
     "3d-printing",
     "electronics",
     "mechanical",
-    "ble",
-    "hid",
     "keycaps",
     "woodworking",
-    "soldering"
+    "soldering",
+    "cnc",
+    "circuitpython"
   ],
   "keyboard-design": [
     "input-device",
@@ -8864,13 +8044,6 @@
     "music",
     "synthesizer",
     "patch-bay"
-  ],
-  "khan-academy": [
-    "engineering-education",
-    "free-course",
-    "hass",
-    "humanities",
-    "storytelling"
   ],
   "kicad": [
     "electronics",
@@ -8906,24 +8079,18 @@
     "motion-design"
   ],
   "kinetic": [
-    "art",
     "robotics",
-    "furniture",
-    "clock",
-    "installation",
-    "magnets",
-    "sand-table",
-    "corexy"
+    "marble-art"
   ],
   "kinetic-art": [
-    "3d-printing",
     "mechanical",
+    "3d-printing",
     "robotics",
     "animation",
     "sculpture",
     "mechanical-design",
     "music",
-    "led"
+    "art"
   ],
   "kinetic-sculpture": [
     "art",
@@ -8972,13 +8139,10 @@
     "futility"
   ],
   "kitchen-tools": [
-    "3d-printing",
     "instructables",
-    "gadgets",
     "utensil-design",
     "cooking-gadgets",
-    "multi-function-tool",
-    "randomizer"
+    "multi-function-tool"
   ],
   "kitchenware": [
     "measurement"
@@ -9062,14 +8226,14 @@
     "decorative",
     "pinecone",
     "robotics",
-    "design",
     "animation",
+    "design",
     "wood"
   ],
   "lamp-design": [
     "lighting",
-    "laser-cutting",
     "wood",
+    "laser-cutting",
     "home-decor",
     "analog-control"
   ],
@@ -9096,30 +8260,19 @@
   ],
   "lantern": [
     "paper",
-    "diy",
     "led",
+    "diy",
     "lighting",
-    "art",
     "craft",
-    "decoration",
-    "miniature"
+    "art",
+    "miniature",
+    "decoration"
   ],
   "large-display": [
     "art",
     "fabrication",
     "numbers",
     "numerals"
-  ],
-  "large-format": [
-    "3d-printing",
-    "mechanical-design",
-    "go-kart"
-  ],
-  "large-format-printing": [
-    "3d-printing",
-    "vehicles",
-    "mechanical-engineering",
-    "transportation"
   ],
   "large-scale": [
     "3d-printing",
@@ -9147,34 +8300,34 @@
     "outdoor-structures"
   ],
   "laser": [
-    "art",
     "electronics",
     "robotics",
     "music",
     "props",
     "ai",
+    "art",
     "optics",
     "smart-home"
   ],
   "laser-cutter": [
-    "software",
     "cnc",
     "automation",
     "tool-review",
-    "controls",
+    "software",
     "portable",
     "foam-cutting",
-    "wire-cutting"
+    "wire-cutting",
+    "90w"
   ],
   "laser-cutting": [
     "cnc",
-    "woodworking",
     "electronics",
+    "woodworking",
     "wood",
-    "design",
-    "software",
-    "cad",
-    "design-tool"
+    "acrylic",
+    "arduino",
+    "kinetic-art",
+    "mechanical"
   ],
   "laser-engraving": [
     "metal-finishing",
@@ -9210,15 +8363,9 @@
     "solenoid",
     "3d-printing",
     "robotics",
-    "automation",
     "mechanics",
-    "novelty"
-  ],
-  "launcher-automation": [
-    "arduino",
-    "microcontroller",
-    "rocketry",
-    "paper-rocket"
+    "novelty",
+    "aerospace"
   ],
   "lava-lamp": [
     "kinetic-art",
@@ -9272,8 +8419,8 @@
   ],
   "learning": [
     "electronics",
-    "robotics",
     "3d-printing",
+    "robotics",
     "soldering",
     "furniture",
     "microcontroller",
@@ -9286,11 +8433,8 @@
   ],
   "learning-platform": [
     "robotics",
-    "raspberry-pi",
-    "maker-projects",
     "legged-motion",
     "ai-arm-kit",
-    "instructables-contest",
     "seeed-studio"
   ],
   "leather": [
@@ -9317,8 +8461,8 @@
     "physics"
   ],
   "led": [
-    "electronics",
     "wearables",
+    "electronics",
     "lighting",
     "neopixel",
     "adafruit",
@@ -9359,8 +8503,8 @@
     "fashion"
   ],
   "led-craft": [
-    "decoration",
     "miniature",
+    "decoration",
     "lantern",
     "fairy"
   ],
@@ -9368,30 +8512,19 @@
     "electronics",
     "animation",
     "microcontroller",
-    "esp32",
     "raspberry-pi",
     "mechanical",
     "art",
-    "clock"
+    "clock",
+    "esp32"
   ],
   "led-dress": [
     "fiber-optic",
     "wearables-fashion"
   ],
-  "led-eyes": [
-    "animatronics",
-    "sculpture",
-    "creature"
-  ],
   "led-fan": [
     "art-display",
     "hologram"
-  ],
-  "led-game": [
-    "esp32",
-    "game-design",
-    "handheld-electronics",
-    "microcontroller-projects"
   ],
   "led-jewelry": [
     "wearables",
@@ -9417,18 +8550,13 @@
     "christmas",
     "led-noodle"
   ],
-  "led-mask": [
-    "wearables",
-    "soldering",
-    "costume"
-  ],
   "led-matrix": [
-    "electronics",
     "wearables",
-    "esp32",
+    "electronics",
     "adafruit",
     "laser-cutting",
     "circuitpython",
+    "esp32",
     "pixel-art",
     "light"
   ],
@@ -9488,8 +8616,8 @@
     "gaming",
     "addressable-rgb",
     "sword",
-    "mapping",
-    "halo"
+    "halo",
+    "mapping"
   ],
   "legacy": [
     "craftsmanship",
@@ -9500,18 +8628,18 @@
     "robotics",
     "balance",
     "gyroscope",
-    "learning-platform",
     "ai-arm-kit",
+    "learning-platform",
     "seeed-studio"
   ],
   "lego": [
     "kinetic-art",
-    "3d-printing",
     "automation",
-    "electronics",
     "robotics",
     "mechanics",
     "automaton",
+    "3d-printing",
+    "electronics",
     "wearables"
   ],
   "legs": [
@@ -9528,11 +8656,10 @@
   ],
   "lettering": [
     "art",
-    "design",
     "cnc",
-    "laser-cutting",
+    "design",
     "typeface",
-    "engraving",
+    "laser-cutting",
     "hand-painted",
     "live-stream"
   ],
@@ -9547,13 +8674,13 @@
   ],
   "library": [
     "software",
-    "led",
     "adafruit",
     "design",
     "esp32",
     "open-source",
     "drawing",
-    "plotter"
+    "plotter",
+    "led-matrix"
   ],
   "life-simulation": [
     "robotics",
@@ -9568,8 +8695,8 @@
   "light": [
     "wearables",
     "electronics",
-    "diy",
     "led",
+    "diy",
     "kinetic-art",
     "art",
     "costume",
@@ -9650,10 +8777,10 @@
     "3d-printing",
     "electronics",
     "wearables",
-    "art",
     "neopixel",
     "adafruit",
-    "music"
+    "music",
+    "art"
   ],
   "lighting-art": [
     "led",
@@ -9702,20 +8829,6 @@
     "3d-printing",
     "filament-review"
   ],
-  "lillych": [
-    "files",
-    "2019",
-    "chin"
-  ],
-  "linear": [
-    "servo-motors",
-    "actuator"
-  ],
-  "linkage": [
-    "robotics",
-    "mechanical",
-    "education"
-  ],
   "linux": [
     "raspberry-pi",
     "retro-tech",
@@ -9729,15 +8842,6 @@
   "liquid-dye": [
     "kinetic-art",
     "light-installation"
-  ],
-  "lissajukebox": [
-    "hackaday",
-    "163565"
-  ],
-  "lithium": [
-    "adambender",
-    "info",
-    "post"
   ],
   "lithium-ion": [
     "drone",
@@ -9765,10 +8869,6 @@
     "navigation",
     "wireless-gaming"
   ],
-  "locator": [
-    "makerspace",
-    "fablab"
-  ],
   "lock-picking": [
     "robotics",
     "security",
@@ -9780,8 +8880,8 @@
     "robotics",
     "raspberry-pi",
     "mechanical-design",
-    "motors",
     "mechanism",
+    "motors",
     "omnidirectional",
     "treadmill"
   ],
@@ -9795,11 +8895,6 @@
     "apollo",
     "mission"
   ],
-  "london": [
-    "mechanical",
-    "maker",
-    "arcade"
-  ],
   "look": [
     "back",
     "beetlecam",
@@ -9812,11 +8907,7 @@
   ],
   "lora": [
     "electronics",
-    "wireless",
-    "badge",
     "communication",
-    "radio",
-    "sao",
     "pager"
   ],
   "lora-communication": [
@@ -9849,14 +8940,6 @@
     "art",
     "automotive"
   ],
-  "luggage-robot": [
-    "robotics",
-    "autonomous"
-  ],
-  "lunar-lander": [
-    "clock",
-    "kinetic"
-  ],
   "luthier": [
     "music",
     "cad",
@@ -9870,10 +8953,9 @@
   ],
   "mac-software": [
     "retro-tech",
-    "digital-archiving",
-    "open-access",
     "emulation",
-    "software-preservation"
+    "digital-archiving",
+    "open-access"
   ],
   "machine": [
     "automation",
@@ -9980,8 +9062,8 @@
     "wearables",
     "hand-tools",
     "storage",
-    "connector",
-    "interactive-art"
+    "interactive-art",
+    "connector"
   ],
   "magnetic-craft": [
     "3d-printing",
@@ -10006,12 +9088,11 @@
   "magnets": [
     "3d-printing",
     "kinetic-art",
-    "art",
-    "furniture",
     "mechanical-design",
     "sculpture",
     "workshop-organization",
-    "switches"
+    "switches",
+    "electromagnet"
   ],
   "magnification": [
     "optics",
@@ -10072,14 +9153,14 @@
     "interview",
     "craft",
     "profile",
-    "mechanical",
     "art",
     "interactive",
-    "installation"
+    "installation",
+    "3d-printing"
   ],
   "maker-books": [
-    "resources",
-    "workshop-tips"
+    "workshop-tips",
+    "resources"
   ],
   "maker-business": [
     "creator-economy",
@@ -10090,8 +9171,8 @@
     "virtual-events"
   ],
   "maker-content": [
-    "youtube",
     "entertainment",
+    "youtube",
     "project-tutorial",
     "video-series"
   ],
@@ -10100,14 +9181,13 @@
     "advice"
   ],
   "maker-culture": [
-    "qa-video",
-    "youtube",
     "documentation",
+    "youtube",
     "analog-tech",
     "art-theory",
-    "community-event",
     "creators",
-    "design-philosophy"
+    "design-philosophy",
+    "qa-video"
   ],
   "maker-education": [
     "book",
@@ -10156,14 +9236,14 @@
     "creator-interview"
   ],
   "maker-projects": [
-    "raspberry-pi",
     "electronics",
     "robotics",
-    "youtube",
-    "video",
+    "raspberry-pi",
     "competition",
     "documentation",
-    "patreon"
+    "patreon",
+    "gift-guide",
+    "youtube-video"
   ],
   "maker-resources": [
     "howto",
@@ -10188,13 +9268,12 @@
   ],
   "makerspace": [
     "woodworking",
-    "fablab",
-    "metalworking",
     "storage",
     "crafting",
     "plywood",
-    "industrial",
-    "shelving"
+    "shelving",
+    "project-management",
+    "studio-setup"
   ],
   "makey-makey": [
     "gaming",
@@ -10229,14 +9308,12 @@
     "automation"
   ],
   "mapping": [
-    "software",
-    "led",
     "animation",
-    "library",
+    "software",
     "networking",
     "led-wearable",
-    "fastled",
-    "festival-fashion"
+    "festival-fashion",
+    "gis"
   ],
   "marble-art": [
     "robotics",
@@ -10294,7 +9371,6 @@
     "maker-business"
   ],
   "marking": [
-    "painting",
     "workshop-tool",
     "tools-review"
   ],
@@ -10358,9 +9434,6 @@
     "recycling",
     "skateboard",
     "carbon-fiber"
-  ],
-  "material-joining": [
-    "adhesive-guide"
   ],
   "material-properties": [
     "3d-printing",
@@ -10428,8 +9501,8 @@
     "arduino",
     "woodworking",
     "hand-tools",
-    "circuitpython",
-    "sensor"
+    "sensor",
+    "circuitpython"
   ],
   "measurement-tool": [
     "calipers",
@@ -10437,11 +9510,6 @@
   ],
   "measuring": [
     "diy-tools"
-  ],
-  "mecanum": [
-    "robotics",
-    "wheels",
-    "xrp"
   ],
   "mecanum-wheel": [
     "robotics",
@@ -10454,9 +9522,9 @@
     "kinetic-art",
     "electronics",
     "animation",
-    "automation",
     "clock",
-    "toy"
+    "automation",
+    "motors"
   ],
   "mechanical-arm": [
     "robotics",
@@ -10493,9 +9561,9 @@
     "kinetic-art",
     "sculpture",
     "clock",
-    "engineering",
-    "mechanism",
-    "gears"
+    "gears",
+    "art",
+    "automation"
   ],
   "mechanical-drawing": [
     "plotter",
@@ -10504,12 +9572,12 @@
   "mechanical-engineering": [
     "robotics",
     "kinetic-art",
-    "simple-machines",
-    "3d-printing",
     "cnc",
     "mechanical-design",
-    "instructables",
-    "vehicles"
+    "camera",
+    "gears",
+    "mechanical-motion",
+    "walking-robot"
   ],
   "mechanical-fastening": [
     "threaded-inserts",
@@ -10533,13 +9601,13 @@
   ],
   "mechanical-keyboard": [
     "electronics",
-    "input-device",
-    "adafruit",
-    "soldering",
     "assembly",
-    "switches",
+    "input-device",
     "tiles",
-    "custom"
+    "custom",
+    "custom-keyboard",
+    "keyboard-design",
+    "scrabble"
   ],
   "mechanical-kinetic-art": [
     "marble-machine",
@@ -10584,15 +9652,6 @@
     "clickwheel",
     "organ"
   ],
-  "mechanical-pencils": [
-    "design"
-  ],
-  "mechanical-platform": [
-    "robotics",
-    "diy-simulator",
-    "flight-simulation",
-    "motion-simulation"
-  ],
   "mechanical-plotting": [
     "automation",
     "graffiti-art",
@@ -10607,9 +9666,6 @@
   "mechanical-sculpture": [
     "physics",
     "centrifugal-force"
-  ],
-  "mechanical-simulation": [
-    "software"
   ],
   "mechanical-switch": [
     "keyboard",
@@ -10645,11 +9701,11 @@
     "tool-review"
   ],
   "mechanism": [
-    "mechanical-design",
     "kinetic-art",
+    "mechanical-design",
+    "robotics",
     "engineering",
     "3d-printing",
-    "robotics",
     "mechanical",
     "animation",
     "toy"
@@ -10677,8 +9733,8 @@
   ],
   "media-console": [
     "woodworking",
-    "design",
-    "furniture"
+    "furniture",
+    "design"
   ],
   "media-control": [
     "input-device",
@@ -10713,14 +9769,13 @@
     "zen-robot"
   ],
   "meeting": [
-    "video",
     "plotter",
+    "video",
     "presentation"
   ],
   "meetup": [
     "drawing",
     "plotter",
-    "event",
     "recording"
   ],
   "megaphone": [
@@ -10734,13 +9789,13 @@
   ],
   "metal": [
     "3d-printing",
-    "hand-tools",
-    "finishing",
     "tutorial",
-    "design",
     "furniture",
+    "design",
     "plastic",
-    "painting"
+    "finishing",
+    "painting",
+    "machining"
   ],
   "metal-bending": [
     "wire-tools"
@@ -10758,8 +9813,8 @@
   ],
   "metal-detection": [
     "microcontroller",
-    "circuitpython",
     "sensor",
+    "circuitpython",
     "measurement",
     "ore-content"
   ],
@@ -10799,19 +9854,19 @@
     "adhesive"
   ],
   "metalworking": [
-    "woodworking",
     "cnc",
     "3d-printing",
+    "woodworking",
     "fabrication",
     "soldering",
     "howto",
     "welding",
-    "hand-tools"
+    "fasteners"
   ],
   "metalworking-tool": [
     "cnc",
-    "tool-design",
-    "sheet-metal"
+    "sheet-metal",
+    "tool-design"
   ],
   "meters": [
     "electronics"
@@ -10858,18 +9913,12 @@
   "microcontroller": [
     "electronics",
     "adafruit",
-    "arduino",
     "circuitpython",
-    "esp32",
+    "arduino",
     "iot",
     "sensor",
-    "raspberry-pi"
-  ],
-  "microcontroller-projects": [
     "esp32",
-    "game-design",
-    "handheld-electronics",
-    "led-game"
+    "raspberry-pi"
   ],
   "micropython": [
     "music-electronics",
@@ -10894,8 +9943,8 @@
   ],
   "microwave-hacking": [
     "humor-engineering",
-    "electronics-modification",
-    "cooking-automation"
+    "cooking-automation",
+    "electronics-modification"
   ],
   "midi": [
     "music",
@@ -10904,8 +9953,8 @@
     "automation",
     "controller",
     "arduino",
-    "percussion",
-    "solenoid"
+    "solenoid",
+    "percussion"
   ],
   "midi-controller": [
     "wearables",
@@ -10962,11 +10011,8 @@
     "scenery"
   ],
   "miniature-models": [
-    "3d-printing",
     "sculpture",
-    "diorama",
-    "thingiverse",
-    "printable-designs"
+    "diorama"
   ],
   "miniature-photography": [
     "animation",
@@ -10994,7 +10040,7 @@
     "interactive",
     "engineering",
     "smart-home",
-    "projection"
+    "optical"
   ],
   "mirror-illusion": [
     "optics",
@@ -11090,8 +10136,8 @@
   ],
   "mobility": [
     "robotics",
-    "wheels",
     "chassis",
+    "wheels",
     "mecanum-wheel"
   ],
   "mobility-aid": [
@@ -11109,11 +10155,8 @@
     "game-boy"
   ],
   "model": [
-    "3d-printing",
     "mechanical-design",
-    "collection",
     "rc-vehicle",
-    "gallery",
     "radio-control"
   ],
   "model-building": [
@@ -11131,8 +10174,8 @@
     "upcycling",
     "wireless",
     "foam",
-    "architecture",
-    "diorama"
+    "diorama",
+    "acrylic"
   ],
   "modeling": [
     "cad",
@@ -11168,12 +10211,12 @@
   "modular-design": [
     "3d-printing",
     "electronics",
-    "portable-computer",
-    "framework",
     "storage",
     "workbench",
     "portable",
-    "gridfinity"
+    "portable-computer",
+    "gridfinity",
+    "storage-organization"
   ],
   "modular-electronics": [
     "adafruit",
@@ -11183,12 +10226,6 @@
     "woodworking",
     "workbench",
     "mft"
-  ],
-  "modular-storage": [
-    "3d-printing",
-    "gridfinity",
-    "grid-based-design",
-    "organization-system"
   ],
   "moir\u00e9-pattern": [
     "mechanical",
@@ -11243,16 +10280,16 @@
   ],
   "more": [
     "adafruit",
-    "github",
     "video",
+    "github",
     "examples",
     "demo"
   ],
   "morph": [],
   "morse-code": [
     "circuitpython",
-    "ble",
     "communication",
+    "ble",
     "chat"
   ],
   "motion": [
@@ -11268,8 +10305,8 @@
   "motion-control": [
     "robotics",
     "adafruit",
-    "arduino",
     "electronics",
+    "arduino",
     "mechanical",
     "automation",
     "mechanical-design",
@@ -11296,29 +10333,20 @@
     "wearables",
     "snowboard"
   ],
-  "motion-simulation": [
-    "robotics",
-    "diy-simulator",
-    "flight-simulation",
-    "mechanical-platform"
-  ],
   "motion-simulator": [
     "robotics",
     "rc"
   ],
   "motion-tracking": [
-    "interactive",
     "interactive-art",
-    "game-development",
-    "browser-game"
+    "game-development"
   ],
   "motivation": [],
   "motor-control": [
     "electronics",
     "robotics",
     "arduino",
-    "servo",
-    "h-bridge"
+    "servo"
   ],
   "motor-mounts": [
     "3d-printing",
@@ -11355,10 +10383,6 @@
     "video-production",
     "camera-rig"
   ],
-  "motorized-lift": [
-    "3d-printing",
-    "home-theater"
-  ],
   "motorized-slider": [
     "diy",
     "video-equipment"
@@ -11374,9 +10398,9 @@
     "mechanical",
     "arduino",
     "kinetic-art",
-    "specifications",
     "robotics",
-    "automation"
+    "automation",
+    "diy"
   ],
   "moulds": [
     "3d-printing",
@@ -11398,15 +10422,11 @@
     "bracket",
     "stand"
   ],
-  "mounting-bracket": [
-    "3d-printing",
-    "zip-ties"
-  ],
   "mouse": [
     "circuitpython",
     "keyboard",
-    "ble",
     "usb",
+    "ble",
     "hid"
   ],
   "mouse-design": [
@@ -11468,10 +10488,6 @@
     "toy",
     "children"
   ],
-  "mp4": [
-    "retro-tech",
-    "museum"
-  ],
   "mqtt": [
     "iot",
     "home-automation",
@@ -11490,15 +10506,14 @@
   ],
   "multi-function-tool": [
     "instructables",
-    "kitchen-tools",
     "utensil-design",
-    "cooking-gadgets"
+    "cooking-gadgets",
+    "kitchen-tools"
   ],
   "multi-material": [
     "3d-printing",
     "filament",
-    "composite",
-    "print-technique"
+    "composite"
   ],
   "multi-output": [
     "software",
@@ -11509,8 +10524,8 @@
   "multimedia": [
     "maker",
     "installation",
-    "interactive-art",
     "interview",
+    "interactive-art",
     "profile"
   ],
   "multimeter": [
@@ -11521,15 +10536,6 @@
   "muscle-sensing": [
     "electronics",
     "emg-sensor"
-  ],
-  "muscle-sensor": [
-    "wearables",
-    "arduino",
-    "emg"
-  ],
-  "museum": [
-    "retro-tech",
-    "mp4"
   ],
   "music": [
     "electronics",
@@ -11547,11 +10553,6 @@
     "floppy-disk-hack",
     "midi-instrument",
     "telephone-dial"
-  ],
-  "music-control": [
-    "wireless",
-    "bluetooth",
-    "apple-media"
   ],
   "music-electronics": [
     "synthesizer",
@@ -11614,11 +10615,6 @@
     "material-science",
     "biofabrication",
     "biotechnology"
-  ],
-  "n2rzryrapyi": [
-    "youtube",
-    "watch",
-    "feature"
   ],
   "nail": [
     "automation",
@@ -11706,10 +10702,6 @@
     "signage"
   ],
   "neon-lighting": [
-    "electronics",
-    "esp32",
-    "pcb",
-    "led-display",
     "lighting-art",
     "glass-working",
     "technique-guide"
@@ -11795,10 +10787,10 @@
   "networking": [
     "raspberry-pi",
     "software",
-    "mapping",
     "power",
     "cables",
     "infrastructure",
+    "mapping",
     "gis",
     "homelab"
   ],
@@ -11863,26 +10855,16 @@
     "clock",
     "el-wire"
   ],
-  "nixie-tube-alternative": [
-    "electronics",
-    "led",
-    "wearables",
-    "retro-tech",
-    "display"
-  ],
   "nixie-tube-style": [
     "led",
     "arduino",
     "display"
   ],
   "nixie-tubes": [
-    "badge",
     "electronics",
     "retro-tech",
     "metal",
-    "vintage",
-    "sao",
-    "high-voltage"
+    "badge"
   ],
   "no-code": [
     "adafruit",
@@ -11906,12 +10888,12 @@
   "nostalgic": [
     "electronics",
     "woodworking",
-    "props",
-    "automation",
     "retro-tech",
     "wood",
-    "toy",
-    "robot"
+    "retro-gaming",
+    "sound",
+    "nes",
+    "speak-spell"
   ],
   "notes": [
     "original"
@@ -11925,12 +10907,12 @@
   "novelty": [
     "3d-printing",
     "electronics",
-    "mechanical",
     "audio",
     "toy",
     "robotics",
     "arduino",
-    "automation"
+    "mechanical",
+    "robot"
   ],
   "novelty-device": [
     "electronics",
@@ -11976,35 +10958,16 @@
     "sewage-infrastructure",
     "urban-design"
   ],
-  "nyloc-nuts": [
-    "hardware",
-    "fasteners"
-  ],
-  "o_lxz6a6msq": [
-    "youtu"
-  ],
   "object-tracking": [
     "raspberry-pi",
     "computer-vision",
     "tensorflow"
   ],
-  "oblique-strategies": [
-    "music",
-    "art",
-    "design",
-    "creative-tools",
-    "problem-solving"
-  ],
-  "ocr": [
-    "raspberry-pi",
-    "game-tech"
-  ],
   "octoprint": [
     "3d-printing",
     "software",
     "raspberry-pi",
-    "controller",
-    "plugin"
+    "controller"
   ],
   "oculus-quest": [
     "software",
@@ -12025,7 +10988,6 @@
   "offline": [
     "raspberry-pi",
     "ai",
-    "voice-assistant",
     "translation"
   ],
   "oil-can": [
@@ -12064,24 +11026,14 @@
     "personal-transport",
     "traction-improvement"
   ],
-  "onlaj": [
-    "github",
-    "visualizer",
-    "piano"
-  ],
   "online-class": [
     "arduino",
     "circuitry"
   ],
-  "online-platform": [
-    "discord"
-  ],
   "online-tool": [
     "3d-modeling",
-    "generative-art",
     "prototyping",
     "haptics",
-    "website",
     "low-poly",
     "shape-haptics"
   ],
@@ -12093,35 +11045,23 @@
   ],
   "open-access": [
     "retro-tech",
-    "digital-archiving",
-    "mac-software",
     "emulation",
-    "software-preservation"
+    "digital-archiving",
+    "mac-software"
   ],
   "open-hardware": [
     "podcast",
-    "embedded-systems",
-    "conference",
-    "talks"
-  ],
-  "open-sauce": [
-    "tutorial",
-    "badge"
+    "embedded-systems"
   ],
   "open-source": [
-    "robotics",
-    "software",
     "electronics",
-    "3d-printing",
+    "robotics",
     "gaming",
+    "software",
     "3d-scanning",
-    "textile",
-    "photogrammetry"
-  ],
-  "opencv": [
-    "automation",
-    "launcher",
-    "facial-recognition"
+    "photogrammetry",
+    "led",
+    "lighting"
   ],
   "operating-system": [
     "raspberry-pi",
@@ -12139,8 +11079,8 @@
   "optical": [
     "woodworking",
     "kinetic-art",
-    "art",
     "craft",
+    "art",
     "photography",
     "camera",
     "engineering",
@@ -12160,12 +11100,12 @@
   "optical-illusion": [
     "led",
     "lighting",
-    "howto",
     "vintage",
-    "special-effects",
     "infinity-mirror",
-    "projection",
-    "contraption"
+    "contraption",
+    "animation-history",
+    "book-shelving",
+    "diy-home"
   ],
   "optical-science": [
     "optics",
@@ -12176,18 +11116,18 @@
     "3d-printing",
     "art",
     "science",
-    "glass",
     "magnification",
     "telescope",
-    "electronics"
+    "electronics",
+    "diy"
   ],
   "optimization": [
     "3d-printing",
     "adafruit",
     "woodworking",
-    "software",
     "display",
     "microcontroller",
+    "software",
     "circuitpython",
     "pyportal"
   ],
@@ -12220,12 +11160,6 @@
     "furniture",
     "workspace"
   ],
-  "organization-system": [
-    "3d-printing",
-    "gridfinity",
-    "grid-based-design",
-    "modular-storage"
-  ],
   "organizer": [
     "3d-printing",
     "workshop-tool",
@@ -12239,14 +11173,14 @@
     "angle"
   ],
   "origami": [
-    "design",
     "3d-printing",
     "raspberry-pi",
     "mechanical",
     "lighting",
     "automation",
-    "software",
-    "animation"
+    "animation",
+    "design",
+    "software"
   ],
   "original": [
     "notes"
@@ -12416,11 +11350,6 @@
     "weathering-techniques",
     "aging-effects"
   ],
-  "painting-robot": [
-    "art",
-    "automation",
-    "cnc"
-  ],
   "painting-technique": [
     "cosplay",
     "weathering"
@@ -12435,10 +11364,6 @@
     "trash",
     "garbage"
   ],
-  "pandemic": [
-    "engineering",
-    "water-filtration"
-  ],
   "panel-design": [
     "presentation",
     "electronics-aesthetics",
@@ -12451,8 +11376,8 @@
   "panels": [
     "enclosure",
     "3d-printing",
-    "design",
     "cnc",
+    "design",
     "fabrication"
   ],
   "panic-buying": [
@@ -12466,16 +11391,10 @@
     "craft",
     "lantern",
     "3d-printing",
-    "diy",
     "led",
+    "diy",
     "art",
     "papercraft"
-  ],
-  "paper-rocket": [
-    "arduino",
-    "microcontroller",
-    "rocketry",
-    "launcher-automation"
   ],
   "papercraft": [
     "3d-printing",
@@ -12502,13 +11421,13 @@
   ],
   "parametric-design": [
     "3d-printing",
-    "cad",
     "mechanical",
-    "software",
-    "laser-cutting",
-    "design-tool",
+    "cad",
     "kumiko",
-    "fan-art"
+    "fan-art",
+    "geometric-patterns",
+    "japanese-woodworking",
+    "knobs"
   ],
   "parenting-bot": [
     "novelty",
@@ -12540,14 +11459,6 @@
     "music-production",
     "audio-mixer"
   ],
-  "passive-feedback": [
-    "design",
-    "haptics"
-  ],
-  "past": [
-    "instructables",
-    "film"
-  ],
   "pasta-maker": [
     "3d-printing",
     "toy",
@@ -12567,27 +11478,23 @@
   ],
   "pattern": [
     "design",
-    "laser-cutting",
     "woodworking",
-    "software",
     "metalworking",
-    "design-tool",
+    "software",
+    "laser-cutting",
     "origami",
-    "jig"
+    "jig",
+    "joinery"
   ],
   "pattern-adjustment": [
     "sewing",
     "mask",
     "fit"
   ],
-  "pattern-book": [
-    "wearables",
-    "design-reference"
-  ],
   "pattern-design": [
-    "vector-graphics",
     "inkscape",
-    "repeats"
+    "repeats",
+    "vector-graphics"
   ],
   "pattern-generation": [
     "design",
@@ -12612,10 +11519,10 @@
     "electronics",
     "3d-printing",
     "art",
-    "esp32",
     "manufacturing",
     "front-panel",
     "robotics",
+    "led",
     "diy"
   ],
   "pcb-art": [
@@ -12652,10 +11559,6 @@
   "pedal-switch": [
     "bluetooth",
     "wireless-control"
-  ],
-  "pegboard": [
-    "3d-printing",
-    "storage"
   ],
   "pen-drawing": [
     "3d-printing",
@@ -12699,20 +11602,13 @@
     "olfactory"
   ],
   "performance-art": [
-    "robotics",
     "cosplay",
     "props",
-    "mechanical-engineering",
-    "acrobatics",
     "manifesto"
   ],
   "period-costume": [
     "fashion",
     "sewing"
-  ],
-  "periodic-table": [
-    "science",
-    "elements"
   ],
   "perpetual": [
     "crafting",
@@ -12811,18 +11707,15 @@
     "furniture",
     "fabric",
     "electronics",
-    "diy",
     "led",
-    "adafruit"
+    "adafruit",
+    "diy"
   ],
   "phased-array": [
     "acoustics",
     "levitation",
     "radar",
     "sonar"
-  ],
-  "philosophy": [
-    "adam-savage"
   ],
   "phone": [
     "audio",
@@ -12844,9 +11737,6 @@
     "corrosion-resistance"
   ],
   "photo-booth": [
-    "electronics",
-    "diy",
-    "raspberry-pi",
     "animation",
     "photography",
     "gif"
@@ -12862,7 +11752,6 @@
     "open-source",
     "software",
     "cad",
-    "camera-tracking",
     "floor-planning",
     "low-poly-modeling",
     "meshroom"
@@ -12903,12 +11792,12 @@
   "physics": [
     "kinetic-art",
     "mechanical",
-    "design",
-    "engineering",
     "science",
     "electronics",
     "robotics",
-    "diy"
+    "diy",
+    "mechanical-design",
+    "design"
   ],
   "physics-based-entertainment": [
     "marble-machine",
@@ -12926,11 +11815,6 @@
     "cyberpunk",
     "odd-displays",
     "weird-tech"
-  ],
-  "piano": [
-    "github",
-    "visualizer",
-    "onlaj"
   ],
   "pick-and-place": [
     "automation",
@@ -12973,8 +11857,8 @@
   "pinball": [
     "game-design",
     "iot",
-    "lego",
     "mechanics",
+    "lego",
     "arcade"
   ],
   "pinecone": [
@@ -12994,15 +11878,15 @@
     "electronics",
     "led",
     "adafruit",
-    "tutorial",
     "kinetic-art",
-    "retro-tech",
+    "tutorial",
     "animation",
-    "laser-cutting"
+    "laser-cutting",
+    "photography"
   ],
   "pixel-art-display": [
-    "software",
     "display",
+    "software",
     "flip-dot"
   ],
   "pixels": [
@@ -13016,13 +11900,13 @@
   ],
   "pla": [
     "3d-printing",
-    "plastic",
     "gaming",
-    "ai",
+    "plastic",
     "display",
     "diy",
-    "cosplay",
-    "tutorial"
+    "ai",
+    "tutorial",
+    "cosplay"
   ],
   "pla-filament": [
     "3d-printing",
@@ -13046,9 +11930,9 @@
     "3d-printing",
     "tutorial",
     "pla",
-    "ai",
     "diy",
     "raspberry-pi",
+    "ai",
     "display",
     "cosplay"
   ],
@@ -13090,11 +11974,9 @@
     "relief-printing"
   ],
   "platform": [
-    "robotics",
     "electronics",
-    "open-source",
-    "learning",
-    "collaboration"
+    "robotics",
+    "learning"
   ],
   "playback-control": [
     "music",
@@ -13111,10 +11993,9 @@
     "electronics"
   ],
   "playlist": [
-    "resources",
     "woodworking",
     "education",
-    "video-collection"
+    "resources"
   ],
   "playstation": [
     "retro-gaming",
@@ -13136,8 +12017,8 @@
     "art",
     "software",
     "iot",
-    "meetup",
-    "3d-printing"
+    "3d-printing",
+    "automation"
   ],
   "plotter-art": [
     "kinetic-art",
@@ -13153,10 +12034,6 @@
     "wireless",
     "drawing-machine",
     "art-tool"
-  ],
-  "plugin": [
-    "3d-printing",
-    "octoprint"
   ],
   "plugin-software": [
     "3d-printing",
@@ -13209,7 +12086,7 @@
     "cool-tools",
     "design",
     "maker",
-    "youtube"
+    "media"
   ],
   "poetry": [
     "electronics",
@@ -13239,13 +12116,6 @@
     "electronics",
     "animatronics",
     "servo"
-  ],
-  "polygonia": [
-    "design"
-  ],
-  "polygons": [
-    "design",
-    "web-tool"
   ],
   "pom-poms": [
     "craft",
@@ -13289,8 +12159,8 @@
     "soldering-technique"
   ],
   "portable": [
-    "diy",
     "adafruit",
+    "diy",
     "raspberry-pi",
     "kinetic-art",
     "soldering",
@@ -13305,12 +12175,12 @@
   "portable-computer": [
     "cyberdeck",
     "raspberry-pi",
+    "diy",
     "3d-printing",
     "electronics",
-    "diy",
-    "modular-design",
-    "framework",
-    "retro-tech"
+    "retro-tech",
+    "hacking",
+    "cyberpunk"
   ],
   "portable-computing": [
     "raspberry-pi",
@@ -13343,13 +12213,6 @@
     "raspberry-pi",
     "lcd"
   ],
-  "portfolio": [
-    "art",
-    "design",
-    "automato",
-    "believe_it_yourself",
-    "farm"
-  ],
   "portrait": [
     "3d-printing",
     "kinetic-art",
@@ -13364,11 +12227,6 @@
     "art",
     "technology"
   ],
-  "post": [
-    "adambender",
-    "info",
-    "lithium"
-  ],
   "post-apocalyptic": [
     "crafting",
     "customization",
@@ -13379,9 +12237,6 @@
     "finishing",
     "painting",
     "threaded-inserts"
-  ],
-  "potentiometer": [
-    "electronics"
   ],
   "pottery": [
     "3d-printing",
@@ -13447,11 +12302,6 @@
     "wearables",
     "valentine"
   ],
-  "practical-prints": [
-    "3d-printing",
-    "key-fobs",
-    "sd-card-storage"
-  ],
   "precision": [
     "hand-tools",
     "tool-review",
@@ -13464,10 +12314,6 @@
   ],
   "precision-cutting": [
     "woodworking",
-    "metalworking",
-    "hand-tools",
-    "metal",
-    "cutting",
     "saw-technique"
   ],
   "precision-engineering": [
@@ -13515,17 +12361,13 @@
   ],
   "presentation": [
     "electronics",
-    "video",
     "plotter",
+    "video",
     "timer",
     "slides",
     "electronics-aesthetics",
     "meeting",
     "panel-design"
-  ],
-  "pressure": [
-    "after",
-    "ammarkalo"
   ],
   "pressure-vessel": [
     "engineering",
@@ -13549,10 +12391,10 @@
     "props",
     "toy",
     "robotics",
-    "design",
     "mechanical-design",
+    "design",
     "cad",
-    "fusion360"
+    "solenoid"
   ],
   "print-quality": [
     "3d-printing",
@@ -13564,15 +12406,6 @@
     "3d-printing",
     "bed-temperature",
     "layer-height"
-  ],
-  "print-technique": [
-    "3d-printing",
-    "multi-material"
-  ],
-  "printable-designs": [
-    "3d-printing",
-    "thingiverse",
-    "miniature-models"
   ],
   "printables": [
     "soldering",
@@ -13651,19 +12484,12 @@
     "photography-optics"
   ],
   "problem-solving": [
-    "design",
-    "oblique-strategies",
     "constraints",
     "design-methodology"
   ],
   "problems": [
     "3d-printing",
     "troubleshooting"
-  ],
-  "procedural-design": [
-    "cad",
-    "3d-modeling",
-    "blender"
   ],
   "procedural-modeling": [
     "cad",
@@ -13673,22 +12499,21 @@
   "processing": [
     "led",
     "interactive",
-    "github",
     "art-installation",
+    "github",
     "kinect",
     "raspberry-pi",
     "tutorial",
-    "art"
+    "animation"
   ],
   "product": [
-    "tool-review",
-    "retail",
-    "store",
     "adafruit",
-    "wearables",
-    "raspberry-pi",
-    "arduino",
-    "circuitpython"
+    "circuitpython",
+    "toy",
+    "education",
+    "board",
+    "children",
+    "hair-washing"
   ],
   "product-announcement": [
     "laser-cutting",
@@ -13701,17 +12526,13 @@
   ],
   "product-design": [
     "3d-printing",
-    "design",
     "crowdfunding",
     "electronics",
     "ai",
     "art",
     "mechanical-design",
-    "gaming"
-  ],
-  "product-recommendation": [
-    "tool-review",
-    "seasonal"
+    "gaming",
+    "design"
   ],
   "product-review": [
     "led",
@@ -13785,9 +12606,9 @@
     "rgb-led"
   ],
   "programming": [
-    "adafruit",
     "arduino",
     "circuitpython",
+    "adafruit",
     "howto",
     "robotics",
     "woodworking",
@@ -13798,9 +12619,6 @@
     "arduino",
     "ai",
     "chatgpt"
-  ],
-  "project-compilation": [
-    "short-form"
   ],
   "project-completion": [
     "productivity",
@@ -13819,14 +12637,6 @@
     "maker-philosophy",
     "design-approach"
   ],
-  "project-video": [
-    "diy",
-    "adafruit"
-  ],
-  "project-website": [
-    "game-design",
-    "retail"
-  ],
   "projectile": [
     "toy",
     "mechanics",
@@ -13837,20 +12647,18 @@
     "nerf-launcher"
   ],
   "projection": [
-    "special-effects",
     "diy",
     "kinetic-art",
-    "howto",
     "furniture",
-    "gaming",
     "display",
-    "optics"
+    "gaming",
+    "optics",
+    "special-effects",
+    "filmmaking"
   ],
   "projection-mapping": [
-    "design",
     "art-installation",
     "origami",
-    "processing",
     "visual-art",
     "digital-art"
   ],
@@ -13862,9 +12670,7 @@
   "projects": [
     "adafruit",
     "collection",
-    "mixed",
-    "build_grippy",
-    "diyodemag"
+    "mixed"
   ],
   "projects-guide": [
     "tutorial",
@@ -13910,11 +12716,6 @@
     "medical",
     "face-shield"
   ],
-  "protoboard": [
-    "electronics",
-    "breadboard",
-    "circuit-boards"
-  ],
   "prototype": [
     "woodworking",
     "mechanical",
@@ -13924,11 +12725,11 @@
     "electronics",
     "microcontroller",
     "haptics",
-    "diy",
     "led",
-    "arduino",
+    "diy",
     "tutorial",
-    "soldering"
+    "design",
+    "neopixel"
   ],
   "proximity-sensor": [
     "wearables",
@@ -13938,11 +12739,6 @@
     "lighting",
     "fashion",
     "mask"
-  ],
-  "proxy": [
-    "design-tool",
-    "web-tool",
-    "figma"
   ],
   "prusaslicer-review": [
     "3d-printing",
@@ -14022,21 +12818,17 @@
     "animatronics",
     "3d-printing",
     "robotics",
-    "mechanical",
-    "props",
     "animation",
     "mechanics",
-    "remote-control"
+    "remote-control",
+    "motorized",
+    "breathing"
   ],
   "puppetry": [
     "art",
     "mechanical-design",
     "animatronics",
     "mechanics"
-  ],
-  "purchasing": [
-    "electronics-tools",
-    "flush-cutter"
   ],
   "pure-data": [
     "esp32",
@@ -14109,8 +12901,8 @@
     "clock",
     "data-display",
     "3d-printing",
-    "circuitpython",
-    "sensor"
+    "sensor",
+    "circuitpython"
   ],
   "pyrotechnics": [
     "lighting",
@@ -14124,17 +12916,17 @@
   ],
   "python": [
     "programming",
-    "raspberry-pi",
     "software",
-    "animatronics",
     "3d-printing",
+    "raspberry-pi",
     "arduino",
     "microcontroller",
+    "animatronics",
     "audio"
   ],
   "qa-video": [
-    "maker-culture",
-    "youtube"
+    "youtube",
+    "maker-culture"
   ],
   "qr-codes": [
     "tutorial",
@@ -14205,13 +12997,13 @@
     "sensor"
   ],
   "radio": [
-    "wireless",
     "electronics",
     "led",
     "wearables",
     "art",
     "interactive",
     "costume",
+    "wireless",
     "github"
   ],
   "radio-communication": [
@@ -14235,10 +13027,7 @@
     "kinetic-art",
     "mechanical-design",
     "sculpture",
-    "coaster",
-    "gravity",
-    "dominikcisar",
-    "roller"
+    "gravity"
   ],
   "raised-beds": [
     "woodworking",
@@ -14260,11 +13049,6 @@
     "comics",
     "thermal-printing"
   ],
-  "randomizer": [
-    "3d-printing",
-    "gadgets",
-    "kitchen-tools"
-  ],
   "rapid-development": [
     "prototyping",
     "methodology"
@@ -14275,11 +13059,11 @@
   ],
   "raspberry-pi": [
     "electronics",
-    "ai",
     "robotics",
-    "diy",
+    "ai",
     "3d-printing",
     "tutorial",
+    "diy",
     "automation",
     "software"
   ],
@@ -14321,7 +13105,7 @@
     "remote-control",
     "pvc",
     "toy-modification",
-    "model"
+    "weapons"
   ],
   "reactive-sound": [
     "led",
@@ -14350,8 +13134,8 @@
   ],
   "recommendations": [
     "electronics",
-    "shopping",
-    "aliexpress"
+    "aliexpress",
+    "shopping"
   ],
   "record": [
     "everything",
@@ -14443,10 +13227,6 @@
     "organization",
     "moving"
   ],
-  "remix": [
-    "servo",
-    "sg90"
-  ],
   "remote-box": [
     "3d-printing",
     "design",
@@ -14464,8 +13244,8 @@
   ],
   "remote-operation": [
     "robotics",
-    "telepresence",
-    "mobile-robot"
+    "mobile-robot",
+    "telepresence"
   ],
   "removable-blade": [
     "3d-printing",
@@ -14507,9 +13287,9 @@
     "automotive"
   ],
   "repeats": [
-    "vector-graphics",
     "inkscape",
-    "pattern-design"
+    "pattern-design",
+    "vector-graphics"
   ],
   "replacement-parts": [
     "3d-printing",
@@ -14535,13 +13315,7 @@
   ],
   "repository": [
     "3d-printing",
-    "design",
-    "programming"
-  ],
-  "reprap": [
-    "3d-printing",
-    "diy-equipment",
-    "3d-printer-design"
+    "design"
   ],
   "repurposing": [
     "electronics",
@@ -14551,7 +13325,7 @@
     "music",
     "props",
     "retro-tech",
-    "software"
+    "metalworking"
   ],
   "repurposing-optics": [
     "camera",
@@ -14597,14 +13371,12 @@
     "trash"
   ],
   "resources": [
-    "playlist",
-    "adafruit",
     "wearables",
     "tutorial",
-    "software",
-    "open-source",
+    "workshop-tips",
     "documentation",
-    "workshop-tips"
+    "playlist",
+    "maker-books"
   ],
   "responsive": [
     "led-display",
@@ -14620,19 +13392,17 @@
     "3d-printing",
     "electronics",
     "lighting",
-    "plastic",
     "hand-tools",
+    "plastic",
     "finishing",
     "vintage-tech"
   ],
   "retail": [
-    "tool-review",
-    "product",
     "adafruit",
     "raspberry-pi",
     "circuitpython",
     "programming",
-    "game-design",
+    "cambridge",
     "store"
   ],
   "retro": [
@@ -14652,8 +13422,8 @@
     "display",
     "vintage",
     "interactive-display",
-    "severance-fan-art",
-    "logic"
+    "logic",
+    "screen-design"
   ],
   "retro-design": [
     "cardboard",
@@ -14675,10 +13445,10 @@
     "gaming",
     "adafruit",
     "raspberry-pi",
-    "fusion",
     "craft",
     "3d-printing",
-    "diy"
+    "ai",
+    "fusion"
   ],
   "retro-technology": [
     "internet-archive"
@@ -14687,10 +13457,6 @@
     "hacking",
     "electronics-mod",
     "circuit-bending"
-  ],
-  "reusable": [
-    "cable-management",
-    "cable-ties"
   ],
   "reuse": [
     "electronics",
@@ -14701,13 +13467,13 @@
   ],
   "reverse-engineering": [
     "electronics",
-    "arduino",
     "cad",
     "toy",
     "photography",
     "education",
     "power-tools",
-    "3d-scanning"
+    "3d-scanning",
+    "modeling"
   ],
   "rf-engineering": [
     "3d-printing",
@@ -14718,8 +13484,8 @@
     "automation",
     "wearables",
     "iot",
-    "home-automation",
     "fabrication",
+    "home-automation",
     "hardware",
     "safety"
   ],
@@ -14775,12 +13541,6 @@
     "lego",
     "automaton"
   ],
-  "ride-on-toy": [
-    "robotics",
-    "mechanical-design",
-    "automotive",
-    "cad-modeling"
-  ],
   "right-angle-attachment": [
     "drill"
   ],
@@ -14797,8 +13557,8 @@
   ],
   "ring-jewelry": [
     "casting",
-    "special-effects",
-    "acrylic"
+    "acrylic",
+    "special-effects"
   ],
   "riveting": [
     "hand-tools"
@@ -14812,11 +13572,11 @@
     "automation",
     "robotics",
     "3d-printing",
-    "props",
     "novelty",
     "arduino",
     "woodworking",
-    "music"
+    "music",
+    "props"
   ],
   "robot-arm": [
     "mechanics",
@@ -14849,18 +13609,14 @@
     "diy",
     "arduino",
     "animatronics",
-    "mechanical",
-    "mechanical-design",
-    "adafruit"
+    "adafruit",
+    "wearables",
+    "mechanical"
   ],
   "rocketry": [
-    "arduino",
-    "microcontroller",
     "rockets",
     "amateur-rockets",
     "estes",
-    "launcher-automation",
-    "paper-rocket",
     "space-tech"
   ],
   "rockets": [
@@ -14872,11 +13628,6 @@
   "rocking-chair": [
     "furniture",
     "pvc"
-  ],
-  "roller": [
-    "coaster",
-    "rainbow",
-    "dominikcisar"
   ],
   "room-design": [
     "3d-printing",
@@ -14941,8 +13692,8 @@
   "rotation": [
     "3d-printing",
     "raspberry-pi",
-    "mechanical-design",
     "display",
+    "mechanical-design",
     "screen-orientation"
   ],
   "rotisserie-tool": [
@@ -14981,16 +13732,10 @@
     "microcontroller",
     "electronics",
     "robotics",
-    "music",
     "lighting",
+    "music",
     "esp32",
     "prototyping"
-  ],
-  "rpipress": [
-    "wearables",
-    "raspberry-pi",
-    "product",
-    "store"
   ],
   "rube-goldberg": [
     "mechanics",
@@ -15027,14 +13772,14 @@
     "repurposing"
   ],
   "safety": [
-    "electronics",
     "led",
     "woodworking",
+    "electronics",
     "wearables",
     "lighting",
     "craft",
     "automation",
-    "laser-cutting"
+    "wood"
   ],
   "safety-gear": [
     "welding"
@@ -15059,21 +13804,12 @@
     "hardware",
     "board"
   ],
-  "sampler": [
-    "diy",
-    "arduino",
-    "music",
-    "audio"
-  ],
   "sand-table": [
     "kinetic-art",
     "art",
-    "furniture",
     "mechanical-design",
     "cad",
-    "motors",
-    "kinetic",
-    "magnets"
+    "motors"
   ],
   "sanding": [
     "spray-paint",
@@ -15088,14 +13824,12 @@
     "work-station-improvement"
   ],
   "sao": [
-    "badge",
-    "electronics",
     "led",
     "microcontroller",
     "interactive",
-    "audio",
-    "wireless",
-    "hackaday"
+    "badge",
+    "nfc",
+    "tarot"
   ],
   "satellite-modem": [
     "iot",
@@ -15141,8 +13875,8 @@
   "scale-model": [
     "3d-printing",
     "props",
-    "art",
     "craft",
+    "art",
     "retro-tech",
     "gaming",
     "sculpture",
@@ -15216,10 +13950,6 @@
   ],
   "scissors": [
     "utility"
-  ],
-  "scissors-lift": [
-    "servo",
-    "mechanism"
   ],
   "scooter": [
     "led",
@@ -15295,8 +14025,8 @@
     "cosplay",
     "props",
     "casting",
-    "crafting",
     "foam",
+    "crafting",
     "architecture",
     "ceramics"
   ],
@@ -15325,11 +14055,6 @@
     "software",
     "flashing"
   ],
-  "sd-card-storage": [
-    "3d-printing",
-    "key-fobs",
-    "practical-prints"
-  ],
   "sdr": [
     "diy",
     "portable-computer",
@@ -15344,20 +14069,10 @@
     "wearables",
     "electronics",
     "led",
-    "tool-review",
     "animatronics",
     "neopixel",
-    "education"
-  ],
-  "seasonal-making": [
-    "3d-printing",
-    "design-competition",
-    "easter-contest"
-  ],
-  "seasonal-projects": [
-    "3d-printing",
-    "cookie-cutter",
-    "easter-crafts"
+    "education",
+    "wireless"
   ],
   "seconds": [
     "everything",
@@ -15386,9 +14101,9 @@
   ],
   "seeed-studio": [
     "robotics",
-    "learning-platform",
     "legged-motion",
-    "ai-arm-kit"
+    "ai-arm-kit",
+    "learning-platform"
   ],
   "segment-display": [
     "electronics",
@@ -15406,10 +14121,7 @@
     "sensor"
   ],
   "selection": [
-    "3d-printing",
-    "motors",
-    "specifications",
-    "types"
+    "3d-printing"
   ],
   "selection-guide": [
     "arduino",
@@ -15426,14 +14138,8 @@
   "semiconductor": [
     "physics",
     "light",
-    "science",
-    "history"
-  ],
-  "semiconductor-electronics": [
-    "educational",
-    "browser-based",
-    "interactive-learning",
-    "web-simulator"
+    "history",
+    "science"
   ],
   "sensing": [
     "music",
@@ -15448,8 +14154,8 @@
     "wearables",
     "adafruit",
     "raspberry-pi",
-    "automation",
-    "robotics"
+    "robotics",
+    "automation"
   ],
   "sensor-board": [
     "microcontroller",
@@ -15467,10 +14173,9 @@
   ],
   "sequencer": [
     "electronics",
-    "music",
     "mechanical",
+    "music",
     "adafruit",
-    "circuitpython",
     "step-sequencer"
   ],
   "sequential-puzzle": [
@@ -15484,10 +14189,8 @@
   ],
   "serial-communication": [
     "electronics",
-    "arduino",
     "microcontroller",
-    "hardware",
-    "i2c"
+    "hardware"
   ],
   "service": [
     "3d-printing",
@@ -15507,9 +14210,9 @@
     "3d-printing",
     "arduino",
     "animatronics",
-    "mechanics",
     "adafruit",
-    "mechanical"
+    "mechanical",
+    "display"
   ],
   "servo-based": [
     "3d-printing",
@@ -15537,13 +14240,8 @@
     "electronics",
     "automation",
     "arduino",
-    "mechanical-design",
-    "animation"
-  ],
-  "servo-mount": [
-    "3d-printing",
-    "electronics",
-    "lego"
+    "animation",
+    "mechanical-design"
   ],
   "set-design": [
     "fabrication-technique",
@@ -15575,17 +14273,16 @@
     "clock",
     "3d-printing",
     "mechanical",
-    "mechanical-design",
     "animation",
     "display",
+    "mechanical-design",
     "segment-display",
     "mechanical-clock"
   ],
   "severance-fan-art": [
     "raspberry-pi",
-    "interactive-display",
     "retro-computing",
-    "desktop-terminal",
+    "interactive-display",
     "screen-design"
   ],
   "sewage-infrastructure": [
@@ -15609,10 +14306,6 @@
   "sewing-machine": [
     "3d-printing",
     "mechanical"
-  ],
-  "sg90": [
-    "servo",
-    "remix"
   ],
   "shadow-art": [
     "led",
@@ -15651,8 +14344,8 @@
     "furniture",
     "workshop-organization",
     "workspace",
-    "makerspace",
     "plywood",
+    "makerspace",
     "floating-shelf"
   ],
   "shenzhen": [
@@ -15692,21 +14385,14 @@
   "shopping": [
     "electronics",
     "aliexpress",
-    "recommendations",
-    "task-lighting"
+    "recommendations"
   ],
   "shopping-guide": [
     "3d-printing",
     "cosplay",
     "costume-shops"
   ],
-  "short-form": [
-    "project-compilation"
-  ],
-  "show-format": [
-    "announcement",
-    "teaser"
-  ],
+  "show-format": [],
   "showcase": [
     "3d-printing",
     "creative-designs"
@@ -15762,9 +14448,9 @@
     "test-equipment"
   ],
   "signal-jamming": [
-    "radio",
     "technology",
-    "gps"
+    "gps",
+    "radio"
   ],
   "signal-processing": [
     "education",
@@ -15794,31 +14480,15 @@
     "furniture",
     "workbench"
   ],
-  "simple-machines": [
-    "mechanical-engineering",
-    "robotics",
-    "instructables",
-    "physics",
-    "educational"
-  ],
   "simulation": [
     "game",
     "3d-printing",
     "electronics",
     "arduino",
     "woodworking",
-    "ai",
-    "mechanical-design",
-    "engineering"
-  ],
-  "simulator": [
-    "electronics",
-    "arduino",
-    "microcontroller",
-    "esp32",
-    "design-tool",
-    "prototyping",
-    "origami"
+    "puzzle",
+    "motion-control",
+    "circuit-design"
   ],
   "single-board-computer": [
     "raspberry-pi",
@@ -15852,12 +14522,12 @@
     "props",
     "vehicles",
     "pets",
-    "electric",
-    "instrument"
+    "instrument",
+    "pyrotechnics"
   ],
   "skateboard-rack": [
-    "design",
     "furniture",
+    "design",
     "metal"
   ],
   "skeleton": [
@@ -15866,10 +14536,6 @@
     "props",
     "animation",
     "skull"
-  ],
-  "sketch": [
-    "cad",
-    "3d-modeling"
   ],
   "sketchbook": [
     "wearables",
@@ -15881,8 +14547,8 @@
   ],
   "sketching": [
     "tutorial",
-    "prototyping",
     "drawing",
+    "prototyping",
     "craftsmanship",
     "design-process"
   ],
@@ -15920,7 +14586,6 @@
   "slicing": [
     "3d-printing",
     "software",
-    "open-source",
     "cura",
     "advanced-techniques"
   ],
@@ -16014,11 +14679,6 @@
     "ambient-lighting",
     "music-visualization"
   ],
-  "smartphone": [
-    "robotics",
-    "ai",
-    "app"
-  ],
   "smartphone-accessories": [
     "design",
     "crafting"
@@ -16029,8 +14689,6 @@
   ],
   "smartwatch": [
     "wearables",
-    "electronics",
-    "microcontroller",
     "modular"
   ],
   "smd": [
@@ -16050,8 +14708,8 @@
     "surface-finishing"
   ],
   "sms": [
-    "circuitpython",
     "sensor",
+    "circuitpython",
     "mobile",
     "fona"
   ],
@@ -16103,7 +14761,6 @@
   ],
   "social-media": [
     "art",
-    "instagram-art",
     "sculpture",
     "instagram"
   ],
@@ -16126,24 +14783,18 @@
   ],
   "software": [
     "3d-printing",
-    "cad",
     "raspberry-pi",
+    "cad",
     "design",
-    "open-source",
-    "generative-art",
-    "cnc",
-    "design-tool"
+    "design-tool",
+    "adafruit",
+    "tutorial",
+    "generative-art"
   ],
   "software-engineering": [
     "programming",
     "learning",
     "code-reading"
-  ],
-  "software-preservation": [
-    "retro-tech",
-    "digital-archiving",
-    "mac-software",
-    "open-access"
   ],
   "software-release": [
     "cad",
@@ -16156,13 +14807,11 @@
     "streaming"
   ],
   "software-tools": [
-    "3d-printing",
     "laser-cutting",
+    "3d-printing",
     "cnc",
     "gcode",
-    "lithophane",
     "svg",
-    "image-processing",
     "svg-design"
   ],
   "solar": [
@@ -16188,13 +14837,13 @@
   ],
   "soldering": [
     "electronics",
-    "3d-printing",
     "howto",
     "metalworking",
-    "adafruit",
-    "tool-review",
+    "3d-printing",
     "robotics",
-    "diy"
+    "adafruit",
+    "tutorial",
+    "tool-review"
   ],
   "soldering-accessory": [
     "diy-tools",
@@ -16284,9 +14933,9 @@
     "lego",
     "mechanical",
     "machine",
-    "browser-based",
     "machine-vision",
-    "screws"
+    "screws",
+    "browser-based"
   ],
   "sound": [
     "electronics",
@@ -16299,11 +14948,9 @@
     "wearables"
   ],
   "sound-art": [
-    "installation",
-    "ai",
     "sculpture",
     "audio",
-    "simulation"
+    "installation"
   ],
   "sound-design": [
     "audio",
@@ -16323,14 +14970,14 @@
     "electronics"
   ],
   "sound-reactive": [
-    "led",
     "music",
+    "led",
     "wearables",
-    "lighting",
-    "audio",
     "costume",
     "art-installation",
-    "percussion"
+    "percussion",
+    "instrument",
+    "hair"
   ],
   "sound-recording": [
     "audio",
@@ -16345,12 +14992,6 @@
     "adafruit",
     "music",
     "audio"
-  ],
-  "soundcloud": [
-    "music",
-    "burning",
-    "corejr",
-    "designing"
   ],
   "soundproofing": [
     "coffee-grinder"
@@ -16430,26 +15071,18 @@
   ],
   "special-effects": [
     "lighting",
-    "projection",
     "pyrotechnics",
     "robotics",
     "led",
     "props",
     "automation",
-    "howto"
+    "animatronics",
+    "sensor"
   ],
   "special-effects-engineering": [
     "cooling-system",
     "evaporative-cooling",
     "foam-fog-effects"
-  ],
-  "specifications": [
-    "motors",
-    "mechanics",
-    "servo",
-    "selection",
-    "stepper",
-    "types"
   ],
   "spectroscopy": [
     "optics",
@@ -16661,14 +15294,6 @@
     "soldering",
     "electronics-workbench"
   ],
-  "status": [
-    "twitter",
-    "programming",
-    "1159161535220125697",
-    "1163509773142130688",
-    "coregeeknet",
-    "stephaniecodes"
-  ],
   "steam": [
     "electronics",
     "mechanical",
@@ -16682,9 +15307,7 @@
   ],
   "steampunk": [
     "3d-printing",
-    "mechanical",
     "props",
-    "vintage-restoration",
     "valve-handle"
   ],
   "steampunk-styling": [
@@ -16692,10 +15315,6 @@
     "computer-case",
     "custom-pc",
     "cyberpunk-aesthetics"
-  ],
-  "steering": [
-    "bike",
-    "vehicle-mechanics"
   ],
   "stem-education": [
     "microcontroller",
@@ -16721,21 +15340,11 @@
     "diy-instrument",
     "sequencer"
   ],
-  "stephaniecodes": [
-    "programming",
-    "twitter",
-    "status",
-    "1159161535220125697"
-  ],
-  "stepper": [
-    "motors",
-    "specifications"
-  ],
   "stepper-motors": [
     "electronics",
-    "robotics",
     "arduino",
     "automation",
+    "robotics",
     "cnc",
     "mechanical-design",
     "microcontroller",
@@ -16767,8 +15376,8 @@
     "mechanical",
     "props",
     "craft",
-    "software",
-    "camera"
+    "camera",
+    "filmmaking"
   ],
   "storage": [
     "3d-printing",
@@ -16793,20 +15402,11 @@
   ],
   "store": [
     "raspberry-pi",
-    "product",
-    "wearables",
-    "arduino",
     "retail",
-    "cambridge",
-    "rpipress"
+    "cambridge"
   ],
   "stories": [
     "podcast"
-  ],
-  "storytelling": [
-    "khan-academy",
-    "hass",
-    "humanities"
   ],
   "straightener": [
     "metalworking",
@@ -16854,12 +15454,6 @@
     "laser-cutting",
     "wall-art"
   ],
-  "string-instrument": [
-    "music",
-    "electric",
-    "erhu",
-    "hybrid"
-  ],
   "strong": [
     "adhesive",
     "tape",
@@ -16873,17 +15467,13 @@
     "installation",
     "connector",
     "pvc",
-    "aluminum-extrusion"
+    "poles"
   ],
   "structural-engineering": [
     "cardboard",
     "papercraft",
     "recycled-materials",
     "building-technique"
-  ],
-  "structure": [
-    "3d-printing",
-    "guerilla-beam"
   ],
   "studio-design": [
     "diy",
@@ -16991,10 +15581,6 @@
     "led",
     "sports"
   ],
-  "survey": [
-    "event",
-    "form"
-  ],
   "sustainability": [
     "3d-printing",
     "electronics",
@@ -17011,9 +15597,8 @@
   ],
   "svg": [
     "laser-cutting",
-    "3d-printing",
-    "software",
     "cnc",
+    "software",
     "design-tool",
     "cricut",
     "software-tools"
@@ -17025,11 +15610,6 @@
   "svg-graphics": [
     "emoji",
     "design-asset"
-  ],
-  "swarm": [
-    "robotics",
-    "esp32",
-    "coordination"
   ],
   "sweeper": [
     "robotics",
@@ -17050,13 +15630,13 @@
   ],
   "switches": [
     "electronics",
-    "mechanical",
     "3d-printing",
-    "hardware",
+    "mechanical",
     "vintage",
-    "input-device",
     "aerospace",
-    "vr"
+    "vr",
+    "collectible",
+    "electromagnet"
   ],
   "sword": [
     "props",
@@ -17073,17 +15653,10 @@
     "dowel",
     "drill-jig"
   ],
-  "symmetrical-patterns": [
-    "cnc",
-    "laser-cutting",
-    "manufacturing",
-    "design-software"
-  ],
   "synth": [
     "electronics",
-    "music",
     "arduino",
-    "atari-punk"
+    "music"
   ],
   "synth-hardware": [
     "midi",
@@ -17097,7 +15670,7 @@
     "3d-printing",
     "adafruit",
     "wearables",
-    "kinetic-art"
+    "ai"
   ],
   "synthesizer-instrument": [
     "music",
@@ -17109,10 +15682,6 @@
     "production-monitoring",
     "real-time-display"
   ],
-  "t5n8g5l": [
-    "gallery",
-    "imgur"
-  ],
   "table-design": [
     "furniture",
     "collaboration"
@@ -17123,7 +15692,6 @@
     "workshop-tips",
     "safety",
     "tool-technique",
-    "joinery",
     "lathe"
   ],
   "table-saw-accessory": [
@@ -17147,10 +15715,6 @@
   ],
   "tales": [
     "shop"
-  ],
-  "talks": [
-    "conference",
-    "open-hardware"
   ],
   "tank-robot": [
     "rc-vehicle",
@@ -17197,21 +15761,13 @@
     "microcontroller",
     "interactive",
     "badge",
-    "sao",
-    "nfc"
-  ],
-  "task-lighting": [
-    "electronics",
-    "shopping"
+    "nfc",
+    "sao"
   ],
   "tea": [
     "automation",
     "kinetic-sculpture",
     "ball-bearing"
-  ],
-  "teaching": [
-    "electronics",
-    "ampere-hour"
   ],
   "teardown": [
     "electronics",
@@ -17222,10 +15778,6 @@
     "reverse-engineering",
     "documentation",
     "el-wire"
-  ],
-  "teaser": [
-    "announcement",
-    "show-format"
   ],
   "tech": [
     "electronics",
@@ -17247,10 +15799,10 @@
     "robotics",
     "wireless",
     "interactive-art",
-    "product-design",
     "kinetic-sculpture",
-    "radio",
-    "gps"
+    "product-design",
+    "gps",
+    "radio"
   ],
   "teensy": [
     "microcontroller"
@@ -17261,8 +15813,8 @@
   ],
   "telephone": [
     "retro-tech",
-    "electronic-sculpture",
     "recreation",
+    "electronic-sculpture",
     "rotary-phone",
     "unconventional"
   ],
@@ -17273,8 +15825,6 @@
   "telepresence": [
     "robotics",
     "3d-printing",
-    "arduino",
-    "servo",
     "vr",
     "mobile-robot",
     "remote-operation"
@@ -17283,8 +15833,8 @@
     "optics",
     "woodworking",
     "space",
-    "science",
-    "history"
+    "history",
+    "science"
   ],
   "television": [
     "experiments",
@@ -17348,22 +15898,15 @@
     "circuitpython",
     "game"
   ],
-  "text-to-speech": [
-    "raspberry-pi",
-    "ai",
-    "iot",
-    "touchscreen",
-    "video-generation"
-  ],
   "textile": [
-    "weaving",
     "3d-printing",
     "art",
-    "open-source",
+    "weaving",
     "craft",
     "automation",
     "design",
-    "fashion"
+    "fashion",
+    "sewing"
   ],
   "textile-arts": [
     "fiber-crafts",
@@ -17377,13 +15920,11 @@
   ],
   "textile-design": [
     "sewing",
-    "3d-printing",
     "wearables",
     "software",
     "embroidery",
-    "fiber-art",
-    "crochet",
-    "custom-apparel"
+    "custom-apparel",
+    "fabric-crafting"
   ],
   "texture": [
     "3d-printing",
@@ -17399,9 +15940,6 @@
     "3d-printing",
     "layer-lines"
   ],
-  "thank-you": [
-    "acknowledgment"
-  ],
   "theater-technique": [
     "optics",
     "illusion"
@@ -17409,11 +15947,6 @@
   "theremin": [
     "electronics",
     "light-sensing"
-  ],
-  "thermal-design": [
-    "coaster",
-    "beverage-cooling",
-    "heat"
   ],
   "thermal-imaging": [
     "sensor",
@@ -17445,9 +15978,7 @@
   "thingiverse": [
     "3d-printing",
     "collection",
-    "miniature-models",
-    "travel",
-    "printable-designs"
+    "travel"
   ],
   "thread-art": [
     "craftsmanship",
@@ -17475,8 +16006,8 @@
     "cosplay",
     "props",
     "metalworking",
-    "fasteners",
     "machining",
+    "fasteners",
     "fusion360",
     "acme-thread"
   ],
@@ -17498,8 +16029,8 @@
     "3d-printing",
     "design",
     "jewelry",
-    "mechanical-keyboard",
     "geometric",
+    "mechanical-keyboard",
     "custom",
     "scrabble"
   ],
@@ -17551,10 +16082,6 @@
     "electronics",
     "comparison"
   ],
-  "timer-gadget": [
-    "3d-printing",
-    "gaming-themed"
-  ],
   "timing-device": [
     "mechanism",
     "kinetic-sculpture",
@@ -17563,12 +16090,9 @@
   "tinkercad": [
     "cad",
     "3d-modeling",
-    "3d-printing",
     "software",
-    "plastic",
-    "coding",
-    "fusion",
-    "3d-design"
+    "3d-design",
+    "workflow"
   ],
   "tiny-screen": [
     "microcontroller",
@@ -17637,14 +16161,14 @@
     "machine-parts"
   ],
   "tool-design": [
-    "3d-printing",
     "metalworking",
+    "3d-printing",
     "cnc",
     "fasteners",
     "sheet-metal",
     "everyday-carry",
-    "cardboard-connector",
-    "edc"
+    "edc",
+    "knife"
   ],
   "tool-guide": [
     "cosplay",
@@ -17677,8 +16201,8 @@
     "soldering",
     "workbench",
     "metal-fabrication",
-    "wire-stripping",
-    "punching-tool"
+    "punching-tool",
+    "wire-stripping"
   ],
   "tool-mechanism": [
     "tutorial",
@@ -17710,9 +16234,7 @@
   "tool-recommendation": [
     "adhesive",
     "welding",
-    "brazing",
-    "women-focused",
-    "women-in-making"
+    "brazing"
   ],
   "tool-restoration": [
     "metalworking",
@@ -17721,12 +16243,12 @@
   "tool-review": [
     "howto",
     "electronics",
-    "hand-tools",
     "podcast",
-    "soldering",
     "adhesive",
-    "cutting",
-    "knipex"
+    "soldering",
+    "hand-tools",
+    "knipex",
+    "3d-printing"
   ],
   "tool-stand": [
     "portable",
@@ -17748,8 +16270,8 @@
     "woodworking",
     "measurement",
     "jig",
-    "table-saw",
     "brass",
+    "table-saw",
     "vacuum-forming"
   ],
   "tool-upgrades": [
@@ -17800,14 +16322,14 @@
     "stepper-motors"
   ],
   "touchscreen": [
-    "raspberry-pi",
     "esp32",
+    "raspberry-pi",
     "music",
-    "ai",
-    "iot",
     "synthesizer",
     "case",
-    "affordable"
+    "affordable",
+    "lcd",
+    "wireless-controller"
   ],
   "tourbillon": [
     "3d-printing",
@@ -17821,12 +16343,12 @@
   "toy": [
     "electronics",
     "3d-printing",
-    "mechanical",
     "robotics",
-    "props",
+    "mechanical",
     "launcher",
-    "ai",
-    "novelty"
+    "props",
+    "novelty",
+    "arduino"
   ],
   "toy-camera-hack": [
     "camera",
@@ -17911,19 +16433,15 @@
     "ai",
     "offline"
   ],
-  "transmitter": [
-    "radio",
-    "gta"
-  ],
   "transportation": [
-    "3d-printing",
     "wearables",
     "art",
-    "vehicles",
     "battery",
-    "mechanical-engineering",
     "electronics-mod",
-    "watercraft"
+    "watercraft",
+    "inflatable",
+    "conservation",
+    "e-bike"
   ],
   "trash": [
     "adafruit",
@@ -17954,8 +16472,8 @@
   "travel": [
     "3d-printing",
     "fashion",
-    "fabric",
     "sewing",
+    "fabric",
     "collection",
     "thingiverse"
   ],
@@ -18019,8 +16537,8 @@
     "electronics",
     "diy",
     "music",
-    "cnc",
-    "furniture"
+    "furniture",
+    "cnc"
   ],
   "turtle": [
     "robotics",
@@ -18038,17 +16556,12 @@
   "tutorial": [
     "3d-printing",
     "plastic",
-    "electronics",
     "ai",
-    "diy",
+    "electronics",
     "raspberry-pi",
+    "diy",
     "adafruit",
     "robotics"
-  ],
-  "tutorial-series": [
-    "youtube-channel",
-    "content-creation",
-    "electronics-engineering"
   ],
   "tv": [
     "microcontroller",
@@ -18076,11 +16589,6 @@
     "furniture",
     "motorized"
   ],
-  "tvout": [
-    "electronics",
-    "arduino",
-    "animation"
-  ],
   "twitch": [
     "controller",
     "3d-printing",
@@ -18090,13 +16598,7 @@
     "streaming"
   ],
   "twitter": [
-    "status",
-    "programming",
-    "maker",
-    "1159161535220125697",
-    "1163509773142130688",
-    "coregeeknet",
-    "stephaniecodes"
+    "maker"
   ],
   "typeface": [
     "cnc",
@@ -18105,11 +16607,6 @@
     "accessibility",
     "font",
     "braille"
-  ],
-  "types": [
-    "motors",
-    "specifications",
-    "selection"
   ],
   "typewriter": [
     "vintage-tech",
@@ -18135,17 +16632,13 @@
   ],
   "uncategorized": [],
   "unconventional": [
-    "electronic-sculpture",
-    "telephone"
+    "telephone",
+    "electronic-sculpture"
   ],
   "underwater-craft": [
     "engineering",
     "pressure-vessel",
     "submarine"
-  ],
-  "unfold": [
-    "papercraft",
-    "3d-model"
   ],
   "universal-remote": [
     "electronics",
@@ -18161,10 +16654,6 @@
     "arduino",
     "education",
     "kit"
-  ],
-  "unreal-engine": [
-    "game-dev",
-    "indie-game"
   ],
   "upcycling": [
     "electronics",
@@ -18256,15 +16745,11 @@
     "scanner",
     "matrix"
   ],
-  "utcbodoy8xc": [
-    "youtube",
-    "watch"
-  ],
   "utensil-design": [
     "instructables",
     "functional-design",
-    "kitchen-tools",
     "cooking-gadgets",
+    "kitchen-tools",
     "multi-function-tool",
     "personal-project"
   ],
@@ -18274,10 +16759,6 @@
     "tape",
     "organizer",
     "scissors"
-  ],
-  "utility-prints": [
-    "3d-printing",
-    "home-organization"
   ],
   "uv-curing": [
     "keyboard",
@@ -18320,8 +16801,8 @@
     "upcycling",
     "tool-technique",
     "diy-tools",
-    "adam-savage",
     "thermoforming",
+    "adam-savage",
     "plastic-forming"
   ],
   "vacuum-robot": [
@@ -18363,23 +16844,10 @@
     "custom-signage",
     "subway-map-art"
   ],
-  "vector-display": [
-    "art",
-    "laser"
-  ],
   "vector-graphics": [
     "inkscape",
-    "software",
-    "cnc",
-    "open-source",
-    "generative-art",
-    "drawing-automation",
     "pattern-design",
     "repeats"
-  ],
-  "vehicle-mechanics": [
-    "bike",
-    "steering"
   ],
   "vehicle-modification": [
     "custom-hardware",
@@ -18395,7 +16863,7 @@
     "cardboard",
     "robotics",
     "diy",
-    "mechanical",
+    "lighting",
     "music"
   ],
   "vending-machine": [
@@ -18449,17 +16917,14 @@
     "raspberry-pi",
     "mechanical",
     "art",
-    "design",
-    "cnc"
+    "cnc",
+    "display"
   ],
   "video-art": [
     "electronics",
     "diy",
     "kinetic-art",
     "light"
-  ],
-  "video-collection": [
-    "playlist"
   ],
   "video-documentation": [
     "generative-art",
@@ -18485,13 +16950,6 @@
     "costume",
     "final-fantasy"
   ],
-  "video-generation": [
-    "raspberry-pi",
-    "ai",
-    "iot",
-    "touchscreen",
-    "text-to-speech"
-  ],
   "video-lecture": [
     "prototyping",
     "fabrication-technique"
@@ -18511,19 +16969,14 @@
     "camera-rig",
     "cinematography"
   ],
-  "video-reference": [],
   "video-series": [
-    "maker-content",
-    "entertainment"
+    "entertainment",
+    "maker-content"
   ],
   "village": [
     "automation",
     "stepper-motors",
     "christmas"
-  ],
-  "vimeo": [
-    "247332053",
-    "247332235"
   ],
   "vintage": [
     "electronics",
@@ -18545,10 +16998,8 @@
   ],
   "vintage-restoration": [
     "electronics",
-    "mechanical",
     "upcycling",
-    "communication",
-    "steampunk"
+    "communication"
   ],
   "vintage-tech": [
     "electronics",
@@ -18647,18 +17098,13 @@
   ],
   "visualizer": [
     "electronics",
-    "github",
-    "audio-spectrum",
-    "onlaj",
-    "piano"
+    "audio-spectrum"
   ],
   "voice-assistant": [
-    "ai",
     "3d-printing",
-    "raspberry-pi",
+    "ai",
     "hacking",
     "privacy",
-    "offline",
     "smart-device",
     "disruption"
   ],
@@ -18699,10 +17145,6 @@
     "covid-19",
     "distributed-processing"
   ],
-  "voronoi": [
-    "web-tool",
-    "generative-design"
-  ],
   "voronoi-design": [
     "lamp",
     "led-lighting",
@@ -18724,7 +17166,7 @@
     "wearables",
     "software",
     "open-source",
-    "switches"
+    "game-controller"
   ],
   "vr-haptics": [
     "wearable-tech",
@@ -18760,10 +17202,9 @@
   ],
   "walking-robot": [
     "robotics",
-    "mechanical-design",
-    "3d-printing",
     "mechanical",
     "props",
+    "mechanical-design",
     "mechanical-engineering",
     "four-legged"
   ],
@@ -18798,14 +17239,11 @@
     "fps"
   ],
   "watch": [
-    "youtube",
     "electronics",
     "wearables",
     "repair",
     "cyberpunk-fashion",
-    "e-waste",
-    "feature",
-    "idl8tvi"
+    "e-waste"
   ],
   "watches": [
     "wearables",
@@ -18838,10 +17276,6 @@
     "illumination",
     "zen-art"
   ],
-  "water-filtration": [
-    "engineering",
-    "pandemic"
-  ],
   "water-play": [
     "friction",
     "outdoor-project"
@@ -18858,8 +17292,8 @@
     "3d-printing",
     "diy",
     "pla",
-    "electric",
     "transportation",
+    "electric",
     "inflatable",
     "electric-motor"
   ],
@@ -18905,8 +17339,8 @@
   "wearables": [
     "led",
     "electronics",
-    "adafruit",
     "cosplay",
+    "adafruit",
     "costume",
     "jewelry",
     "3d-printing",
@@ -18953,17 +17387,13 @@
     "textile",
     "3d-printing",
     "art",
-    "open-source",
     "3d-design",
-    "foldable",
     "loom"
   ],
   "web": [
     "raspberry-pi",
-    "art",
     "software",
     "iot",
-    "interactive",
     "movie-database"
   ],
   "web-app": [
@@ -18976,28 +17406,12 @@
     "ble",
     "dashboard"
   ],
-  "web-based": [
-    "software"
-  ],
   "web-shooters": [
     "wearables",
     "cosplay"
   ],
-  "web-simulator": [
-    "educational",
-    "browser-based",
-    "interactive-learning",
-    "semiconductor-electronics"
-  ],
   "web-tool": [
-    "electronics",
-    "design",
-    "game",
-    "design-tool",
-    "puzzle",
-    "circuit",
-    "figma",
-    "jigsaw"
+    "game"
   ],
   "webcam": [
     "robotics",
@@ -19005,8 +17419,6 @@
     "vision"
   ],
   "website": [
-    "generative-art",
-    "online-tool",
     "blockchain",
     "nft"
   ],
@@ -19040,13 +17452,9 @@
   ],
   "wheels": [
     "robotics",
-    "3d-printing",
     "tutorial",
-    "design",
     "motion",
-    "mobility",
-    "mecanum",
-    "xrp"
+    "mobility"
   ],
   "whistle": [
     "music",
@@ -19162,10 +17570,6 @@
   ],
   "wire-stripping": [
     "electronics",
-    "automation",
-    "tool-review",
-    "hand-tools",
-    "electronics-assembly",
     "tool-making"
   ],
   "wire-tools": [
@@ -19178,8 +17582,8 @@
   "wireless": [
     "adafruit",
     "bluetooth",
-    "arduino",
     "led",
+    "arduino",
     "microcontroller",
     "electronics",
     "retro-tech",
@@ -19221,11 +17625,11 @@
   "wled": [
     "led",
     "electronics",
-    "laser-cutting",
     "neopixel",
+    "laser-cutting",
     "programming",
-    "seasonal",
     "home-decor",
+    "seasonal",
     "led-lighting"
   ],
   "wobbler": [
@@ -19238,21 +17642,13 @@
     "addressable",
     "fireworks"
   ],
-  "women-focused": [
-    "tool-recommendation",
-    "women-in-making"
-  ],
-  "women-in-making": [
-    "tool-recommendation",
-    "women-focused"
-  ],
   "wood": [
     "woodworking",
-    "3d-printing",
-    "laser-cutting",
     "programming",
+    "3d-printing",
     "diy",
     "cnc",
+    "laser-cutting",
     "led",
     "lighting"
   ],
@@ -19283,11 +17679,11 @@
     "wood",
     "furniture",
     "cnc",
-    "metalworking",
     "diy",
-    "hand-tools",
+    "metalworking",
     "storage",
-    "power-tools"
+    "power-tools",
+    "hand-tools"
   ],
   "woodworking-technique": [
     "cnc",
@@ -19344,7 +17740,6 @@
     "3d-printing",
     "storage",
     "mount",
-    "din-rail",
     "soldering-tool"
   ],
   "workshop-cart": [
@@ -19402,8 +17797,8 @@
     "metalworking",
     "table-saw",
     "jig",
-    "resources",
     "clamp",
+    "resources",
     "woodworking-tools",
     "maker-books"
   ],
@@ -19457,11 +17852,6 @@
     "weather",
     "split-flap"
   ],
-  "xrp": [
-    "robotics",
-    "wheels",
-    "mecanum"
-  ],
   "xylophone": [
     "music",
     "woodworking",
@@ -19482,10 +17872,6 @@
     "tool-review",
     "product-review"
   ],
-  "year-transition": [
-    "announcement",
-    "greeting"
-  ],
   "years": [
     "back",
     "beetlecam",
@@ -19503,28 +17889,18 @@
     "believe",
     "fictional"
   ],
-  "youtu": [
-    "o_lxz6a6msq"
-  ],
   "youtube": [
-    "maker-content",
-    "watch",
-    "diy",
     "adafruit",
-    "tutorial",
     "iot",
     "pyportal",
-    "podcast"
+    "podcast",
+    "data-display",
+    "maker-content",
+    "maker-culture",
+    "qa-video"
   ],
   "youtube-channel": [
-    "crafting-tutorials",
-    "content-creation",
-    "electronics-engineering",
-    "tutorial-series"
-  ],
-  "youtube-hashtag": [
-    "electronics",
-    "collin-lab"
+    "crafting-tutorials"
   ],
   "youtube-playlist": [
     "woodworking",
@@ -19535,7 +17911,6 @@
     "crafting-tutorials"
   ],
   "youtube-video": [
-    "tutorial",
     "maker-projects",
     "gift-guide",
     "media-recommendation"
@@ -19557,11 +17932,6 @@
   "zen-robot": [
     "garden",
     "meditation-tech"
-  ],
-  "zip-ties": [
-    "3d-printing",
-    "cable-management",
-    "mounting-bracket"
   ],
   "zipper-pull": [
     "3d-printing",
