@@ -1185,26 +1185,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/project-power-maker-update-61/"
   },
   {
-    "id": "Maker_Update_Season_1.xlsx|112217 061|14",
-    "title": "Make: Desktop Fabrication Guide is out",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "fabric",
-      "furniture",
-      "pets"
-    ],
-    "synopsis": "Tutorial or how-to guide for makers.",
-    "confidence": "high",
-    "episode_number": 61,
-    "episode_date": "2017-11-22",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ixFuppvvRRs",
-    "episode_blog_url": "https://www.makerprojectlab.com/project-power-maker-update-61/"
-  },
-  {
     "id": "Maker_Update_Season_1.xlsx|112217 061|15",
     "title": "VISUAL 3D PRINT FINISHING GUIDE by: Tom Nardi",
     "creator": null,
@@ -6583,24 +6563,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/diy-camera-explains-your-picture-maker-update-17/"
   },
   {
-    "id": "Maker_Update_Season_1.xlsx|011817 017|17",
-    "title": "January 21 + 22, 2017",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "A dated event mention with no further context captured.",
-    "confidence": "low",
-    "episode_number": 17,
-    "episode_date": "2017-01-18",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=Kc3YCDER_aw",
-    "episode_blog_url": "https://www.makerprojectlab.com/diy-camera-explains-your-picture-maker-update-17/"
-  },
-  {
     "id": "Maker_Update_Season_1.xlsx|011117 016 |4",
     "title": "John Park's Overwatch Lucio Blaster",
     "creator": null,
@@ -7145,25 +7107,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/let-me-give-you-a-raspberry-pi-maker-update-13/"
   },
   {
-    "id": "Maker_Update_Season_1.xlsx|120716 013|11",
-    "title": "Autodesk P9 AiR Showcase",
-    "creator": null,
-    "category": "project",
-    "tags": [
-      "diy",
-      "maker"
-    ],
-    "synopsis": "Project: Autodesk P9 AiR Showcase.",
-    "confidence": "high",
-    "episode_number": 13,
-    "episode_date": "2016-12-07",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=tztCpD4utXU",
-    "episode_blog_url": "https://www.makerprojectlab.com/let-me-give-you-a-raspberry-pi-maker-update-13/"
-  },
-  {
     "id": "Maker_Update_Season_1.xlsx|120716 013|12",
     "title": "Black Hole Table",
     "creator": null,
@@ -7362,42 +7305,6 @@
     "episode_date": "2016-12-07",
     "edition": "main",
     "source_url": "https://www.wdc.com/products/wdlabs/wd-picompute-centre.html#WDLB032RNN",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=tztCpD4utXU",
-    "episode_blog_url": "https://www.makerprojectlab.com/let-me-give-you-a-raspberry-pi-maker-update-13/"
-  },
-  {
-    "id": "Maker_Update_Season_1.xlsx|120716 013|29",
-    "title": "WD Lab Contest",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "contest"
-    ],
-    "synopsis": "Resource: WD Lab Contest.",
-    "confidence": "low",
-    "episode_number": 13,
-    "episode_date": "2016-12-07",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=tztCpD4utXU",
-    "episode_blog_url": "https://www.makerprojectlab.com/let-me-give-you-a-raspberry-pi-maker-update-13/"
-  },
-  {
-    "id": "Maker_Update_Season_1.xlsx|120716 013|32",
-    "title": "December 10 + 11, 2016",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "A dated event mention with no further context captured.",
-    "confidence": "low",
-    "episode_number": 13,
-    "episode_date": "2016-12-07",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=tztCpD4utXU",
     "episode_blog_url": "https://www.makerprojectlab.com/let-me-give-you-a-raspberry-pi-maker-update-13/"
@@ -8185,60 +8092,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/the-500-cnc-router-thats-too-good-to-ignore-maker-update-08/"
   },
   {
-    "id": "Maker_Update_Season_1.xlsx|102616 008|26",
-    "title": "4 Halloween Contests",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "seasonal"
-    ],
-    "synopsis": "Resource: 4 Halloween Contests.",
-    "confidence": "high",
-    "episode_number": 8,
-    "episode_date": "2016-10-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=Osd2cy2dj8k",
-    "episode_blog_url": "https://www.makerprojectlab.com/the-500-cnc-router-thats-too-good-to-ignore-maker-update-08/"
-  },
-  {
-    "id": "Maker_Update_Season_1.xlsx|102616 008|32",
-    "title": "October 28 + 29 + 30, 2016",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "A dated event mention with no further context captured.",
-    "confidence": "low",
-    "episode_number": 8,
-    "episode_date": "2016-10-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=Osd2cy2dj8k",
-    "episode_blog_url": "https://www.makerprojectlab.com/the-500-cnc-router-thats-too-good-to-ignore-maker-update-08/"
-  },
-  {
-    "id": "Maker_Update_Season_1.xlsx|102616 008|34",
-    "title": "October 29 + 30, 2016",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "A dated event mention with no further context captured.",
-    "confidence": "low",
-    "episode_number": 8,
-    "episode_date": "2016-10-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=Osd2cy2dj8k",
-    "episode_blog_url": "https://www.makerprojectlab.com/the-500-cnc-router-thats-too-good-to-ignore-maker-update-08/"
-  },
-  {
     "id": "Maker_Update_Season_1.xlsx|102616 008|39",
     "title": "Dymanic Projection Mapping",
     "creator": null,
@@ -8255,26 +8108,6 @@
     "source_url": "https://www.youtube.com/watch?v=-bh1MHuA5jU",
     "secondary_urls": [
       "http://www.k2.t.u-tokyo.ac.jp/vision/DPM/"
-    ],
-    "episode_video_url": "https://youtube.com/watch?v=Osd2cy2dj8k",
-    "episode_blog_url": "https://www.makerprojectlab.com/the-500-cnc-router-thats-too-good-to-ignore-maker-update-08/"
-  },
-  {
-    "id": "Maker_Update_Season_1.xlsx|102616 008|53",
-    "title": "@MarketStreetPF",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Likely a reference to the Market Street Prototyping Festival.",
-    "confidence": "low",
-    "episode_number": 8,
-    "episode_date": "2016-10-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [
-      "http://www.instructables.com/member/philetus/"
     ],
     "episode_video_url": "https://youtube.com/watch?v=Osd2cy2dj8k",
     "episode_blog_url": "https://www.makerprojectlab.com/the-500-cnc-router-thats-too-good-to-ignore-maker-update-08/"
@@ -8299,25 +8132,6 @@
       "https://www.youtube.com/watch?v=fIDgn5oA6DE",
       "http://iq.intel.com/smart-spider-dress-by-dutch-designer-anouk-wipprecht/"
     ],
-    "episode_video_url": "https://www.makerprojectlab.com/maker-update-07-put-on-your-drinking-dress/",
-    "episode_blog_url": "https://www.makerprojectlab.com/maker-update-07-put-on-your-drinking-dress/"
-  },
-  {
-    "id": "Maker_Update_Season_1.xlsx|101916 007|5",
-    "title": "@AnoukWipprecht",
-    "creator": null,
-    "category": "project",
-    "tags": [
-      "diy",
-      "maker"
-    ],
-    "synopsis": "Project: @AnoukWipprecht.",
-    "confidence": "high",
-    "episode_number": 7,
-    "episode_date": "2016-10-19",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
     "episode_video_url": "https://www.makerprojectlab.com/maker-update-07-put-on-your-drinking-dress/",
     "episode_blog_url": "https://www.makerprojectlab.com/maker-update-07-put-on-your-drinking-dress/"
   },
@@ -8618,60 +8432,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/maker-update-05-love-conquers-arduino/"
   },
   {
-    "id": "Maker_Update_Season_1.xlsx|100516 005|33",
-    "title": "October 7 - 9, 2016",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "A dated event mention with no further context captured.",
-    "confidence": "low",
-    "episode_number": 5,
-    "episode_date": "2016-10-05",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=FwFsP2b3EOg",
-    "episode_blog_url": "https://www.makerprojectlab.com/maker-update-05-love-conquers-arduino/"
-  },
-  {
-    "id": "Maker_Update_Season_1.xlsx|100516 005|34",
-    "title": "October 8 + 9, 2016",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "A dated event mention with no further context captured.",
-    "confidence": "low",
-    "episode_number": 5,
-    "episode_date": "2016-10-05",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=FwFsP2b3EOg",
-    "episode_blog_url": "https://www.makerprojectlab.com/maker-update-05-love-conquers-arduino/"
-  },
-  {
-    "id": "Maker_Update_Season_1.xlsx|100516 005|35",
-    "title": "October 8 + 9, 2016",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "A dated event mention with no further context captured.",
-    "confidence": "low",
-    "episode_number": 5,
-    "episode_date": "2016-10-05",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=FwFsP2b3EOg",
-    "episode_blog_url": "https://www.makerprojectlab.com/maker-update-05-love-conquers-arduino/"
-  },
-  {
     "id": "Maker_Update_Season_1.xlsx|100516 005|45",
     "title": "Knipex High Leverage Cutters",
     "creator": null,
@@ -8690,42 +8450,6 @@
     "secondary_urls": [
       "http://kk.org/cooltools/knipex-high-leverage-cutters/"
     ],
-    "episode_video_url": "https://youtube.com/watch?v=FwFsP2b3EOg",
-    "episode_blog_url": "https://www.makerprojectlab.com/maker-update-05-love-conquers-arduino/"
-  },
-  {
-    "id": "Maker_Update_Season_1.xlsx|100516 005|50",
-    "title": "@arduino",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "arduino"
-    ],
-    "synopsis": "Resource: @arduino.",
-    "confidence": "low",
-    "episode_number": 5,
-    "episode_date": "2016-10-05",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=FwFsP2b3EOg",
-    "episode_blog_url": "https://www.makerprojectlab.com/maker-update-05-love-conquers-arduino/"
-  },
-  {
-    "id": "Maker_Update_Season_1.xlsx|100516 005|51",
-    "title": "@adafruit",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "adafruit"
-    ],
-    "synopsis": "Resource: @adafruit.",
-    "confidence": "low",
-    "episode_number": 5,
-    "episode_date": "2016-10-05",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=FwFsP2b3EOg",
     "episode_blog_url": "https://www.makerprojectlab.com/maker-update-05-love-conquers-arduino/"
   },
@@ -10114,26 +9838,6 @@
     "episode_date": "2019-11-06",
     "edition": "adafruit",
     "source_url": "https://learn.adafruit.com/pumpkin-with-circuit-playground-bluefruit",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=QMAuJIiMuT0",
-    "episode_blog_url": "https://www.makerprojectlab.com/pumpkin-spice-reflow-maker-update-148/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|ADA 148 110619|13",
-    "title": "Monster m4sk round-up",
-    "creator": null,
-    "category": "project",
-    "tags": [
-      "wearables",
-      "animatronics",
-      "adafruit"
-    ],
-    "synopsis": "Project: Monster m4sk round-up.",
-    "confidence": "high",
-    "episode_number": 148,
-    "episode_date": "2019-11-06",
-    "edition": "adafruit",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=QMAuJIiMuT0",
     "episode_blog_url": "https://www.makerprojectlab.com/pumpkin-spice-reflow-maker-update-148/"
@@ -14830,25 +14534,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/bring-the-heat-maker-update-127-adafruit-edition/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|127 (Ada) 060619|18",
-    "title": "Contributed Project",
-    "creator": null,
-    "category": "project",
-    "tags": [
-      "adafruit",
-      "projects"
-    ],
-    "synopsis": "Community-contributed Adafruit project.",
-    "confidence": "low",
-    "episode_number": 127,
-    "episode_date": "2019-06-06",
-    "edition": "adafruit",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=Mg25mofeIRU",
-    "episode_blog_url": "https://www.makerprojectlab.com/bring-the-heat-maker-update-127-adafruit-edition/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|127 (Ada) 060619|19",
     "title": "CircuitPython 7-Segment Character Clock",
     "creator": "Alex Padilla",
@@ -15612,26 +15297,6 @@
     "episode_date": "2019-05-23",
     "edition": "main",
     "source_url": "https://youtu.be/vX6mpdnd8Co",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=Bb0IFmORs-o",
-    "episode_blog_url": "https://www.makerprojectlab.com/the-el-has-landed-maker-update-125/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|125 052319|23",
-    "title": "Video Spotlight",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "video",
-      "featured",
-      "highlights"
-    ],
-    "synopsis": "Featured video spotlight.",
-    "confidence": "low",
-    "episode_number": 125,
-    "episode_date": "2019-05-23",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=Bb0IFmORs-o",
     "episode_blog_url": "https://www.makerprojectlab.com/the-el-has-landed-maker-update-125/"
@@ -17527,27 +17192,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/make-it-snooze-maker-update-118/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|118 (ada)|22",
-    "title": "Other Projects",
-    "creator": null,
-    "category": "project",
-    "tags": [
-      "adafruit",
-      "collection",
-      "mixed",
-      "projects"
-    ],
-    "synopsis": "Collection of additional Adafruit-based maker projects.",
-    "confidence": "low",
-    "episode_number": 118,
-    "episode_date": "2019-04-04",
-    "edition": "adafruit",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=IiLlVIPMFms",
-    "episode_blog_url": "https://www.makerprojectlab.com/make-it-snooze-maker-update-118/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|118 (ada)|23",
     "title": "Displaying your realtime Blood Glucose from NightScout on an AdaFruit PyPortal",
     "creator": "Scott Hanselman",
@@ -18660,27 +18304,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/dot-matrix-maker-update-114/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|114 022819|30",
-    "title": "Next week is Ada edition",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "adafruit",
-      "announcement",
-      "episode",
-      "preview"
-    ],
-    "synopsis": "Announcement for next Adafruit-themed episode.",
-    "confidence": "high",
-    "episode_number": 114,
-    "episode_date": "2019-02-28",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=TfJR-RP4zfs",
-    "episode_blog_url": "https://www.makerprojectlab.com/dot-matrix-maker-update-114/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|113 021019|4",
     "title": "Play multiple sound files on multiple output devices with Python and sounddevice",
     "creator": "Devon Bray",
@@ -18950,27 +18573,6 @@
     "episode_date": "2019-02-21",
     "edition": "main",
     "source_url": "https://youtu.be/-B-EW1W4l0g",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=fIevd8bY0hY",
-    "episode_blog_url": "https://www.makerprojectlab.com/sound-off-maker-update-113/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|113 021019|24",
-    "title": "February 26 +27 + 28, 2019",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "announcement",
-      "schedule",
-      "event",
-      "episode"
-    ],
-    "synopsis": "Schedule for upcoming Maker Update episodes.",
-    "confidence": "low",
-    "episode_number": 113,
-    "episode_date": "2019-02-21",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=fIevd8bY0hY",
     "episode_blog_url": "https://www.makerprojectlab.com/sound-off-maker-update-113/"
@@ -19513,27 +19115,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/clocking-in-maker-update-111/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|111 (Ada) 020719|23",
-    "title": "Other Projects",
-    "creator": null,
-    "category": "project",
-    "tags": [
-      "adafruit",
-      "collection",
-      "mixed",
-      "projects"
-    ],
-    "synopsis": "Collection of Adafruit-based projects.",
-    "confidence": "low",
-    "episode_number": 111,
-    "episode_date": "2019-02-07",
-    "edition": "adafruit",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=80jJ-Ls_SIE",
-    "episode_blog_url": "https://www.makerprojectlab.com/clocking-in-maker-update-111/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|111 (Ada) 020719|24",
     "title": "Interactive LED Dome With Fadecandy, Processing and Kinect",
     "creator": "amygoodchild",
@@ -19925,27 +19506,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/monochrome-in-a-can-maker-update-110/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|110 013019|22",
-    "title": "February 6 - 9, 2019",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "announcement",
-      "schedule",
-      "event",
-      "episode"
-    ],
-    "synopsis": "Schedule for Maker Update episodes.",
-    "confidence": "low",
-    "episode_number": 110,
-    "episode_date": "2019-01-30",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=zrfcYo9b47c",
-    "episode_blog_url": "https://www.makerprojectlab.com/monochrome-in-a-can-maker-update-110/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|109 012419|4",
     "title": "Project Alias",
     "creator": "Bjørn Karmann",
@@ -20245,27 +19805,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/privacy-parasite-maker-update-109/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|109 012419|29",
-    "title": "February 6 - 9, 2019",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "announcement",
-      "schedule",
-      "event",
-      "episode"
-    ],
-    "synopsis": "Schedule for Maker Update episodes.",
-    "confidence": "low",
-    "episode_number": 109,
-    "episode_date": "2019-01-24",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=QB4XqwFY-o4",
-    "episode_blog_url": "https://www.makerprojectlab.com/privacy-parasite-maker-update-109/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|108 011719|4",
     "title": "Bubble Talk: Turn Your Speech Into Bubbles!",
     "creator": "KyungYun",
@@ -20510,28 +20049,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/speech-bubbles-maker-update-108/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|108 011719|25",
-    "title": "Popsicle Stick CNC Hack",
-    "creator": "Anthony Timpanaro",
-    "category": "tip",
-    "tags": [
-      "cnc",
-      "woodworking",
-      "popsicle-stick",
-      "tool-hack",
-      "diy"
-    ],
-    "synopsis": "DIY CNC machine from popsicle sticks.",
-    "confidence": "high",
-    "episode_number": 108,
-    "episode_date": "2019-01-17",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=dUHPof55C0o",
-    "episode_blog_url": "https://www.makerprojectlab.com/speech-bubbles-maker-update-108/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|108 011719|26",
     "title": "CODE ON YOUR PHONE WITH CIRCUITPYTHON EDITOR",
     "creator": null,
@@ -20591,27 +20108,6 @@
     "episode_date": "2019-01-17",
     "edition": "main",
     "source_url": "https://learn.adafruit.com/adafruit-grand-central",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=dUHPof55C0o",
-    "episode_blog_url": "https://www.makerprojectlab.com/speech-bubbles-maker-update-108/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|108 011719|30",
-    "title": "January 19 + 20, 2019",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "announcement",
-      "schedule",
-      "event",
-      "episode"
-    ],
-    "synopsis": "Schedule for Maker Update episodes.",
-    "confidence": "low",
-    "episode_number": 108,
-    "episode_date": "2019-01-17",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=dUHPof55C0o",
     "episode_blog_url": "https://www.makerprojectlab.com/speech-bubbles-maker-update-108/"
@@ -20877,27 +20373,6 @@
     "episode_date": "2019-01-10",
     "edition": "main",
     "source_url": "http://amzn.to/2sJpt3Y",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=wzhxJfEZh-w",
-    "episode_blog_url": "https://www.makerprojectlab.com/e-paper-movie-player-maker-update-107/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|107 011019|24",
-    "title": "January 19 + 20, 2019",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "announcement",
-      "schedule",
-      "event",
-      "episode"
-    ],
-    "synopsis": "Schedule for Maker Update episodes.",
-    "confidence": "low",
-    "episode_number": 107,
-    "episode_date": "2019-01-10",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=wzhxJfEZh-w",
     "episode_blog_url": "https://www.makerprojectlab.com/e-paper-movie-player-maker-update-107/"
@@ -21962,25 +21437,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/led-guitar-maker-update-102/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|102 112818|18",
-    "title": "Make: Desktop Fabrication issue",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "magazine",
-      "fabrication"
-    ],
-    "synopsis": "Make magazine desktop fabrication issue.",
-    "confidence": "high",
-    "episode_number": 102,
-    "episode_date": "2018-11-28",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=aGodg_XySAY",
-    "episode_blog_url": "https://www.makerprojectlab.com/led-guitar-maker-update-102/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|102 112818|19",
     "title": "Multimeters // Bits",
     "creator": "Bob Clagett",
@@ -22037,42 +21493,6 @@
     "episode_date": "2018-11-28",
     "edition": "main",
     "source_url": "https://youtu.be/kEm5_ghp-TE",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=aGodg_XySAY",
-    "episode_blog_url": "https://www.makerprojectlab.com/led-guitar-maker-update-102/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|102 112818|24",
-    "title": "Los Angeles, California",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker community event location.",
-    "confidence": "low",
-    "episode_number": 102,
-    "episode_date": "2018-11-28",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=aGodg_XySAY",
-    "episode_blog_url": "https://www.makerprojectlab.com/led-guitar-maker-update-102/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|102 112818|25",
-    "title": "Ogaki, Gifu",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker community event location.",
-    "confidence": "low",
-    "episode_number": 102,
-    "episode_date": "2018-11-28",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=aGodg_XySAY",
     "episode_blog_url": "https://www.makerprojectlab.com/led-guitar-maker-update-102/"
@@ -22327,96 +21747,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/open-source-mech-ep-101/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|101 111418|24",
-    "title": "Rochester, New York",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 101,
-    "episode_date": "2018-11-14",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=flQCgBSp8I8",
-    "episode_blog_url": "https://www.makerprojectlab.com/open-source-mech-ep-101/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101 111418|25",
-    "title": "Montreal, Quebec",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 101,
-    "episode_date": "2018-11-14",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=flQCgBSp8I8",
-    "episode_blog_url": "https://www.makerprojectlab.com/open-source-mech-ep-101/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101 111418|26",
-    "title": "Munich",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 101,
-    "episode_date": "2018-11-14",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=flQCgBSp8I8",
-    "episode_blog_url": "https://www.makerprojectlab.com/open-source-mech-ep-101/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101 111418|27",
-    "title": "Kolkata, West Bengal",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 101,
-    "episode_date": "2018-11-14",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=flQCgBSp8I8",
-    "episode_blog_url": "https://www.makerprojectlab.com/open-source-mech-ep-101/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101 111418|28",
-    "title": "Poughkeepsie, New York",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 101,
-    "episode_date": "2018-11-14",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=flQCgBSp8I8",
-    "episode_blog_url": "https://www.makerprojectlab.com/open-source-mech-ep-101/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|100 110718|4",
     "title": "Prop-Maker Lightsaber",
     "creator": "Ruiz Bros.",
@@ -22580,151 +21910,6 @@
     "episode_date": "2018-11-07",
     "edition": "main",
     "source_url": "https://github.com/th0ma5w/StringyPlotter",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=HTposlYDjYU",
-    "episode_blog_url": "https://www.makerprojectlab.com/dodecahedron-dance-party-maker-update-100/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|100 110718|25",
-    "title": "Jerusalem",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 100,
-    "episode_date": "2018-11-07",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=HTposlYDjYU",
-    "episode_blog_url": "https://www.makerprojectlab.com/dodecahedron-dance-party-maker-update-100/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|100 110718|26",
-    "title": "Hyderabad",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 100,
-    "episode_date": "2018-11-07",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=HTposlYDjYU",
-    "episode_blog_url": "https://www.makerprojectlab.com/dodecahedron-dance-party-maker-update-100/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|100 110718|27",
-    "title": "Belo Horizonte",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 100,
-    "episode_date": "2018-11-07",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=HTposlYDjYU",
-    "episode_blog_url": "https://www.makerprojectlab.com/dodecahedron-dance-party-maker-update-100/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|100 110718|28",
-    "title": "Orlando, Florida",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 100,
-    "episode_date": "2018-11-07",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=HTposlYDjYU",
-    "episode_blog_url": "https://www.makerprojectlab.com/dodecahedron-dance-party-maker-update-100/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|100 110718|29",
-    "title": "Sindelfingen",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 100,
-    "episode_date": "2018-11-07",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=HTposlYDjYU",
-    "episode_blog_url": "https://www.makerprojectlab.com/dodecahedron-dance-party-maker-update-100/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|100 110718|30",
-    "title": "Salzburg",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 100,
-    "episode_date": "2018-11-07",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=HTposlYDjYU",
-    "episode_blog_url": "https://www.makerprojectlab.com/dodecahedron-dance-party-maker-update-100/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|100 110718|31",
-    "title": "#makevember",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event",
-      "challenge"
-    ],
-    "synopsis": "Maker event or challenge.",
-    "confidence": "low",
-    "episode_number": 100,
-    "episode_date": "2018-11-07",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=HTposlYDjYU",
-    "episode_blog_url": "https://www.makerprojectlab.com/dodecahedron-dance-party-maker-update-100/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|100 110718|32",
-    "title": "Featured Makers",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "profile"
-    ],
-    "synopsis": "Featured makers profile.",
-    "confidence": "low",
-    "episode_number": 100,
-    "episode_date": "2018-11-07",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=HTposlYDjYU",
     "episode_blog_url": "https://www.makerprojectlab.com/dodecahedron-dance-party-maker-update-100/"
@@ -22967,78 +22152,6 @@
     "episode_date": "2018-10-31",
     "edition": "main",
     "source_url": "http://ledcalc.com/",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=r0NOvH9xaKc",
-    "episode_blog_url": "https://www.makerprojectlab.com/boards-bots-ghosts-maker-update-99/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|099 103118|26",
-    "title": "Taipei City, Zhongzheng District",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 99,
-    "episode_date": "2018-10-31",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=r0NOvH9xaKc",
-    "episode_blog_url": "https://www.makerprojectlab.com/boards-bots-ghosts-maker-update-99/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|099 103118|27",
-    "title": "Rio de Janeiro, Gávea",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 99,
-    "episode_date": "2018-10-31",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=r0NOvH9xaKc",
-    "episode_blog_url": "https://www.makerprojectlab.com/boards-bots-ghosts-maker-update-99/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|099 103118|28",
-    "title": "Cleveland, Ohio",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 99,
-    "episode_date": "2018-10-31",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=r0NOvH9xaKc",
-    "episode_blog_url": "https://www.makerprojectlab.com/boards-bots-ghosts-maker-update-99/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|099 103118|29",
-    "title": "Wellington",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 99,
-    "episode_date": "2018-10-31",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=r0NOvH9xaKc",
     "episode_blog_url": "https://www.makerprojectlab.com/boards-bots-ghosts-maker-update-99/"
@@ -23493,96 +22606,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/skeeball-on-wheels-maker-update-97/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|101718 097|20",
-    "title": "Beijing, Chaoyang",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 97,
-    "episode_date": "2018-10-17",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=AC_pu68oQcY",
-    "episode_blog_url": "https://www.makerprojectlab.com/skeeball-on-wheels-maker-update-97/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101718 097|21",
-    "title": "Fredonia, New York",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 97,
-    "episode_date": "2018-10-17",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=AC_pu68oQcY",
-    "episode_blog_url": "https://www.makerprojectlab.com/skeeball-on-wheels-maker-update-97/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101718 097|22",
-    "title": "Chattanooga, Tennessee",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 97,
-    "episode_date": "2018-10-17",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=AC_pu68oQcY",
-    "episode_blog_url": "https://www.makerprojectlab.com/skeeball-on-wheels-maker-update-97/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101718 097|23",
-    "title": "Colorado Springs, Colorado",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 97,
-    "episode_date": "2018-10-17",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=AC_pu68oQcY",
-    "episode_blog_url": "https://www.makerprojectlab.com/skeeball-on-wheels-maker-update-97/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101718 097|24",
-    "title": "Oakland, California",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 97,
-    "episode_date": "2018-10-17",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=AC_pu68oQcY",
-    "episode_blog_url": "https://www.makerprojectlab.com/skeeball-on-wheels-maker-update-97/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|101218 096|4",
     "title": "Mug-O-Matic: A Modular Tiny CNC",
     "creator": "Michael Graham",
@@ -23823,150 +22846,6 @@
     "episode_date": "2018-10-12",
     "edition": "main",
     "source_url": "https://kk.org/cooltools/silicone-coated-hookup-wire/",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ptqvxUrnVU8",
-    "episode_blog_url": "https://www.makerprojectlab.com/coffee-mug-cnc-maker-update-96/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101218 096|27",
-    "title": "Denver, Colorado",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 96,
-    "episode_date": "2018-10-12",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ptqvxUrnVU8",
-    "episode_blog_url": "https://www.makerprojectlab.com/coffee-mug-cnc-maker-update-96/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101218 096|29",
-    "title": "Shenzhen, Shekou, Nanshan",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 96,
-    "episode_date": "2018-10-12",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ptqvxUrnVU8",
-    "episode_blog_url": "https://www.makerprojectlab.com/coffee-mug-cnc-maker-update-96/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101218 096|30",
-    "title": "Houston, Texas",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 96,
-    "episode_date": "2018-10-12",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ptqvxUrnVU8",
-    "episode_blog_url": "https://www.makerprojectlab.com/coffee-mug-cnc-maker-update-96/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101218 096|31",
-    "title": "Aarhus",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 96,
-    "episode_date": "2018-10-12",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ptqvxUrnVU8",
-    "episode_blog_url": "https://www.makerprojectlab.com/coffee-mug-cnc-maker-update-96/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101218 096|32",
-    "title": "Biddeford, Maine",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 96,
-    "episode_date": "2018-10-12",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ptqvxUrnVU8",
-    "episode_blog_url": "https://www.makerprojectlab.com/coffee-mug-cnc-maker-update-96/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101218 096|33",
-    "title": "Chisinau",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 96,
-    "episode_date": "2018-10-12",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ptqvxUrnVU8",
-    "episode_blog_url": "https://www.makerprojectlab.com/coffee-mug-cnc-maker-update-96/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101218 096|34",
-    "title": "Charlotte, North Carolina",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 96,
-    "episode_date": "2018-10-12",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ptqvxUrnVU8",
-    "episode_blog_url": "https://www.makerprojectlab.com/coffee-mug-cnc-maker-update-96/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|101218 096|35",
-    "title": "Reno/Sparks, Nevada",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 96,
-    "episode_date": "2018-10-12",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=ptqvxUrnVU8",
     "episode_blog_url": "https://www.makerprojectlab.com/coffee-mug-cnc-maker-update-96/"
@@ -24388,26 +23267,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/kitty-cruiser-maker-update-94/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|091918 094|17",
-    "title": "Jeremy Cook's Octoprint add-ons",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "3d-printing",
-      "software",
-      "octoprint"
-    ],
-    "synopsis": "OctoPrint 3D printer plugins.",
-    "confidence": "high",
-    "episode_number": 94,
-    "episode_date": "2018-09-19",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=lggNXSETbeY",
-    "episode_blog_url": "https://www.makerprojectlab.com/kitty-cruiser-maker-update-94/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|091918 094|20",
     "title": "Remote 3D Printer Power Switch",
     "creator": null,
@@ -24542,133 +23401,6 @@
     "episode_date": "2018-09-19",
     "edition": "main",
     "source_url": "https://youtu.be/y_UzTMRhlcQ",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=lggNXSETbeY",
-    "episode_blog_url": "https://www.makerprojectlab.com/kitty-cruiser-maker-update-94/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|091918 094|28",
-    "title": "Corona, Queens NY",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 94,
-    "episode_date": "2018-09-19",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=lggNXSETbeY",
-    "episode_blog_url": "https://www.makerprojectlab.com/kitty-cruiser-maker-update-94/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|091918 094|29",
-    "title": "Shreveport, Louisiana",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 94,
-    "episode_date": "2018-09-19",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=lggNXSETbeY",
-    "episode_blog_url": "https://www.makerprojectlab.com/kitty-cruiser-maker-update-94/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|091918 094|30",
-    "title": "Prince George, BC",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 94,
-    "episode_date": "2018-09-19",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=lggNXSETbeY",
-    "episode_blog_url": "https://www.makerprojectlab.com/kitty-cruiser-maker-update-94/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|091918 094|31",
-    "title": "Kathmandu",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 94,
-    "episode_date": "2018-09-19",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=lggNXSETbeY",
-    "episode_blog_url": "https://www.makerprojectlab.com/kitty-cruiser-maker-update-94/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|091918 094|32",
-    "title": "Akron, Ohio",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 94,
-    "episode_date": "2018-09-19",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=lggNXSETbeY",
-    "episode_blog_url": "https://www.makerprojectlab.com/kitty-cruiser-maker-update-94/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|091918 094|33",
-    "title": "Shelburne Farms, Vermont",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 94,
-    "episode_date": "2018-09-19",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=lggNXSETbeY",
-    "episode_blog_url": "https://www.makerprojectlab.com/kitty-cruiser-maker-update-94/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|091918 094|34",
-    "title": "Patreon",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "patreon",
-      "support"
-    ],
-    "synopsis": "Patreon supporter information.",
-    "confidence": "low",
-    "episode_number": 94,
-    "episode_date": "2018-09-19",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=lggNXSETbeY",
     "episode_blog_url": "https://www.makerprojectlab.com/kitty-cruiser-maker-update-94/"
@@ -24893,25 +23625,6 @@
     "episode_date": "2018-09-12",
     "edition": "main",
     "source_url": "https://kk.org/cooltools/5-sleeves-for-covering-cables/",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=5Cdk8DT6pck",
-    "episode_blog_url": "https://www.makerprojectlab.com/wearable-ouija-maker-update-93/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|091218 093|32",
-    "title": "Patreon",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "patreon",
-      "support"
-    ],
-    "synopsis": "Patreon supporter information.",
-    "confidence": "low",
-    "episode_number": 93,
-    "episode_date": "2018-09-12",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=5Cdk8DT6pck",
     "episode_blog_url": "https://www.makerprojectlab.com/wearable-ouija-maker-update-93/"
@@ -25168,42 +23881,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/maker-mailbox-maker-update-92/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|082918 92|24",
-    "title": "Porto Alegre",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 92,
-    "episode_date": "2018-08-29",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=PZQlOUlL1MA",
-    "episode_blog_url": "https://www.makerprojectlab.com/maker-mailbox-maker-update-92/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|082918 92|25",
-    "title": "Des Moines, Iowa",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 92,
-    "episode_date": "2018-08-29",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=PZQlOUlL1MA",
-    "episode_blog_url": "https://www.makerprojectlab.com/maker-mailbox-maker-update-92/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|082218 91|6",
     "title": "This Clever 3D Print Turns Thumbstick to A Steering Wheel",
     "creator": null,
@@ -25385,79 +24062,6 @@
     "episode_date": "2018-08-22",
     "edition": "main",
     "source_url": "https://kk.org/cooltools/dewalt-right-angle-attachment-for-drills-and-drivers/",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ODu4x-oXUco",
-    "episode_blog_url": "https://www.makerprojectlab.com/thumbstick-steering-wheel-maker-update-91/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|082218 91|23",
-    "title": "Trondheim",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 91,
-    "episode_date": "2018-08-22",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ODu4x-oXUco",
-    "episode_blog_url": "https://www.makerprojectlab.com/thumbstick-steering-wheel-maker-update-91/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|082218 91|24",
-    "title": "Tulsa, Oklahoma",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 91,
-    "episode_date": "2018-08-22",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ODu4x-oXUco",
-    "episode_blog_url": "https://www.makerprojectlab.com/thumbstick-steering-wheel-maker-update-91/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|082218 91|25",
-    "title": "Springfield, Missouri",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event"
-    ],
-    "synopsis": "Maker event location.",
-    "confidence": "low",
-    "episode_number": 91,
-    "episode_date": "2018-08-22",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ODu4x-oXUco",
-    "episode_blog_url": "https://www.makerprojectlab.com/thumbstick-steering-wheel-maker-update-91/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|082218 91|26",
-    "title": "Sept 22+23",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event",
-      "date"
-    ],
-    "synopsis": "Event date information.",
-    "confidence": "low",
-    "episode_number": 91,
-    "episode_date": "2018-08-22",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=ODu4x-oXUco",
     "episode_blog_url": "https://www.makerprojectlab.com/thumbstick-steering-wheel-maker-update-91/"
@@ -26032,63 +24636,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/spider-clock-maker-update-89/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|080818 089|25",
-    "title": "August 17 + 18 + 19, 2018",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event",
-      "date"
-    ],
-    "synopsis": "Event date information.",
-    "confidence": "low",
-    "episode_number": 89,
-    "episode_date": "2018-08-08",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=1MUKcg4LcKM",
-    "episode_blog_url": "https://www.makerprojectlab.com/spider-clock-maker-update-89/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|080818 089|26",
-    "title": "August 18 + 19, 2018",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event",
-      "date"
-    ],
-    "synopsis": "Event date information.",
-    "confidence": "low",
-    "episode_number": 89,
-    "episode_date": "2018-08-08",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=1MUKcg4LcKM",
-    "episode_blog_url": "https://www.makerprojectlab.com/spider-clock-maker-update-89/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|080818 089|27",
-    "title": "August 18 + 19, 2018",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event",
-      "date"
-    ],
-    "synopsis": "Event date information.",
-    "confidence": "low",
-    "episode_number": 89,
-    "episode_date": "2018-08-08",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=1MUKcg4LcKM",
-    "episode_blog_url": "https://www.makerprojectlab.com/spider-clock-maker-update-89/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|080118 088|4",
     "title": "Rotating TV",
     "creator": "mikeasaurus",
@@ -26279,25 +24826,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/a-tv-for-lazy-people-maker-update-88/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|080118 088|19",
-    "title": "5 Ways to Hold LEDs",
-    "creator": "@BarbMakesThings",
-    "category": "tip",
-    "tags": [
-      "electronics",
-      "led"
-    ],
-    "synopsis": "Five techniques for securely mounting LEDs in projects.",
-    "confidence": "high",
-    "episode_number": 88,
-    "episode_date": "2018-08-01",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ALbRy0y2fak",
-    "episode_blog_url": "https://www.makerprojectlab.com/a-tv-for-lazy-people-maker-update-88/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|080118 088|20",
     "title": "Varnish [Bits]",
     "creator": "Bob Clagett",
@@ -26349,24 +24877,6 @@
     "episode_date": "2018-08-01",
     "edition": "main",
     "source_url": "https://www.raspberrypi.org/magpi/issues/72/",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ALbRy0y2fak",
-    "episode_blog_url": "https://www.makerprojectlab.com/a-tv-for-lazy-people-maker-update-88/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|080118 088|25",
-    "title": "Book giveaway announcement",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "book-review"
-    ],
-    "synopsis": "Giveaway announcement for maker book.",
-    "confidence": "high",
-    "episode_number": 88,
-    "episode_date": "2018-08-01",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=ALbRy0y2fak",
     "episode_blog_url": "https://www.makerprojectlab.com/a-tv-for-lazy-people-maker-update-88/"
@@ -26508,25 +25018,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/stroboscopic-zoetrope-maker-update-87/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|071818 087|12",
-    "title": "New issue of Make, Vol. 64",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "media",
-      "magazine"
-    ],
-    "synopsis": "Make Magazine Vol. 64 issue release.",
-    "confidence": "high",
-    "episode_number": 87,
-    "episode_date": "2018-07-18",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=K1AyF-2oVPk",
-    "episode_blog_url": "https://www.makerprojectlab.com/stroboscopic-zoetrope-maker-update-87/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|071818 087|14",
     "title": "13 IDEAS FOR DIFFUSING LEDS",
     "creator": "bekathwia",
@@ -26578,60 +25069,6 @@
     "episode_date": "2018-07-18",
     "edition": "main",
     "source_url": "http://kk.org/cooltools/alex-glow-hackster-io/",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=K1AyF-2oVPk",
-    "episode_blog_url": "https://www.makerprojectlab.com/stroboscopic-zoetrope-maker-update-87/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|071818 087|17",
-    "title": "Book Giveaway Contest",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "contest"
-    ],
-    "synopsis": "Maker book giveaway contest announcement.",
-    "confidence": "high",
-    "episode_number": 87,
-    "episode_date": "2018-07-18",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=K1AyF-2oVPk",
-    "episode_blog_url": "https://www.makerprojectlab.com/stroboscopic-zoetrope-maker-update-87/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|071818 087|26",
-    "title": "CLOSE",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "show-format"
-    ],
-    "synopsis": "Episode conclusion marker.",
-    "confidence": "low",
-    "episode_number": 87,
-    "episode_date": "2018-07-18",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=K1AyF-2oVPk",
-    "episode_blog_url": "https://www.makerprojectlab.com/stroboscopic-zoetrope-maker-update-87/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|071818 087|27",
-    "title": "I'm off again next week.",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "schedule-announcement"
-    ],
-    "synopsis": "Host taking week off announcement.",
-    "confidence": "low",
-    "episode_number": 87,
-    "episode_date": "2018-07-18",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=K1AyF-2oVPk",
     "episode_blog_url": "https://www.makerprojectlab.com/stroboscopic-zoetrope-maker-update-87/"
@@ -27831,24 +26268,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/the-sick-unicorn-maker-update/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|052518 082 |47",
-    "title": "Outtro",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "show-format"
-    ],
-    "synopsis": "Episode outro marker.",
-    "confidence": "low",
-    "episode_number": 82,
-    "episode_date": "2018-05-25",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ZXWuLp68Ew4",
-    "episode_blog_url": "https://www.makerprojectlab.com/the-sick-unicorn-maker-update/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|082 Beta|15",
     "title": "WOODEN STAR MAP / NIGHTLIGHT",
     "creator": "makeorbreakshop",
@@ -27963,24 +26382,6 @@
     "episode_date": "2018-05-18",
     "edition": "main",
     "source_url": "https://www.voronator.com/",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ZXWuLp68Ew4",
-    "episode_blog_url": "https://www.makerprojectlab.com/the-sick-unicorn-maker-update/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|082 Beta|31",
-    "title": "TRYstudio Plug",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "studio-technique"
-    ],
-    "synopsis": "TRYstudio making studio technique.",
-    "confidence": "low",
-    "episode_number": 82,
-    "episode_date": "2018-05-18",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=ZXWuLp68Ew4",
     "episode_blog_url": "https://www.makerprojectlab.com/the-sick-unicorn-maker-update/"
@@ -28255,25 +26656,6 @@
     "episode_date": "2018-05-08",
     "edition": "main",
     "source_url": "https://www.youtube.com/watch?v=nC03qquYrOU",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=dmNAO4Xkurg",
-    "episode_blog_url": "https://www.makerprojectlab.com/complaint-button-maker-update-81/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|050818 081|34",
-    "title": "May 18 + 19 + 20, 2018",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "event",
-      "date"
-    ],
-    "synopsis": "May 18-20 2018 event dates reference.",
-    "confidence": "low",
-    "episode_number": 81,
-    "episode_date": "2018-05-08",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=dmNAO4Xkurg",
     "episode_blog_url": "https://www.makerprojectlab.com/complaint-button-maker-update-81/"
@@ -29192,26 +27574,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/goth-glue-maker-update-78/"
   },
   {
-    "id": "Maker_Update_Season_2.xlsx|04118 078|17",
-    "title": "Should I Patreon?",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "music",
-      "instrument",
-      "trash-materials"
-    ],
-    "synopsis": "DIY kalimba musical instrument from trash.",
-    "confidence": "high",
-    "episode_number": 78,
-    "episode_date": "2018-04-11",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=BWtamRi-XS4",
-    "episode_blog_url": "https://www.makerprojectlab.com/goth-glue-maker-update-78/"
-  },
-  {
     "id": "Maker_Update_Season_2.xlsx|040218 077|4",
     "title": "TRASH KALIMBA MUSICAL INSTRUMENT PlayInstruments",
     "creator": "schaapkameel",
@@ -29326,26 +27688,6 @@
     "episode_date": "2018-04-04",
     "edition": "main",
     "source_url": "http://www.hummingbird3d.com/",
-    "secondary_urls": [],
-    "episode_video_url": "https://www.makerprojectlab.com/treasured-trash-maker-update-77/",
-    "episode_blog_url": "https://www.makerprojectlab.com/treasured-trash-maker-update-77/"
-  },
-  {
-    "id": "Maker_Update_Season_2.xlsx|040218 077|19",
-    "title": "5 Maker Materials You Can Reclaim from an Old Bike",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "media",
-      "magazine",
-      "adafruit"
-    ],
-    "synopsis": "Best of 2020 Adafruit projects compilation.",
-    "confidence": "high",
-    "episode_number": 77,
-    "episode_date": "2018-04-04",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://www.makerprojectlab.com/treasured-trash-maker-update-77/",
     "episode_blog_url": "https://www.makerprojectlab.com/treasured-trash-maker-update-77/"
@@ -29927,25 +28269,6 @@
     "secondary_urls": [
       "https://technochic.net/blogs/technochic-diy-projects/diy-lady-gaga-led-mask-from-the-2020-vmas?_pos=1&_sid=615e2222e&_ss=r"
     ],
-    "episode_video_url": "https://youtube.com/watch?v=VPaLtD4prbI",
-    "episode_blog_url": "https://www.makerprojectlab.com/dream-house-maker-update/"
-  },
-  {
-    "id": "Maker_Update_Season_3__2020_.xlsx|209 SOPHY 111920|21",
-    "title": "Channel Spotlight",
-    "creator": null,
-    "category": "project",
-    "tags": [
-      "youtube",
-      "podcast"
-    ],
-    "synopsis": "SheProp community platform and content.",
-    "confidence": "low",
-    "episode_number": 209,
-    "episode_date": "2020-11-19",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=VPaLtD4prbI",
     "episode_blog_url": "https://www.makerprojectlab.com/dream-house-maker-update/"
   },
@@ -32157,25 +30480,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/pan-tilt-zoom-maker-update-199/"
   },
   {
-    "id": "Maker_Update_Season_3__2020_.xlsx|SOPHY 199 092420|47",
-    "title": "Spotlight",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "tool-review",
-      "howto"
-    ],
-    "synopsis": "Featured maker project or tip.",
-    "confidence": "low",
-    "episode_number": 199,
-    "episode_date": "2020-09-24",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=ongNzH9qbcw",
-    "episode_blog_url": "https://www.makerprojectlab.com/pan-tilt-zoom-maker-update-199/"
-  },
-  {
     "id": "Maker_Update_Season_3__2020_.xlsx|198 091720|5",
     "title": "The Circadian Machine",
     "creator": "Daric Gill",
@@ -32348,24 +30652,6 @@
     "secondary_urls": [
       "http://www.gtec.at/bci-fashion-tech-2020/"
     ],
-    "episode_video_url": "https://youtube.com/watch?v=Ff7-rIdCktw",
-    "episode_blog_url": "https://www.makerprojectlab.com/servo-seamstress-maker-update-197/"
-  },
-  {
-    "id": "Maker_Update_Season_3__2020_.xlsx|197 091020|7",
-    "title": "See also:",
-    "creator": null,
-    "category": "project",
-    "tags": [
-      "craft"
-    ],
-    "synopsis": "Featured maker project or tip.",
-    "confidence": "low",
-    "episode_number": 197,
-    "episode_date": "2020-09-10",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=Ff7-rIdCktw",
     "episode_blog_url": "https://www.makerprojectlab.com/servo-seamstress-maker-update-197/"
   },
@@ -36805,26 +35091,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/thank-you-for-being-a-friend-maker-update-176/"
   },
   {
-    "id": "Maker_Update_Season_3__2020_.xlsx|176 SOPHY 051420|15",
-    "title": "Binge-worthy Maker Series",
-    "creator": null,
-    "category": "project",
-    "tags": [
-      "video-series",
-      "maker-content",
-      "entertainment"
-    ],
-    "synopsis": "Video series showcasing maker and DIY projects.",
-    "confidence": "low",
-    "episode_number": 176,
-    "episode_date": "2020-05-14",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=T-otyq6n7gI",
-    "episode_blog_url": "https://www.makerprojectlab.com/thank-you-for-being-a-friend-maker-update-176/"
-  },
-  {
     "id": "Maker_Update_Season_3__2020_.xlsx|176 SOPHY 051420|16",
     "title": "Laura Kampf's 10 makers series",
     "creator": null,
@@ -39819,26 +38085,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/rolling-the-dice-maker-update-160/"
   },
   {
-    "id": "Maker_Update_Season_3__2020_.xlsx|160 020620|15",
-    "title": "Maker Update Adafruit Edition",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "maker-update",
-      "adafruit",
-      "special-edition"
-    ],
-    "synopsis": "Maker Update Adafruit special edition programming.",
-    "confidence": "low",
-    "episode_number": 160,
-    "episode_date": "2020-02-06",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=mEIA9Xyityg",
-    "episode_blog_url": "https://www.makerprojectlab.com/rolling-the-dice-maker-update-160/"
-  },
-  {
     "id": "Maker_Update_Season_3__2020_.xlsx|160 020620|16",
     "title": "Adam Savage's Very First Vacuuming Forming Project!",
     "creator": null,
@@ -40030,25 +38276,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/infinity-machine-maker-update-159-adafruit-edition/"
   },
   {
-    "id": "Maker_Update_Season_3__2020_.xlsx|159 (ADA) 020320|18",
-    "title": "PT",
-    "creator": null,
-    "category": "project",
-    "tags": [
-      "project-tutorial",
-      "maker-content"
-    ],
-    "synopsis": "Project tutorial and how-to guide.",
-    "confidence": "low",
-    "episode_number": 159,
-    "episode_date": "2020-02-03",
-    "edition": "adafruit",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=cqdcXvi5GDQ",
-    "episode_blog_url": "https://www.makerprojectlab.com/infinity-machine-maker-update-159-adafruit-edition/"
-  },
-  {
     "id": "Maker_Update_Season_3__2020_.xlsx|159 (ADA) 020320|21",
     "title": "PyPortal MQTT Home Assistant",
     "creator": null,
@@ -40169,27 +38396,6 @@
     "episode_date": "2020-01-30",
     "edition": "main",
     "source_url": "https://www.instructables.com/id/Millennium-Falcon-Dashboard-Full-Scale-Garage-Buil/",
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=rmV7erLdlB8",
-    "episode_blog_url": "https://www.makerprojectlab.com/engage-hyperdrive-maker-update-158/"
-  },
-  {
-    "id": "Maker_Update_Season_3__2020_.xlsx|158 013020|6",
-    "title": "DIY Star Wars Millennium Falcon Cockpit Playhouse",
-    "creator": "kylegilbert",
-    "category": "project",
-    "tags": [
-      "star-wars",
-      "playhouse",
-      "props",
-      "cosplay"
-    ],
-    "synopsis": "DIY Star Wars playhouse with scale prop elements.",
-    "confidence": "high",
-    "episode_number": 158,
-    "episode_date": "2020-01-30",
-    "edition": "main",
-    "source_url": null,
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=rmV7erLdlB8",
     "episode_blog_url": "https://www.makerprojectlab.com/engage-hyperdrive-maker-update-158/"
@@ -48265,26 +46471,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/say-chess-to-the-dress-maker-update/"
   },
   {
-    "id": "Maker_Update_Season_4__2021_.xlsx|222 SOPHY 030421|16",
-    "title": "Channel Spotlight",
-    "creator": null,
-    "category": "project",
-    "tags": [
-      "maker-profile",
-      "channel-spotlight",
-      "creator-interview"
-    ],
-    "synopsis": "Channel spotlight and creator showcase.",
-    "confidence": "low",
-    "episode_number": 222,
-    "episode_date": "2021-03-04",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=UfrT2ZgMNpU",
-    "episode_blog_url": "https://www.makerprojectlab.com/say-chess-to-the-dress-maker-update/"
-  },
-  {
     "id": "Maker_Update_Season_4__2021_.xlsx|222 SOPHY 030421|17",
     "title": "Anika's DIY Life",
     "creator": null,
@@ -55521,26 +53707,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/moonshot-maker-update/"
   },
   {
-    "id": "Maker_Update_Season_5__2022_.xlsx|279 042122|13",
-    "title": "Send Cut Send!",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "laser-cutting",
-      "metal-cutting",
-      "service"
-    ],
-    "synopsis": "Send Cut Send laser cutting service.",
-    "confidence": "high",
-    "episode_number": 279,
-    "episode_date": "2022-04-21",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=avt8Jx_0mqM",
-    "episode_blog_url": "https://www.makerprojectlab.com/moonshot-maker-update/"
-  },
-  {
     "id": "Maker_Update_Season_5__2022_.xlsx|279 042122|14",
     "title": "Melt your PCBs",
     "creator": "mitxela",
@@ -61966,24 +60132,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/nostalgic-technologies-maker-update/"
   },
   {
-    "id": "Maker_Update_Season_6__2023_.xlsx|334 JS 052523|20",
-    "title": "False",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "sparse-entry"
-    ],
-    "synopsis": "Sparse or invalid entry in archive.",
-    "confidence": "low",
-    "episode_number": 334,
-    "episode_date": "2023-05-25",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=UVs9mfIRUv4",
-    "episode_blog_url": "https://www.makerprojectlab.com/nostalgic-technologies-maker-update/"
-  },
-  {
     "id": "Maker_Update_Season_6__2023_.xlsx|333 051823|5",
     "title": "Firefly Lantern",
     "creator": "Electroboom",
@@ -64773,27 +62921,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2024-maker-update/"
   },
   {
-    "id": "Maker_Update_Season_7__2024_.xlsx|2024 Year End|15",
-    "title": "Erin St. Blaine WLED Projects",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "led",
-      "wled",
-      "addressable-led",
-      "holiday-lighting"
-    ],
-    "synopsis": "Holiday decoration projects with WLED.",
-    "confidence": "high",
-    "episode_number": 414,
-    "episode_date": "2024-12-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=jdwhenWVT4o",
-    "episode_blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2024-maker-update/"
-  },
-  {
     "id": "Maker_Update_Season_7__2024_.xlsx|413 121924|5",
     "title": "How I Made My Own iPhone from a Block of Aluminum",
     "creator": "Strange Parts",
@@ -67209,25 +65336,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/gauging-your-reaction-maker-update/"
   },
   {
-    "id": "Maker_Update_Season_7__2024_.xlsx|397 082224|15",
-    "title": "svg: https://twitter.com/pekerokotan/status/1820917873646411942",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "electronics",
-      "design"
-    ],
-    "synopsis": "Twitter reference for segment display project",
-    "confidence": "low",
-    "episode_number": 397,
-    "episode_date": "2024-08-22",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=CyfRO_zhDP0",
-    "episode_blog_url": "https://www.makerprojectlab.com/gauging-your-reaction-maker-update/"
-  },
-  {
     "id": "Maker_Update_Season_7__2024_.xlsx|397 082224|16",
     "title": "Audio Options on Pi",
     "creator": "Arya Voronova",
@@ -67933,27 +66041,6 @@
     "source_url": "https://www.youtube.com/watch?v=0kxfDN4cKTk",
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=lgR7ohu386g&t=24060s",
-    "episode_blog_url": "https://www.makerprojectlab.com/instrument-landing-maker-update/"
-  },
-  {
-    "id": "Maker_Update_Season_7__2024_.xlsx|392 071824|15",
-    "title": "Microwave Kiln Video: https://www.youtube.com/watch?v=XCI_FPDQA-U",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "kiln",
-      "microwave",
-      "ceramics",
-      "material-science"
-    ],
-    "synopsis": "Microwave kiln for small ceramic work",
-    "confidence": "high",
-    "episode_number": 392,
-    "episode_date": "2024-07-18",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=lgR7ohu386g",
     "episode_blog_url": "https://www.makerprojectlab.com/instrument-landing-maker-update/"
   },
   {
@@ -71368,26 +69455,6 @@
     "source_url": "Part 1: https://www.instagram.com/p/C3LwBmmv3gt/",
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=PRupJVNP72E&t=11940s",
-    "episode_blog_url": "https://www.makerprojectlab.com/mixed-to-perfection-maker-update/"
-  },
-  {
-    "id": "Maker_Update_Season_7__2024_.xlsx|370 021524|11",
-    "title": "Part 2: https://www.instagram.com/p/C3Lwz_CvNLm/",
-    "creator": null,
-    "category": "project",
-    "tags": [
-      "social-media",
-      "instagram",
-      "art"
-    ],
-    "synopsis": "Instagram documentation reference link",
-    "confidence": "low",
-    "episode_number": 370,
-    "episode_date": "2024-02-15",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=PRupJVNP72E",
     "episode_blog_url": "https://www.makerprojectlab.com/mixed-to-perfection-maker-update/"
   },
   {
@@ -78358,25 +76425,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/unlimited-edition-maker-update/"
   },
   {
-    "id": "Maker_Update_Season_8__2025_.xlsx|424 031325|13",
-    "title": "Lighting LED Nets with WLED and xLights",
-    "creator": "Erin St Blaine",
-    "category": "tip",
-    "tags": [
-      "led",
-      "lighting"
-    ],
-    "synopsis": "Lighting LED Nets with WLED and xLights.",
-    "confidence": "high",
-    "episode_number": 424,
-    "episode_date": "2025-03-13",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=rvhNgB0Jfns&t=23280s",
-    "episode_blog_url": "https://www.makerprojectlab.com/unlimited-edition-maker-update/"
-  },
-  {
     "id": "Maker_Update_Season_8__2025_.xlsx|423 030625|4",
     "title": "Infinity Contrast TV",
     "creator": "DIY Perks",
@@ -83041,26 +81089,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/dial-m-for-maker-maker-update/"
   },
   {
-    "id": "Maker_Update_Season_9__2026_.xlsx|477 040226|13",
-    "title": "Ryland Grace 3d print",
-    "creator": null,
-    "category": "tip",
-    "tags": [
-      "plastic",
-      "tutorial",
-      "3d-printing"
-    ],
-    "synopsis": "Ryland Grace 3d print.",
-    "confidence": "high",
-    "episode_number": 477,
-    "episode_date": "2026-04-02",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=zJWnsZAELa0",
-    "episode_blog_url": "https://www.makerprojectlab.com/dial-m-for-maker-maker-update/"
-  },
-  {
     "id": "Maker_Update_Season_9__2026_.xlsx|476 032626|4",
     "title": "Stringman",
     "creator": "Nathaniel Nifong",
@@ -86571,27 +84599,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/makers-at-silicon-2022-maker-update/"
   },
   {
-    "id": "Maker_Update_Season_5__2022_.xlsx|298 090122|11",
-    "title": "Cyberpunk Glove",
-    "creator": "Sophy Wong",
-    "category": "project",
-    "tags": [
-      "cosplay",
-      "wearables",
-      "electronics",
-      "fabric"
-    ],
-    "synopsis": "Wearable cyberpunk-styled glove.",
-    "confidence": "high",
-    "episode_number": 298,
-    "episode_date": "2022-09-01",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=UYxLq8mdk2A",
-    "episode_blog_url": "https://www.makerprojectlab.com/makers-at-silicon-2022-maker-update/"
-  },
-  {
     "id": "Maker_Update_Season_6__2023_.xlsx|363 Best Of|6",
     "title": "AdNose",
     "creator": "Adnan Aga",
@@ -86981,49 +84988,6 @@
     "episode_blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2024-maker-update/"
   },
   {
-    "id": "Maker_Update_Season_7__2024_.xlsx|2024 Year End|9",
-    "title": "NeoPixel Party Bike - Update With Radio!",
-    "creator": "TechnoChic",
-    "category": "project",
-    "tags": [
-      "led",
-      "wearables",
-      "cycling",
-      "electronics",
-      "rgb"
-    ],
-    "synopsis": "LED bike project with radio capability update.",
-    "confidence": "high",
-    "episode_number": 414,
-    "episode_date": "2024-12-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=jdwhenWVT4o&t=57960s",
-    "episode_blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2024-maker-update/"
-  },
-  {
-    "id": "Maker_Update_Season_7__2024_.xlsx|2024 Year End|11",
-    "title": "Kawaii Useless Robot - 2024 Edition",
-    "creator": "Toby Chui",
-    "category": "project",
-    "tags": [
-      "robotics",
-      "craft",
-      "useless-machines",
-      "maker"
-    ],
-    "synopsis": "Cute useless robot project, 2024 edition.",
-    "confidence": "high",
-    "episode_number": 414,
-    "episode_date": "2024-12-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=jdwhenWVT4o&t=80100s",
-    "episode_blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2024-maker-update/"
-  },
-  {
     "id": "Maker_Update_Season_9__2026_.xlsx|493 072326|4",
     "title": "Giant Gameboy Color",
     "creator": "Paige Powell/Powell Creative Studio",
@@ -87323,122 +85287,5 @@
     "secondary_urls": [],
     "episode_video_url": "https://youtube.com/watch?v=SFi3YkVGcsU",
     "episode_blog_url": "https://www.makerprojectlab.com/sound-is-just-wiggly-air-maker-update/"
-  },
-  {
-    "id": "Maker_Update_Season_7__2024_.xlsx|2024 Year End|4",
-    "title": "Modular Macro Keyboard",
-    "creator": "Salim Benbouziyane",
-    "category": "project",
-    "tags": [
-      "keyboard",
-      "electronics",
-      "3d-printing"
-    ],
-    "synopsis": "A modular macro keyboard by Salim Benbouziyane.",
-    "confidence": "high",
-    "episode_number": 414,
-    "episode_date": "2024-12-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=jdwhenWVT4o&t=3660s",
-    "episode_blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2024-maker-update/"
-  },
-  {
-    "id": "Maker_Update_Season_7__2024_.xlsx|2024 Year End|5",
-    "title": "Carpentopod",
-    "creator": "Giliam de Carpentier",
-    "category": "project",
-    "tags": [
-      "robotics",
-      "walking-robot",
-      "mechanical-engineering"
-    ],
-    "synopsis": "Carpentopod -- a parametric multi-legged walking robot by Giliam de Carpentier.",
-    "confidence": "high",
-    "episode_number": 414,
-    "episode_date": "2024-12-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=jdwhenWVT4o&t=14040s",
-    "episode_blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2024-maker-update/"
-  },
-  {
-    "id": "Maker_Update_Season_7__2024_.xlsx|2024 Year End|6",
-    "title": "Kaneda's Motorcycle",
-    "creator": "Ota Kobo",
-    "category": "project",
-    "tags": [
-      "replica",
-      "props"
-    ],
-    "synopsis": "A replica build of Kaneda's motorcycle from Akira",
-    "confidence": "low",
-    "episode_number": 414,
-    "episode_date": "2024-12-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=jdwhenWVT4o&t=28140s",
-    "episode_blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2024-maker-update/"
-  },
-  {
-    "id": "Maker_Update_Season_7__2024_.xlsx|2024 Year End|7",
-    "title": "Building a REAL Pawn That Transforms Into a Queen (automatically) by Works",
-    "creator": "Design",
-    "category": "project",
-    "tags": [
-      "mechanical-engineering",
-      "kinetic-art"
-    ],
-    "synopsis": "A mechanical chess pawn that automatically transforms into a queen.",
-    "confidence": "high",
-    "episode_number": 414,
-    "episode_date": "2024-12-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=jdwhenWVT4o&t=39720s",
-    "episode_blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2024-maker-update/"
-  },
-  {
-    "id": "Maker_Update_Season_7__2024_.xlsx|2024 Year End|10",
-    "title": "Flying RC Planes from an Actuated Chair",
-    "creator": "Michael Rechtin",
-    "category": "project",
-    "tags": [
-      "rc",
-      "robotics",
-      "motion-simulator"
-    ],
-    "synopsis": "An actuated chair that simulates flying RC planes",
-    "confidence": "low",
-    "episode_number": 414,
-    "episode_date": "2024-12-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=jdwhenWVT4o&t=70860s",
-    "episode_blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2024-maker-update/"
-  },
-  {
-    "id": "Maker_Update_Season_7__2024_.xlsx|2024 Year End|12",
-    "title": "Party Sub Projector Screen",
-    "creator": "Aunt Dena",
-    "category": "project",
-    "tags": [
-      "diy",
-      "party"
-    ],
-    "synopsis": "A party sub-themed projector screen build by Aunt Dena.",
-    "confidence": "low",
-    "episode_number": 414,
-    "episode_date": "2024-12-26",
-    "edition": "main",
-    "source_url": null,
-    "secondary_urls": [],
-    "episode_video_url": "https://youtube.com/watch?v=jdwhenWVT4o",
-    "episode_blog_url": "https://www.makerprojectlab.com/favorite-projects-of-2024-maker-update/"
   }
 ]

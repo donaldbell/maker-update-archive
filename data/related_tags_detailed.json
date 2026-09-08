@@ -209,7 +209,7 @@
       "tag": "robotics"
     },
     {
-      "count": 38,
+      "count": 37,
       "tag": "plastic"
     },
     {
@@ -221,16 +221,16 @@
       "tag": "mechanical"
     },
     {
-      "count": 24,
+      "count": 23,
       "tag": "electronics"
     },
     {
       "count": 21,
-      "tag": "tutorial"
+      "tag": "props"
     },
     {
-      "count": 21,
-      "tag": "props"
+      "count": 20,
+      "tag": "tutorial"
     },
     {
       "count": 19,
@@ -633,7 +633,7 @@
       "tag": "led"
     },
     {
-      "count": 23,
+      "count": 22,
       "tag": "wearables"
     },
     {
@@ -775,20 +775,6 @@
     {
       "count": 1,
       "tag": "wokwi"
-    }
-  ],
-  "addressable-led": [
-    {
-      "count": 1,
-      "tag": "led"
-    },
-    {
-      "count": 1,
-      "tag": "wled"
-    },
-    {
-      "count": 1,
-      "tag": "holiday-lighting"
     }
   ],
   "addressable-rgb": [
@@ -1783,11 +1769,11 @@
       "tag": "3d-printing"
     },
     {
-      "count": 10,
+      "count": 9,
       "tag": "wearables"
     },
     {
-      "count": 9,
+      "count": 8,
       "tag": "adafruit"
     },
     {
@@ -1859,18 +1845,6 @@
   ],
   "announcement": [
     {
-      "count": 6,
-      "tag": "episode"
-    },
-    {
-      "count": 5,
-      "tag": "event"
-    },
-    {
-      "count": 5,
-      "tag": "schedule"
-    },
-    {
       "count": 3,
       "tag": "microcontroller"
     },
@@ -1884,11 +1858,19 @@
     },
     {
       "count": 1,
-      "tag": "adafruit"
+      "tag": "raspberry-pi"
     },
     {
       "count": 1,
-      "tag": "raspberry-pi"
+      "tag": "embedded-systems"
+    },
+    {
+      "count": 1,
+      "tag": "nano"
+    },
+    {
+      "count": 1,
+      "tag": "printer-hardware"
     }
   ],
   "antenna": [
@@ -3559,11 +3541,11 @@
     },
     {
       "count": 2,
-      "tag": "rc"
+      "tag": "power-management"
     },
     {
       "count": 2,
-      "tag": "power-management"
+      "tag": "rc"
     },
     {
       "count": 1,
@@ -5330,11 +5312,11 @@
   "burning-man": [
     {
       "count": 1,
-      "tag": "event"
+      "tag": "design"
     },
     {
       "count": 1,
-      "tag": "design"
+      "tag": "event"
     }
   ],
   "burning-wood": [
@@ -6502,15 +6484,15 @@
     },
     {
       "count": 1,
-      "tag": "material-science"
-    },
-    {
-      "count": 1,
       "tag": "repair"
     },
     {
       "count": 1,
       "tag": "sculpting"
+    },
+    {
+      "count": 1,
+      "tag": "nozzle"
     }
   ],
   "chair": [
@@ -6529,10 +6511,6 @@
   ],
   "challenge": [
     {
-      "count": 2,
-      "tag": "event"
-    },
-    {
       "count": 1,
       "tag": "fabrication"
     },
@@ -6543,6 +6521,10 @@
     {
       "count": 1,
       "tag": "welding"
+    },
+    {
+      "count": 1,
+      "tag": "event"
     },
     {
       "count": 1,
@@ -6571,16 +6553,6 @@
     {
       "count": 1,
       "tag": "content"
-    }
-  ],
-  "channel-spotlight": [
-    {
-      "count": 1,
-      "tag": "maker-profile"
-    },
-    {
-      "count": 1,
-      "tag": "creator-interview"
     }
   ],
   "character": [
@@ -7476,7 +7448,7 @@
   ],
   "cnc": [
     {
-      "count": 10,
+      "count": 9,
       "tag": "woodworking"
     },
     {
@@ -7864,18 +7836,6 @@
       "tag": "3d-printing"
     },
     {
-      "count": 2,
-      "tag": "adafruit"
-    },
-    {
-      "count": 2,
-      "tag": "projects"
-    },
-    {
-      "count": 2,
-      "tag": "mixed"
-    },
-    {
       "count": 1,
       "tag": "ornament"
     },
@@ -8139,7 +8099,7 @@
     },
     {
       "count": 1,
-      "tag": "event"
+      "tag": "instructables"
     }
   ],
   "complex-shapes": [
@@ -8417,11 +8377,11 @@
     },
     {
       "count": 1,
-      "tag": "event"
+      "tag": "game-design"
     },
     {
       "count": 1,
-      "tag": "game-design"
+      "tag": "event"
     },
     {
       "count": 1,
@@ -9003,11 +8963,11 @@
     },
     {
       "count": 1,
-      "tag": "tool-hack"
+      "tag": "sanding"
     },
     {
       "count": 1,
-      "tag": "sanding"
+      "tag": "tool-hack"
     }
   ],
   "corrosion": [
@@ -9040,11 +9000,11 @@
   ],
   "cosplay": [
     {
-      "count": 49,
+      "count": 48,
       "tag": "props"
     },
     {
-      "count": 24,
+      "count": 23,
       "tag": "wearables"
     },
     {
@@ -9053,11 +9013,11 @@
     },
     {
       "count": 14,
-      "tag": "electronics"
+      "tag": "costume"
     },
     {
-      "count": 14,
-      "tag": "costume"
+      "count": 13,
+      "tag": "electronics"
     },
     {
       "count": 10,
@@ -9068,8 +9028,8 @@
       "tag": "robotics"
     },
     {
-      "count": 6,
-      "tag": "star-wars"
+      "count": 5,
+      "tag": "foam-craft"
     }
   ],
   "costume": [
@@ -9234,7 +9194,7 @@
   ],
   "craft": [
     {
-      "count": 7,
+      "count": 6,
       "tag": "robotics"
     },
     {
@@ -9258,12 +9218,12 @@
       "tag": "retro-tech"
     },
     {
-      "count": 4,
-      "tag": "maker"
+      "count": 3,
+      "tag": "3d-printing"
     },
     {
       "count": 3,
-      "tag": "3d-printing"
+      "tag": "maker"
     }
   ],
   "craft-technique": [
@@ -9580,16 +9540,6 @@
     {
       "count": 1,
       "tag": "marketing"
-    }
-  ],
-  "creator-interview": [
-    {
-      "count": 1,
-      "tag": "maker-profile"
-    },
-    {
-      "count": 1,
-      "tag": "channel-spotlight"
     }
   ],
   "creators": [
@@ -10413,23 +10363,7 @@
   "cycling": [
     {
       "count": 1,
-      "tag": "electronics"
-    },
-    {
-      "count": 1,
-      "tag": "led"
-    },
-    {
-      "count": 1,
-      "tag": "wearables"
-    },
-    {
-      "count": 1,
       "tag": "engineering"
-    },
-    {
-      "count": 1,
-      "tag": "rgb"
     },
     {
       "count": 1,
@@ -10674,12 +10608,6 @@
       "tag": "wifi"
     }
   ],
-  "date": [
-    {
-      "count": 5,
-      "tag": "event"
-    }
-  ],
   "debatable": [
     {
       "count": 1,
@@ -10813,11 +10741,11 @@
   "defcon": [
     {
       "count": 1,
-      "tag": "event"
+      "tag": "hacking"
     },
     {
       "count": 1,
-      "tag": "hacking"
+      "tag": "event"
     }
   ],
   "delay-line": [
@@ -10931,11 +10859,11 @@
     },
     {
       "count": 5,
-      "tag": "electronics"
+      "tag": "furniture"
     },
     {
-      "count": 5,
-      "tag": "furniture"
+      "count": 4,
+      "tag": "electronics"
     },
     {
       "count": 3,
@@ -11881,7 +11809,7 @@
       "tag": "instructables"
     },
     {
-      "count": 19,
+      "count": 17,
       "tag": "maker"
     },
     {
@@ -12268,11 +12196,11 @@
     },
     {
       "count": 1,
-      "tag": "patreon"
+      "tag": "music-projects"
     },
     {
       "count": 1,
-      "tag": "music-projects"
+      "tag": "patreon"
     }
   ],
   "diy-optics": [
@@ -12620,7 +12548,7 @@
     },
     {
       "count": 1,
-      "tag": "patreon"
+      "tag": "resources"
     }
   ],
   "dog": [
@@ -13858,11 +13786,11 @@
   ],
   "electronics": [
     {
-      "count": 53,
+      "count": 51,
       "tag": "led"
     },
     {
-      "count": 52,
+      "count": 50,
       "tag": "wearables"
     },
     {
@@ -13878,7 +13806,7 @@
       "tag": "adafruit"
     },
     {
-      "count": 24,
+      "count": 23,
       "tag": "3d-printing"
     },
     {
@@ -14607,28 +14535,6 @@
       "tag": "radar-sensor"
     }
   ],
-  "episode": [
-    {
-      "count": 6,
-      "tag": "announcement"
-    },
-    {
-      "count": 5,
-      "tag": "event"
-    },
-    {
-      "count": 5,
-      "tag": "schedule"
-    },
-    {
-      "count": 1,
-      "tag": "adafruit"
-    },
-    {
-      "count": 1,
-      "tag": "preview"
-    }
-  ],
   "epoxy": [
     {
       "count": 3,
@@ -14702,11 +14608,11 @@
     },
     {
       "count": 1,
-      "tag": "keyboard"
+      "tag": "product-design"
     },
     {
       "count": 1,
-      "tag": "product-design"
+      "tag": "keyboard"
     },
     {
       "count": 1,
@@ -14826,11 +14732,11 @@
     },
     {
       "count": 1,
-      "tag": "laser-cutting"
+      "tag": "sensor"
     },
     {
       "count": 1,
-      "tag": "sensor"
+      "tag": "laser-cutting"
     },
     {
       "count": 1,
@@ -14939,26 +14845,6 @@
   ],
   "event": [
     {
-      "count": 5,
-      "tag": "announcement"
-    },
-    {
-      "count": 5,
-      "tag": "episode"
-    },
-    {
-      "count": 5,
-      "tag": "date"
-    },
-    {
-      "count": 5,
-      "tag": "schedule"
-    },
-    {
-      "count": 2,
-      "tag": "challenge"
-    },
-    {
       "count": 1,
       "tag": "electronics"
     },
@@ -14969,6 +14855,26 @@
     {
       "count": 1,
       "tag": "art"
+    },
+    {
+      "count": 1,
+      "tag": "design"
+    },
+    {
+      "count": 1,
+      "tag": "hacking"
+    },
+    {
+      "count": 1,
+      "tag": "competition"
+    },
+    {
+      "count": 1,
+      "tag": "performance"
+    },
+    {
+      "count": 1,
+      "tag": "conference"
     }
   ],
   "event-calendar": [
@@ -15305,15 +15211,15 @@
       "tag": "3d-printing"
     },
     {
-      "count": 4,
+      "count": 3,
       "tag": "wearables"
     },
     {
-      "count": 4,
+      "count": 3,
       "tag": "cosplay"
     },
     {
-      "count": 3,
+      "count": 2,
       "tag": "electronics"
     },
     {
@@ -15833,16 +15739,6 @@
       "tag": "grove"
     }
   ],
-  "featured": [
-    {
-      "count": 1,
-      "tag": "video"
-    },
-    {
-      "count": 1,
-      "tag": "highlights"
-    }
-  ],
   "feeder": [
     {
       "count": 1,
@@ -15924,15 +15820,15 @@
     },
     {
       "count": 1,
-      "tag": "event"
-    },
-    {
-      "count": 1,
       "tag": "neopixel"
     },
     {
       "count": 1,
       "tag": "vehicles"
+    },
+    {
+      "count": 1,
+      "tag": "event"
     },
     {
       "count": 1,
@@ -21222,16 +21118,6 @@
       "tag": "workshop-decor"
     }
   ],
-  "highlights": [
-    {
-      "count": 1,
-      "tag": "video"
-    },
-    {
-      "count": 1,
-      "tag": "featured"
-    }
-  ],
   "hinges": [
     {
       "count": 2,
@@ -21418,20 +21304,6 @@
     {
       "count": 1,
       "tag": "snowflake"
-    }
-  ],
-  "holiday-lighting": [
-    {
-      "count": 1,
-      "tag": "led"
-    },
-    {
-      "count": 1,
-      "tag": "wled"
-    },
-    {
-      "count": 1,
-      "tag": "addressable-led"
     }
   ],
   "holiday-ornament": [
@@ -21842,7 +21714,7 @@
   ],
   "howto": [
     {
-      "count": 30,
+      "count": 29,
       "tag": "tool-review"
     },
     {
@@ -22831,16 +22703,6 @@
     }
   ],
   "inspired": [],
-  "instagram": [
-    {
-      "count": 1,
-      "tag": "art"
-    },
-    {
-      "count": 1,
-      "tag": "social-media"
-    }
-  ],
   "installation": [
     {
       "count": 4,
@@ -22955,7 +22817,7 @@
   ],
   "instrument": [
     {
-      "count": 4,
+      "count": 3,
       "tag": "music"
     },
     {
@@ -22981,10 +22843,6 @@
     {
       "count": 1,
       "tag": "mechanical-music"
-    },
-    {
-      "count": 1,
-      "tag": "trash-materials"
     }
   ],
   "instrument-building": [
@@ -23919,12 +23777,8 @@
   ],
   "keyboard": [
     {
-      "count": 3,
-      "tag": "3d-printing"
-    },
-    {
       "count": 2,
-      "tag": "electronics"
+      "tag": "3d-printing"
     },
     {
       "count": 2,
@@ -23933,6 +23787,10 @@
     {
       "count": 2,
       "tag": "keycaps"
+    },
+    {
+      "count": 1,
+      "tag": "electronics"
     },
     {
       "count": 1,
@@ -24065,20 +23923,6 @@
     {
       "count": 1,
       "tag": "children"
-    }
-  ],
-  "kiln": [
-    {
-      "count": 1,
-      "tag": "material-science"
-    },
-    {
-      "count": 1,
-      "tag": "ceramics"
-    },
-    {
-      "count": 1,
-      "tag": "microwave"
     }
   ],
   "kinect": [
@@ -25265,15 +25109,15 @@
   ],
   "led": [
     {
-      "count": 54,
+      "count": 53,
       "tag": "wearables"
     },
     {
-      "count": 53,
+      "count": 51,
       "tag": "electronics"
     },
     {
-      "count": 47,
+      "count": 46,
       "tag": "lighting"
     },
     {
@@ -25542,11 +25386,11 @@
     },
     {
       "count": 1,
-      "tag": "laser-cutting"
+      "tag": "circuitpython"
     },
     {
       "count": 1,
-      "tag": "circuitpython"
+      "tag": "laser-cutting"
     },
     {
       "count": 1,
@@ -26225,7 +26069,7 @@
   ],
   "lighting": [
     {
-      "count": 47,
+      "count": 46,
       "tag": "led"
     },
     {
@@ -27024,7 +26868,7 @@
   ],
   "magazine": [
     {
-      "count": 9,
+      "count": 7,
       "tag": "media"
     },
     {
@@ -27034,14 +26878,6 @@
     {
       "count": 1,
       "tag": "electronics"
-    },
-    {
-      "count": 1,
-      "tag": "adafruit"
-    },
-    {
-      "count": 1,
-      "tag": "fabrication"
     },
     {
       "count": 1,
@@ -27366,7 +27202,7 @@
   ],
   "maker": [
     {
-      "count": 19,
+      "count": 17,
       "tag": "diy"
     },
     {
@@ -27374,7 +27210,7 @@
       "tag": "interview"
     },
     {
-      "count": 4,
+      "count": 3,
       "tag": "craft"
     },
     {
@@ -27431,19 +27267,7 @@
   "maker-content": [
     {
       "count": 1,
-      "tag": "entertainment"
-    },
-    {
-      "count": 1,
       "tag": "youtube"
-    },
-    {
-      "count": 1,
-      "tag": "project-tutorial"
-    },
-    {
-      "count": 1,
-      "tag": "video-series"
     }
   ],
   "maker-craft": [
@@ -27600,14 +27424,6 @@
     {
       "count": 1,
       "tag": "workshop-tour"
-    },
-    {
-      "count": 1,
-      "tag": "channel-spotlight"
-    },
-    {
-      "count": 1,
-      "tag": "creator-interview"
     }
   ],
   "maker-projects": [
@@ -27633,15 +27449,15 @@
     },
     {
       "count": 1,
-      "tag": "patreon"
-    },
-    {
-      "count": 1,
       "tag": "gift-guide"
     },
     {
       "count": 1,
       "tag": "youtube-video"
+    },
+    {
+      "count": 1,
+      "tag": "autonomous-robots"
     }
   ],
   "maker-resources": [
@@ -27670,16 +27486,6 @@
     {
       "count": 1,
       "tag": "tool-comparison"
-    }
-  ],
-  "maker-update": [
-    {
-      "count": 1,
-      "tag": "adafruit"
-    },
-    {
-      "count": 1,
-      "tag": "special-edition"
     }
   ],
   "maker-video": [
@@ -28239,15 +28045,15 @@
     },
     {
       "count": 1,
-      "tag": "ceramics"
-    },
-    {
-      "count": 1,
       "tag": "trash"
     },
     {
       "count": 1,
       "tag": "biofabrication"
+    },
+    {
+      "count": 1,
+      "tag": "biotechnology"
     }
   ],
   "material-technique": [
@@ -28612,11 +28418,11 @@
   ],
   "mechanical-engineering": [
     {
-      "count": 2,
+      "count": 1,
       "tag": "robotics"
     },
     {
-      "count": 2,
+      "count": 1,
       "tag": "kinetic-art"
     },
     {
@@ -28641,7 +28447,7 @@
     },
     {
       "count": 1,
-      "tag": "walking-robot"
+      "tag": "autonomous-systems"
     }
   ],
   "mechanical-fastening": [
@@ -29061,12 +28867,8 @@
   ],
   "media": [
     {
-      "count": 9,
+      "count": 7,
       "tag": "magazine"
-    },
-    {
-      "count": 1,
-      "tag": "adafruit"
     },
     {
       "count": 1,
@@ -29303,14 +29105,6 @@
     {
       "count": 1,
       "tag": "metalworking"
-    },
-    {
-      "count": 1,
-      "tag": "laser-cutting"
-    },
-    {
-      "count": 1,
-      "tag": "service"
     },
     {
       "count": 1,
@@ -29697,20 +29491,6 @@
       "tag": "magnification"
     }
   ],
-  "microwave": [
-    {
-      "count": 1,
-      "tag": "material-science"
-    },
-    {
-      "count": 1,
-      "tag": "ceramics"
-    },
-    {
-      "count": 1,
-      "tag": "kiln"
-    }
-  ],
   "microwave-hacking": [
     {
       "count": 1,
@@ -30070,20 +29850,6 @@
     {
       "count": 1,
       "tag": "power-tools"
-    }
-  ],
-  "mixed": [
-    {
-      "count": 2,
-      "tag": "adafruit"
-    },
-    {
-      "count": 2,
-      "tag": "collection"
-    },
-    {
-      "count": 2,
-      "tag": "projects"
     }
   ],
   "mixed-media": [
@@ -30901,16 +30667,6 @@
       "tag": "snowboard"
     }
   ],
-  "motion-simulator": [
-    {
-      "count": 1,
-      "tag": "robotics"
-    },
-    {
-      "count": 1,
-      "tag": "rc"
-    }
-  ],
   "motion-tracking": [
     {
       "count": 1,
@@ -31623,11 +31379,11 @@
     },
     {
       "count": 1,
-      "tag": "patreon"
+      "tag": "diy-music-hardware"
     },
     {
       "count": 1,
-      "tag": "diy-music-hardware"
+      "tag": "patreon"
     }
   ],
   "music-synthesizer": [
@@ -32784,16 +32540,16 @@
   ],
   "octoprint": [
     {
-      "count": 3,
-      "tag": "3d-printing"
-    },
-    {
       "count": 2,
-      "tag": "software"
+      "tag": "3d-printing"
     },
     {
       "count": 1,
       "tag": "raspberry-pi"
+    },
+    {
+      "count": 1,
+      "tag": "software"
     },
     {
       "count": 1,
@@ -34214,12 +33970,6 @@
       "tag": "cad"
     }
   ],
-  "party": [
-    {
-      "count": 1,
-      "tag": "diy"
-    }
-  ],
   "party-canoe": [
     {
       "count": 1,
@@ -34273,10 +34023,6 @@
     }
   ],
   "patreon": [
-    {
-      "count": 2,
-      "tag": "support"
-    },
     {
       "count": 1,
       "tag": "documentation"
@@ -34640,11 +34386,11 @@
     },
     {
       "count": 1,
-      "tag": "event"
+      "tag": "costume"
     },
     {
       "count": 1,
-      "tag": "costume"
+      "tag": "event"
     },
     {
       "count": 1,
@@ -34943,14 +34689,6 @@
       "tag": "automation"
     },
     {
-      "count": 2,
-      "tag": "furniture"
-    },
-    {
-      "count": 2,
-      "tag": "fabric"
-    },
-    {
       "count": 1,
       "tag": "electronics"
     },
@@ -34965,6 +34703,14 @@
     {
       "count": 1,
       "tag": "diy"
+    },
+    {
+      "count": 1,
+      "tag": "wearables"
+    },
+    {
+      "count": 1,
+      "tag": "raspberry-pi"
     }
   ],
   "phased-array": [
@@ -35613,11 +35359,11 @@
   ],
   "plastic": [
     {
-      "count": 38,
+      "count": 37,
       "tag": "3d-printing"
     },
     {
-      "count": 19,
+      "count": 18,
       "tag": "tutorial"
     },
     {
@@ -35769,16 +35515,8 @@
   ],
   "playhouse": [
     {
-      "count": 2,
+      "count": 1,
       "tag": "star-wars"
-    },
-    {
-      "count": 1,
-      "tag": "cosplay"
-    },
-    {
-      "count": 1,
-      "tag": "props"
     },
     {
       "count": 1,
@@ -36251,24 +35989,6 @@
     {
       "count": 1,
       "tag": "animatronics"
-    }
-  ],
-  "popsicle-stick": [
-    {
-      "count": 1,
-      "tag": "diy"
-    },
-    {
-      "count": 1,
-      "tag": "woodworking"
-    },
-    {
-      "count": 1,
-      "tag": "cnc"
-    },
-    {
-      "count": 1,
-      "tag": "tool-hack"
     }
   ],
   "port-repair": [
@@ -36927,20 +36647,6 @@
     {
       "count": 1,
       "tag": "underwater-craft"
-    }
-  ],
-  "preview": [
-    {
-      "count": 1,
-      "tag": "adafruit"
-    },
-    {
-      "count": 1,
-      "tag": "announcement"
-    },
-    {
-      "count": 1,
-      "tag": "episode"
     }
   ],
   "previous": [
@@ -37688,12 +37394,6 @@
       "tag": "makerspace"
     }
   ],
-  "project-tutorial": [
-    {
-      "count": 1,
-      "tag": "maker-content"
-    }
-  ],
   "project-types": [
     {
       "count": 1,
@@ -37798,20 +37498,6 @@
       "tag": "fabrication"
     }
   ],
-  "projects": [
-    {
-      "count": 3,
-      "tag": "adafruit"
-    },
-    {
-      "count": 2,
-      "tag": "collection"
-    },
-    {
-      "count": 2,
-      "tag": "mixed"
-    }
-  ],
   "projects-guide": [
     {
       "count": 1,
@@ -37843,7 +37529,7 @@
   "prop-replica": [],
   "props": [
     {
-      "count": 49,
+      "count": 48,
       "tag": "cosplay"
     },
     {
@@ -37871,8 +37557,8 @@
       "tag": "costume"
     },
     {
-      "count": 8,
-      "tag": "star-wars"
+      "count": 7,
+      "tag": "adafruit"
     }
   ],
   "propulsion": [
@@ -38586,11 +38272,11 @@
   "qa-video": [
     {
       "count": 1,
-      "tag": "youtube"
+      "tag": "maker-culture"
     },
     {
       "count": 1,
-      "tag": "maker-culture"
+      "tag": "youtube"
     }
   ],
   "qr-codes": [
@@ -38748,7 +38434,7 @@
     },
     {
       "count": 1,
-      "tag": "video"
+      "tag": "competition"
     }
   ],
   "rack-mount": [
@@ -39030,10 +38716,6 @@
     },
     {
       "count": 1,
-      "tag": "robotics"
-    },
-    {
-      "count": 1,
       "tag": "metalworking"
     },
     {
@@ -39047,10 +38729,6 @@
     {
       "count": 1,
       "tag": "jig"
-    },
-    {
-      "count": 1,
-      "tag": "motion-simulator"
     }
   ],
   "rc-car": [
@@ -39728,15 +39406,15 @@
     },
     {
       "count": 1,
-      "tag": "props"
-    },
-    {
-      "count": 1,
       "tag": "furniture"
     },
     {
       "count": 1,
       "tag": "halloween"
+    },
+    {
+      "count": 1,
+      "tag": "vintage-tech"
     }
   ],
   "replica-weapon": [
@@ -40288,11 +39966,11 @@
     },
     {
       "count": 1,
-      "tag": "fabrication"
+      "tag": "home-automation"
     },
     {
       "count": 1,
-      "tag": "home-automation"
+      "tag": "fabrication"
     },
     {
       "count": 1,
@@ -40305,20 +39983,12 @@
   ],
   "rgb": [
     {
-      "count": 4,
+      "count": 3,
       "tag": "led"
     },
     {
       "count": 3,
       "tag": "lighting"
-    },
-    {
-      "count": 1,
-      "tag": "electronics"
-    },
-    {
-      "count": 1,
-      "tag": "wearables"
     },
     {
       "count": 1,
@@ -41546,21 +41216,6 @@
       "tag": "olfactory"
     }
   ],
-  "schedule": [
-    {
-      "count": 5,
-      "tag": "event"
-    },
-    {
-      "count": 5,
-      "tag": "announcement"
-    },
-    {
-      "count": 5,
-      "tag": "episode"
-    }
-  ],
-  "schedule-announcement": [],
   "scheduled-triggers": [
     {
       "count": 1,
@@ -41906,7 +41561,7 @@
     },
     {
       "count": 1,
-      "tag": "ceramics"
+      "tag": "model-making"
     }
   ],
   "sculptural": [
@@ -42394,15 +42049,7 @@
     },
     {
       "count": 1,
-      "tag": "laser-cutting"
-    },
-    {
-      "count": 1,
       "tag": "product-design"
-    },
-    {
-      "count": 1,
-      "tag": "metal-cutting"
     }
   ],
   "serving-robot": [
@@ -42985,7 +42632,6 @@
       "tag": "costume-shops"
     }
   ],
-  "show-format": [],
   "showcase": [
     {
       "count": 1,
@@ -43375,11 +43021,11 @@
     },
     {
       "count": 1,
-      "tag": "instrument"
+      "tag": "pyrotechnics"
     },
     {
       "count": 1,
-      "tag": "pyrotechnics"
+      "tag": "testing"
     }
   ],
   "skateboard-rack": [
@@ -43793,7 +43439,7 @@
     },
     {
       "count": 1,
-      "tag": "laser-cutting"
+      "tag": "sensor"
     }
   ],
   "smart-lighting": [
@@ -44047,16 +43693,12 @@
   ],
   "social-media": [
     {
-      "count": 2,
+      "count": 1,
       "tag": "art"
     },
     {
       "count": 1,
       "tag": "sculpture"
-    },
-    {
-      "count": 1,
-      "tag": "instagram"
     }
   ],
   "socket": [
@@ -44105,7 +43747,7 @@
   ],
   "software": [
     {
-      "count": 11,
+      "count": 10,
       "tag": "3d-printing"
     },
     {
@@ -44903,7 +44545,6 @@
       "tag": "set-design"
     }
   ],
-  "sparse-entry": [],
   "speak-and-spell": [
     {
       "count": 1,
@@ -44952,16 +44593,6 @@
     {
       "count": 1,
       "tag": "amoled"
-    }
-  ],
-  "special-edition": [
-    {
-      "count": 1,
-      "tag": "adafruit"
-    },
-    {
-      "count": 1,
-      "tag": "maker-update"
     }
   ],
   "special-effects": [
@@ -45517,11 +45148,11 @@
     },
     {
       "count": 1,
-      "tag": "support"
+      "tag": "mounting"
     },
     {
       "count": 1,
-      "tag": "mounting"
+      "tag": "support"
     }
   ],
   "standing-desk": [
@@ -45594,11 +45225,11 @@
   ],
   "star-wars": [
     {
-      "count": 8,
+      "count": 7,
       "tag": "props"
     },
     {
-      "count": 6,
+      "count": 5,
       "tag": "cosplay"
     },
     {
@@ -45614,16 +45245,16 @@
       "tag": "robotics"
     },
     {
-      "count": 2,
-      "tag": "playhouse"
-    },
-    {
       "count": 1,
       "tag": "3d-printing"
     },
     {
       "count": 1,
       "tag": "wearables"
+    },
+    {
+      "count": 1,
+      "tag": "mechanical"
     }
   ],
   "station": [
@@ -46210,7 +45841,6 @@
       "tag": "makerspace"
     }
   ],
-  "studio-technique": [],
   "styrene": [
     {
       "count": 1,
@@ -46337,10 +45967,6 @@
     {
       "count": 2,
       "tag": "3d-printing"
-    },
-    {
-      "count": 2,
-      "tag": "patreon"
     },
     {
       "count": 1,
@@ -48252,18 +47878,6 @@
     },
     {
       "count": 1,
-      "tag": "diy"
-    },
-    {
-      "count": 1,
-      "tag": "woodworking"
-    },
-    {
-      "count": 1,
-      "tag": "cnc"
-    },
-    {
-      "count": 1,
       "tag": "reuse"
     },
     {
@@ -48273,10 +47887,6 @@
     {
       "count": 1,
       "tag": "corner-rounding"
-    },
-    {
-      "count": 1,
-      "tag": "popsicle-stick"
     }
   ],
   "tool-jigs": [
@@ -48447,7 +48057,7 @@
   ],
   "tool-review": [
     {
-      "count": 30,
+      "count": 29,
       "tag": "howto"
     },
     {
@@ -49112,16 +48722,6 @@
       "tag": "found-objects"
     }
   ],
-  "trash-materials": [
-    {
-      "count": 1,
-      "tag": "music"
-    },
-    {
-      "count": 1,
-      "tag": "instrument"
-    }
-  ],
   "trash-sorting": [
     {
       "count": 1,
@@ -49378,11 +48978,11 @@
   ],
   "tutorial": [
     {
-      "count": 21,
+      "count": 20,
       "tag": "3d-printing"
     },
     {
-      "count": 19,
+      "count": 18,
       "tag": "plastic"
     },
     {
@@ -49873,20 +49473,12 @@
   ],
   "useless-machines": [
     {
-      "count": 2,
+      "count": 1,
       "tag": "robotics"
     },
     {
       "count": 1,
-      "tag": "craft"
-    },
-    {
-      "count": 1,
       "tag": "toy"
-    },
-    {
-      "count": 1,
-      "tag": "maker"
     },
     {
       "count": 1,
@@ -50599,16 +50191,6 @@
       "tag": "cinematography"
     }
   ],
-  "video-series": [
-    {
-      "count": 1,
-      "tag": "entertainment"
-    },
-    {
-      "count": 1,
-      "tag": "maker-content"
-    }
-  ],
   "village": [
     {
       "count": 1,
@@ -51297,7 +50879,7 @@
   ],
   "walking-robot": [
     {
-      "count": 3,
+      "count": 2,
       "tag": "robotics"
     },
     {
@@ -51311,10 +50893,6 @@
     {
       "count": 1,
       "tag": "mechanical-design"
-    },
-    {
-      "count": 1,
-      "tag": "mechanical-engineering"
     },
     {
       "count": 1,
@@ -51703,19 +51281,19 @@
   ],
   "wearables": [
     {
-      "count": 54,
+      "count": 53,
       "tag": "led"
     },
     {
-      "count": 52,
+      "count": 50,
       "tag": "electronics"
     },
     {
-      "count": 24,
+      "count": 23,
       "tag": "cosplay"
     },
     {
-      "count": 23,
+      "count": 22,
       "tag": "adafruit"
     },
     {
@@ -52262,11 +51840,11 @@
     },
     {
       "count": 1,
-      "tag": "seasonal"
+      "tag": "comparison"
     },
     {
       "count": 1,
-      "tag": "comparison"
+      "tag": "seasonal"
     }
   ],
   "wire-art": [
@@ -52541,7 +52119,7 @@
   ],
   "wled": [
     {
-      "count": 5,
+      "count": 4,
       "tag": "led"
     },
     {
@@ -52707,12 +52285,8 @@
       "tag": "furniture"
     },
     {
-      "count": 10,
+      "count": 9,
       "tag": "cnc"
-    },
-    {
-      "count": 6,
-      "tag": "diy"
     },
     {
       "count": 6,
@@ -52725,6 +52299,10 @@
     {
       "count": 6,
       "tag": "power-tools"
+    },
+    {
+      "count": 5,
+      "tag": "diy"
     },
     {
       "count": 5,
@@ -53120,11 +52698,11 @@
     },
     {
       "count": 1,
-      "tag": "maker-profile"
+      "tag": "artist-profile"
     },
     {
       "count": 1,
-      "tag": "artist-profile"
+      "tag": "maker-profile"
     },
     {
       "count": 1,
@@ -53355,19 +52933,15 @@
     },
     {
       "count": 1,
-      "tag": "podcast"
-    },
-    {
-      "count": 1,
       "tag": "data-display"
     },
     {
       "count": 1,
-      "tag": "maker-content"
+      "tag": "maker-culture"
     },
     {
       "count": 1,
-      "tag": "maker-culture"
+      "tag": "maker-content"
     },
     {
       "count": 1,
