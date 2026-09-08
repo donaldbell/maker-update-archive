@@ -60,6 +60,16 @@ header {
   text-align: center;
 }
 header h1 { margin: 0 0 0.35rem; font-size: 1.9rem; letter-spacing: -0.01em; }
+#title-reset {
+  font: inherit;
+  font-weight: 700;
+  background: none;
+  border: none;
+  color: var(--text);
+  cursor: pointer;
+  padding: 0;
+}
+#title-reset:hover { color: var(--accent); }
 .tagline { margin: 0; color: var(--text-dim); font-size: 0.95rem; }
 
 main {
@@ -109,6 +119,8 @@ main {
 }
 .filter-chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
+.sort-reset-group { display: flex; gap: 0.5rem; }
+
 #sort-select {
   border: 1px solid var(--border);
   background: var(--surface);
@@ -117,6 +129,17 @@ main {
   padding: 0.4rem 0.75rem;
   font-size: 0.85rem;
 }
+
+#reset-button {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-dim);
+  border-radius: 999px;
+  padding: 0.4rem 0.85rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+#reset-button:hover { border-color: var(--accent); color: var(--accent); }
 
 .active-tag-filter {
   margin-top: 0.6rem;

@@ -8,7 +8,7 @@
 </head>
 <body>
 <header>
-  <h1>Maker Update Archive</h1>
+  <h1><button id="title-reset" type="button">Maker Update Archive</button></h1>
   <p class="tagline">Search 9 years of projects and tips from the Maker Update show.</p>
 </header>
 
@@ -22,11 +22,14 @@
         <button class="filter-chip" data-category="project">Projects</button>
         <button class="filter-chip" data-category="tip">Tips</button>
       </div>
-      <select id="sort-select">
-        <option value="relevance">Sort: Relevance</option>
-        <option value="date-desc">Sort: Newest first</option>
-        <option value="date-asc">Sort: Oldest first</option>
-      </select>
+      <div class="sort-reset-group">
+        <select id="sort-select">
+          <option value="relevance">Sort: Default</option>
+          <option value="date-desc">Sort: Newest first</option>
+          <option value="date-asc">Sort: Oldest first</option>
+        </select>
+        <button id="reset-button" type="button" title="Reset search and filters">Reset</button>
+      </div>
     </div>
 
     <div id="active-tag-filter" class="active-tag-filter" hidden>

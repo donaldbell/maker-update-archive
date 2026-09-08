@@ -12,6 +12,7 @@
   };
 
   let items = [];
+  let shuffledItems = [];
   let fuse = null;
 
   const el = {
@@ -22,11 +23,22 @@
     loadMore: document.getElementById("load-more"),
     categoryFilters: document.getElementById("category-filters"),
     sortSelect: document.getElementById("sort-select"),
+    resetButton: document.getElementById("reset-button"),
+    titleReset: document.getElementById("title-reset"),
     activeTagFilter: document.getElementById("active-tag-filter"),
     activeTagName: document.getElementById("active-tag-name"),
     clearTagFilter: document.getElementById("clear-tag-filter"),
     dataUpdated: document.getElementById("data-updated"),
   };
+
+  function shuffleArray(arr) {
+    // Fisher-Yates
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
 
   function escapeHtml(s) {
     const d = document.createElement("div");
@@ -56,7 +68,9 @@
     if (state.query.trim() && fuse) {
       base = fuse.search(state.query.trim(), { limit: 2000 }).map((r) => r.item);
     } else {
-      base = items;
+      // No active search: browse in shuffled order so every visit/reset
+      // surfaces something new, rather than always the same file order.
+      base = shuffledItems;
     }
     let filtered = base.filter(matchesFilters);
 
@@ -133,15 +147,45 @@
     render();
   }
 
+  function resetAll() {
+    state.query = "";
+    state.category = "all";
+    state.tag = null;
+    state.sort = "relevance";
+    state.page = 1;
+
+    el.search.value = "";
+    el.categoryFilters.querySelectorAll(".filter-chip").forEach((b) => {
+      b.classList.toggle("active", b.dataset.category === "all");
+    });
+    el.sortSelect.value = "relevance";
+
+    shuffledItems = shuffleArray(items.slice());
+    render();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
   // --- events ---
   let searchDebounce = null;
   el.search.addEventListener("input", () => {
     clearTimeout(searchDebounce);
+    const wasEmpty = state.query === "";
+    const value = el.search.value;
     searchDebounce = setTimeout(() => {
-      state.query = el.search.value;
+      // Clearing the box (via the native "x" or backspacing to empty) is
+      // one of the three reset gestures -- also drop category/tag/sort
+      // back to defaults and reshuffle, not just the search text.
+      if (value === "" && !wasEmpty) {
+        resetAll();
+        return;
+      }
+      state.query = value;
       resetPageAndRender();
     }, 120);
   });
+
+  el.resetButton.addEventListener("click", resetAll);
+  el.titleReset.addEventListener("click", resetAll);
 
   el.categoryFilters.addEventListener("click", (e) => {
     const btn = e.target.closest(".filter-chip");
@@ -180,6 +224,7 @@
     .then((r) => r.json())
     .then((payload) => {
       items = payload.items || payload;
+      shuffledItems = shuffleArray(items.slice());
       el.dataUpdated.textContent = payload.generated_at ? formatDate(payload.generated_at.slice(0, 10)) : "recently";
 
       fuse = new Fuse(items, {
