@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Maker Update: Daily Pick</title>
+
+<link rel="manifest" href="discover-manifest.json">
+<meta name="theme-color" content="#c1440e">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="MU Daily Pick">
+
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="stylesheet" href="style.css?v=3">
+<link rel="stylesheet" href="discover.css?v=3">
+</head>
+<body class="discover-body">
+
+<div class="discover-wrap">
+  <header class="discover-header">
+    <img src="mu-logo.png" alt="Maker Update" class="discover-logo">
+    <p class="discover-kicker" id="pick-kicker">Today's pick</p>
+  </header>
+
+  <main id="discover-card-slot">
+    <div class="discover-loading">Loading&hellip;</div>
+  </main>
+
+  <div class="discover-actions">
+    <button id="shuffle-button" type="button">&#x1F500; Shuffle</button>
+  </div>
+
+  <footer class="discover-footer">
+    <a href="index.html">Search the full archive &rarr;</a>
+    <p class="discover-hint">Tip: add this page to your home screen for a fresh pick every day.</p>
+  </footer>
+</div>
+
+<script src="discover.js?v=3"></script>
+</body>
+</html>

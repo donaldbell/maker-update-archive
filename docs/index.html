@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Maker Update Archive</title>
+
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#c1440e">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="MU Archive">
+
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="favicon-512.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="stylesheet" href="style.css?v=3">
+</head>
+<body>
+<div id="discover-breadcrumb" class="discover-breadcrumb" hidden>
+  <a href="discover.html">&larr; Back to Daily Pick</a>
+</div>
+<header>
+  <h1>
+    <button id="title-reset" type="button" class="brand">
+      <img src="mu-logo.png" alt="" class="brand-logo" width="72" height="72">
+      <span>Maker Update Archive</span>
+    </button>
+  </h1>
+  <p class="tagline">Search 9 years of projects and tips from the Maker Update show.</p>
+</header>
+
+<main>
+  <div class="controls">
+    <input type="search" id="search-box" placeholder="Search projects and tips (e.g. &quot;cardboard&quot;, &quot;laser cutting&quot;, a creator's name)&hellip;" autocomplete="off">
+
+    <div class="filter-row">
+      <div class="filter-group" id="category-filters">
+        <button class="filter-chip active" data-category="all">All</button>
+        <button class="filter-chip" data-category="project">Projects</button>
+        <button class="filter-chip" data-category="tip">Tips</button>
+      </div>
+      <div class="sort-reset-group">
+        <select id="sort-select">
+          <option value="relevance">Sort: Default</option>
+          <option value="date-desc">Sort: Newest first</option>
+          <option value="date-asc">Sort: Oldest first</option>
+        </select>
+        <button id="reset-button" type="button" title="Reset search and filters">Reset</button>
+      </div>
+    </div>
+
+    <div id="active-tag-filter" class="active-tag-filter" hidden>
+      Filtering by tag: <span id="active-tag-name"></span>
+      <button id="clear-tag-filter">&times; clear</button>
+    </div>
+  </div>
+
+  <div id="status-line" class="status-line"></div>
+
+  <div id="results" class="results"></div>
+  <div id="load-more-wrap" class="load-more-wrap" hidden>
+    <button id="load-more">Show more results</button>
+  </div>
+</main>
+
+<footer>
+  <p><a href="discover.html">Get a random daily pick &rarr;</a> &middot; a smaller page you can add to your phone's home screen for one fresh project or tip a day.</p>
+  <p>Built from the <a href="https://www.makerprojectlab.com/" target="_blank" rel="noopener">Maker Project Lab</a> archive. Data last updated: <span id="data-updated"></span>.</p>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script src="app.js?v=3"></script>
+</body>
+</html>
