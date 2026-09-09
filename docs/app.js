@@ -25,6 +25,7 @@
     sortSelect: document.getElementById("sort-select"),
     resetButton: document.getElementById("reset-button"),
     titleReset: document.getElementById("title-reset"),
+    breadcrumb: document.getElementById("discover-breadcrumb"),
     activeTagFilter: document.getElementById("active-tag-filter"),
     activeTagName: document.getElementById("active-tag-name"),
     clearTagFilter: document.getElementById("clear-tag-filter"),
@@ -244,6 +245,13 @@
       const tagParam = new URLSearchParams(window.location.search).get("tag");
       if (tagParam) {
         state.tag = tagParam;
+      }
+
+      // Show a "back to Daily Pick" breadcrumb whenever we arrived from
+      // there, whether via a tag click (tagParam set) or the plain
+      // "Search the full archive" link (no tag, but referrer shows it).
+      if (tagParam || (document.referrer && document.referrer.includes("discover.html"))) {
+        el.breadcrumb.hidden = false;
       }
 
       render();

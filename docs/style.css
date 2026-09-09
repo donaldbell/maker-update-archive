@@ -53,6 +53,23 @@ body {
   line-height: 1.5;
 }
 
+.discover-breadcrumb {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0.85rem 1.25rem 0;
+}
+.discover-breadcrumb a {
+  display: inline-block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  background: var(--accent-soft);
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+}
+.discover-breadcrumb a:hover { text-decoration: underline; }
+
 header {
   max-width: var(--max-width);
   margin: 0 auto;
