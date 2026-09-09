@@ -1,0 +1,118 @@
+.discover-body {
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+
+.discover-wrap {
+  width: 100%;
+  max-width: 480px;
+  padding: 1.5rem 1.25rem 2.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.discover-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.discover-logo {
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+}
+
+.discover-kicker {
+  margin: 0;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+#discover-card-slot {
+  width: 100%;
+}
+
+.discover-loading,
+.discover-error {
+  color: var(--text-dim);
+  padding: 3rem 1rem;
+}
+
+.discover-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1.5rem 1.35rem;
+  text-align: left;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.discover-card .badge { margin-bottom: 0.6rem; display: inline-block; }
+
+.discover-card h1 {
+  font-size: 1.4rem;
+  line-height: 1.25;
+  margin: 0 0 0.4rem;
+}
+.discover-card h1 a { color: var(--text); text-decoration: none; }
+.discover-card h1 a:hover { text-decoration: underline; }
+
+.discover-card .card-meta { font-size: 0.85rem; color: var(--text-dim); margin: 0 0 0.75rem; }
+
+.discover-card .card-synopsis { font-size: 1rem; margin: 0 0 0.85rem; }
+
+.discover-card .card-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-bottom: 0.85rem; }
+
+.discover-card .card-links { display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.95rem; }
+.discover-card .card-links a {
+  color: #fff;
+  background: var(--accent);
+  text-decoration: none;
+  text-align: center;
+  padding: 0.65rem 1rem;
+  border-radius: 8px;
+  font-weight: 600;
+}
+.discover-card .card-links a:hover { opacity: 0.9; }
+.discover-card .card-links a.secondary {
+  color: var(--accent);
+  background: none;
+  border: 1px solid var(--border);
+}
+
+.discover-actions { margin-top: 1.5rem; }
+#shuffle-button {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  padding: 0.7rem 1.6rem;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+#shuffle-button:hover { border-color: var(--accent); color: var(--accent); }
+#shuffle-button:active { transform: scale(0.98); }
+
+.discover-footer {
+  margin-top: 2rem;
+  font-size: 0.85rem;
+}
+.discover-footer a { color: var(--accent); text-decoration: none; font-weight: 600; }
+.discover-footer a:hover { text-decoration: underline; }
+.discover-hint {
+  color: var(--text-dim);
+  font-size: 0.78rem;
+  margin: 0.6rem 0 0;
+}
