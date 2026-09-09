@@ -215,6 +215,7 @@ main {
 
 .card-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-bottom: 0.6rem; }
 .tag-chip {
+  display: inline-block;
   background: var(--tag-bg);
   color: var(--tag-text);
   border: none;
@@ -222,6 +223,7 @@ main {
   padding: 0.2rem 0.55rem;
   font-size: 0.75rem;
   cursor: pointer;
+  text-decoration: none;
 }
 .tag-chip:hover { background: var(--accent-soft); }
 

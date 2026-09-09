@@ -33,9 +33,18 @@
     return h >>> 0;
   }
 
+  function todayKey() {
+    return new Date().toISOString().slice(0, 10); // YYYY-MM-DD, UTC-based but stable enough for "changes daily"
+  }
+
   function todaysIndex() {
-    const todayKey = new Date().toISOString().slice(0, 10); // YYYY-MM-DD, local calendar day via toISOString is UTC-based but stable enough for "changes daily"
-    return hashString(todayKey) % items.length;
+    return hashString(todayKey()) % items.length;
+  }
+
+  const THEME_COUNT = 6;
+  function applyDailyTheme() {
+    const n = hashString(todayKey() + ":theme") % THEME_COUNT;
+    document.body.classList.add(`theme-${n}`);
   }
 
   function randomIndex() {
@@ -52,7 +61,7 @@
 
     const tagsHtml = (item.tags || [])
       .slice(0, 6)
-      .map((t) => `<span class="tag-chip">${escapeHtml(t)}</span>`)
+      .map((t) => `<a class="tag-chip" href="index.html?tag=${encodeURIComponent(t)}">${escapeHtml(t)}</a>`)
       .join("");
 
     const links = [];
@@ -85,6 +94,8 @@
   }
 
   el.shuffle.addEventListener("click", showRandom);
+
+  applyDailyTheme();
 
   fetch("data.json")
     .then((r) => r.json())

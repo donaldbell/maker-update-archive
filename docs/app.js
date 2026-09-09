@@ -239,6 +239,13 @@
         minMatchCharLength: 2,
       });
 
+      // Deep link support: index.html?tag=foo arrives pre-filtered (e.g.
+      // from a tag click on the discover.html daily-pick page).
+      const tagParam = new URLSearchParams(window.location.search).get("tag");
+      if (tagParam) {
+        state.tag = tagParam;
+      }
+
       render();
     })
     .catch((err) => {

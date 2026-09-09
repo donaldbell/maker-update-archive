@@ -1,9 +1,25 @@
+/* Soft two-tone color wash, one of a handful of daily themes (picked by
+   date hash in discover.js so the page's whole mood shifts day to day,
+   not just the featured item) -- kept low-opacity so it stays legible in
+   both light and dark mode rather than overpowering the content. */
+.theme-0 { --blob-a: 193, 68, 14;  --blob-b: 232, 118, 99;  }  /* sunrise: orange -> coral */
+.theme-1 { --blob-a: 31, 158, 168; --blob-b: 42, 93, 143;   }  /* teal -> blue */
+.theme-2 { --blob-a: 47, 111, 78;  --blob-b: 31, 158, 168;  }  /* forest -> teal */
+.theme-3 { --blob-a: 138, 78, 168; --blob-b: 193, 68, 14;   }  /* violet -> orange */
+.theme-4 { --blob-a: 199, 149, 44; --blob-b: 193, 68, 14;   }  /* gold -> red */
+.theme-5 { --blob-a: 42, 93, 143;  --blob-b: 31, 158, 168;  }  /* blue -> teal */
+
 .discover-body {
   display: flex;
   min-height: 100vh;
   align-items: center;
   justify-content: center;
   padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+  background-color: var(--bg);
+  background-image:
+    radial-gradient(circle at 12% 8%, rgba(var(--blob-a, 193, 68, 14), 0.28), transparent 42%),
+    radial-gradient(circle at 88% 92%, rgba(var(--blob-b, 232, 118, 99), 0.22), transparent 42%);
+  background-attachment: fixed;
 }
 
 .discover-wrap {
@@ -25,18 +41,22 @@
 }
 
 .discover-logo {
-  width: 76px;
-  height: 76px;
+  width: 84px;
+  height: 84px;
   border-radius: 50%;
+  box-shadow: 0 10px 26px -10px rgba(var(--blob-a, 193, 68, 14), 0.6);
 }
 
 .discover-kicker {
   margin: 0;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.1em;
   font-weight: 700;
-  color: var(--accent);
+  color: #fff;
+  background: linear-gradient(90deg, rgb(var(--blob-a, 193, 68, 14)), rgb(var(--blob-b, 232, 118, 99)));
+  padding: 0.3rem 0.85rem;
+  border-radius: 999px;
 }
 
 #discover-card-slot {
@@ -50,20 +70,35 @@
 }
 
 .discover-card {
+  position: relative;
   background: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 14px;
-  padding: 1.5rem 1.35rem;
+  border-radius: 16px;
+  padding: 1.75rem 1.35rem 1.5rem;
   text-align: left;
   width: 100%;
   box-sizing: border-box;
+  box-shadow: 0 16px 40px -20px rgba(var(--blob-a, 193, 68, 14), 0.55), 0 2px 8px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
 }
 
-.discover-card .badge { margin-bottom: 0.6rem; display: inline-block; }
+.discover-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 6px;
+  background: linear-gradient(90deg, rgb(var(--blob-a, 193, 68, 14)), rgb(var(--blob-b, 232, 118, 99)));
+}
+
+.discover-card .badge { margin-bottom: 0.7rem; display: inline-block; }
 
 .discover-card h1 {
-  font-size: 1.4rem;
-  line-height: 1.25;
+  font-size: 1.55rem;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
   margin: 0 0 0.4rem;
 }
 .discover-card h1 a { color: var(--text); text-decoration: none; }
