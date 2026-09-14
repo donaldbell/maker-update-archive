@@ -1,7 +1,7 @@
 {
-  "name": "Maker Update: Daily Pick",
-  "short_name": "MU Daily Pick",
-  "description": "One project or tip from the Maker Update archive, picked fresh each day.",
+  "name": "Maker Update: Random Pick",
+  "short_name": "MU Random Pick",
+  "description": "One random project or tip from the Maker Update archive, every time you open it.",
   "start_url": "./discover.html",
   "scope": "./",
   "display": "standalone",

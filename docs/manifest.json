@@ -1,7 +1,7 @@
 {
   "name": "Maker Update Archive",
   "short_name": "MU Archive",
-  "description": "Search 9 years of projects and tips from the Maker Update show.",
+  "description": "Search 10 years of projects and tips from the Maker Update show.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

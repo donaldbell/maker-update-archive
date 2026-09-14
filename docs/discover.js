@@ -22,28 +22,12 @@
     return d.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
   }
 
-  // Simple deterministic string hash (djb2) so the same date always maps
-  // to the same index -- today's pick stays stable across opens/reloads
-  // on the same day, and (very likely) changes the next day.
-  function hashString(s) {
-    let h = 5381;
-    for (let i = 0; i < s.length; i++) {
-      h = (h * 33) ^ s.charCodeAt(i);
-    }
-    return h >>> 0;
-  }
-
-  function todayKey() {
-    return new Date().toISOString().slice(0, 10); // YYYY-MM-DD, UTC-based but stable enough for "changes daily"
-  }
-
-  function todaysIndex() {
-    return hashString(todayKey()) % items.length;
-  }
-
   const THEME_COUNT = 6;
-  function applyDailyTheme() {
-    const n = hashString(todayKey() + ":theme") % THEME_COUNT;
+  function applyRandomTheme() {
+    // Picked once per page load (not re-picked on shuffle, so the color
+    // wash doesn't flicker every tap) -- every load gets a fresh look,
+    // same as every load getting a fresh item.
+    const n = Math.floor(Math.random() * THEME_COUNT);
     document.body.classList.add(`theme-${n}`);
   }
 
@@ -51,8 +35,8 @@
     return Math.floor(Math.random() * items.length);
   }
 
-  function renderItem(item, kickerLabel) {
-    el.kicker.textContent = kickerLabel;
+  function renderItem(item) {
+    el.kicker.textContent = "Random pick";
 
     const metaParts = [];
     if (item.creator) metaParts.push(escapeHtml(item.creator));
@@ -85,24 +69,20 @@
     `;
   }
 
-  function showToday() {
-    renderItem(items[todaysIndex()], "Today's pick");
-  }
-
   function showRandom() {
-    renderItem(items[randomIndex()], "Random pick");
+    renderItem(items[randomIndex()]);
   }
 
   el.shuffle.addEventListener("click", showRandom);
 
-  applyDailyTheme();
+  applyRandomTheme();
 
   fetch("data.json")
     .then((r) => r.json())
     .then((payload) => {
       items = payload.items || payload;
       if (!items.length) throw new Error("empty dataset");
-      showToday();
+      showRandom();
     })
     .catch((err) => {
       el.slot.innerHTML = `<div class="discover-error">Couldn't load the archive. Please try again.</div>`;
