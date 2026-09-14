@@ -221,7 +221,11 @@
   });
 
   // --- init ---
-  fetch("data.json")
+  // Cache-bust on every load -- this file changes as Donald keeps editing
+  // Airtable, and it's exactly the kind of resource a home-screen PWA can
+  // otherwise serve stale for a long time (same class of bug as app.js
+  // needed ?v= versioning for).
+  fetch("data.json?t=" + Date.now())
     .then((r) => r.json())
     .then((payload) => {
       items = payload.items || payload;

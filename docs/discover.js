@@ -77,7 +77,7 @@
 
   applyRandomTheme();
 
-  fetch("data.json")
+  fetch("data.json?t=" + Date.now())
     .then((r) => r.json())
     .then((payload) => {
       items = payload.items || payload;

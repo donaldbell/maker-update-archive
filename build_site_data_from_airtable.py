@@ -10,13 +10,23 @@ is used as the "preceding row" adjacency proxy (Airtable's list order for
 CSV-imported data tracks the original spreadsheet row order), since the
 Airtable schema doesn't carry the original tab/row_index columns.
 
-Shorts exclusion is NOT reapplied here -- the Airtable schema has no
-`section` field, so Shorts can't be distinguished from this data. (They
-were not observed as bare url titles, ~and no `edition`/`category` value
-in the pull corresponds to them -- they're either already absent from
-Donald's Airtable bases or unidentifiable here; flagged, not silently
-assumed-handled.)
+Shorts exclusion: the Airtable schema has no `section` field, so Shorts
+rows can't be identified the way final_cleanup.py did it (section=="short").
+As a proxy, titles are cross-checked against the known Shorts-title set
+recovered from data/to_tag.csv's `section` column (still available locally,
+independent of Airtable). This is title-based, not row-identity-based, so
+it's an approximation: a handful of titles do legitimately recur across
+different episodes for non-Shorts content, and any of those would be
+excluded too if they happen to collide with a Shorts title. Traded off
+deliberately in favor of catching the ~171 Shorts rows confirmed present
+in Donald's current Airtable data (spot-checked against the original
+343-row Shorts exclusion) over leaving them all in.
+
+No-source-URL exclusion: reapplies the "no source URL = not useful, drop
+it" rule from the 2026-09-09 pass (drop_no_source_url.py) -- this rebuild
+had dropped it, letting 82 no-source-URL rows back into the live dataset.
 """
+import csv
 import json
 import re
 from datetime import datetime, timezone
@@ -27,6 +37,12 @@ ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 DOCS = ROOT / "docs"
 URL_RE = re.compile(r"^https?://", re.IGNORECASE)
+
+
+def load_shorts_titles():
+    with open(DATA / "to_tag.csv", newline="", encoding="utf-8") as f:
+        rows = list(csv.DictReader(f))
+    return {r["title_guess"].strip() for r in rows if r["section"] == "short" and r["title_guess"].strip()}
 
 COMMENTARY_EXCLUDE_TITLES = {
     "Shoutout",
@@ -58,6 +74,8 @@ def main():
     with open(DATA / "airtable_live_snapshot.json", encoding="utf-8") as f:
         records = json.load(f)
 
+    shorts_titles = load_shorts_titles()
+
     by_season = defaultdict(list)
     for r in records:
         by_season[r["season"]].append(r)
@@ -69,6 +87,9 @@ def main():
         if title in EXCLUDE_TITLES:
             pre_drop.add(r["airtable_record_id"])
             drop_reasons["commentary_or_event"] += 1
+        elif title in shorts_titles:
+            pre_drop.add(r["airtable_record_id"])
+            drop_reasons["shorts_segment"] += 1
 
     consumed = set()
     merged_count = 0
@@ -102,7 +123,13 @@ def main():
             consumed.add(rid)
             merged_count += 1
 
+    # Both checked post-merge (not pre_drop) so a companion row whose own
+    # source_url/tags happen to be blank still gets a chance to be merged
+    # into its parent first -- checking these too early was the bug that
+    # silently dropped ~120 companion links in an earlier version of this
+    # pipeline (final_cleanup.py, 2026-09-07).
     zero_tag_drop = set()
+    no_source_drop = set()
     for r in records:
         rid = r["airtable_record_id"]
         if rid in pre_drop or rid in consumed:
@@ -110,8 +137,11 @@ def main():
         if not r["tags"]:
             zero_tag_drop.add(rid)
             drop_reasons["zero_tag"] += 1
+        elif not (r["source_url"] or "").strip():
+            no_source_drop.add(rid)
+            drop_reasons["no_source_url"] += 1
 
-    drop_set = pre_drop | consumed | zero_tag_drop
+    drop_set = pre_drop | consumed | zero_tag_drop | no_source_drop
     kept = [r for r in records if r["airtable_record_id"] not in drop_set]
 
     items = []
