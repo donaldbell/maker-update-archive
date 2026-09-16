@@ -213,6 +213,53 @@ def main():
     drop_set = pre_drop | consumed | zero_tag_drop | no_source_drop
     kept = [r for r in records if r["airtable_record_id"] not in drop_set]
 
+    # Global duplicate-source cleanup (2026-09-16): outside of recap
+    # episodes, some projects get re-mentioned in a later regular episode
+    # (e.g. a product revisited months later). Donald wants the earlier/
+    # original mention kept and later ones dropped. Only applies across
+    # DIFFERENT episodes -- two rows sharing a URL within the SAME episode
+    # are almost always one source video/page covering two distinct
+    # topics, not a re-mention, and are left alone (episodes 187, 199,
+    # 215, 312 all had this shape on inspection). A couple of shared URLs
+    # are excluded as known non-duplicates, spot-checked individually
+    # rather than guessed: a generic magazine "browse all issues" landing
+    # page (two different issues, not the same one twice), a community
+    # post URL covering two differently-named creator projects, and a
+    # persistent robot-platform page whose two mentions name different
+    # named robots.
+    NOT_DUPLICATE_SHARED_URLS = {
+        "https://hackspace.raspberrypi.org/issues",
+        "https://community.makezine.com/share/nick-brewer/vintage-intercom-echo-5d90bd?ref=platform&ref_id=18265_trending___&offset=24",
+        "https://letsrobot.tv/robocaster/makerdonald/robot/67834441",
+    }
+
+    by_url_kept = defaultdict(list)
+    for r in kept:
+        u = (r["source_url"] or "").strip()
+        if u:
+            by_url_kept[u].append(r)
+
+    global_dup_drop = set()
+    for url, group in by_url_kept.items():
+        if url in NOT_DUPLICATE_SHARED_URLS or len(group) < 2:
+            continue
+        # Keyed on (episode_number, episode_date), not episode_number alone:
+        # episodes 81-84 and 495 each cover two distinct air dates under the
+        # same episode_number (a numbering glitch in the source data), so
+        # episode_number alone would wrongly treat those as one episode and
+        # skip real cross-episode duplicates.
+        episode_keys = {(r["episode_number"], r["episode_date"]) for r in group}
+        if len(episode_keys) < 2:
+            continue  # same-episode co-listing, not a cross-episode re-mention
+        earliest_key = min(episode_keys, key=lambda k: (k[1] or "", k[0] or 0))
+        for r in group:
+            if (r["episode_number"], r["episode_date"]) != earliest_key:
+                global_dup_drop.add(r["airtable_record_id"])
+                drop_reasons["global_duplicate_source"] += 1
+
+    kept = [r for r in kept if r["airtable_record_id"] not in global_dup_drop]
+    drop_set = drop_set | global_dup_drop
+
     items = []
     for r in kept:
         items.append({
