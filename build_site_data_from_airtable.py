@@ -25,6 +25,29 @@ in Donald's current Airtable data (spot-checked against the original
 No-source-URL exclusion: reapplies the "no source URL = not useful, drop
 it" rule from the 2026-09-09 pass (drop_no_source_url.py) -- this rebuild
 had dropped it, letting 82 no-source-URL rows back into the live dataset.
+
+Year-end/best-of recap duplicate exclusion (2026-09-16): year-end and
+"favorite projects of <year>" episodes re-mention projects already
+featured earlier that same year, creating duplicate entries pointing at
+the same source. Donald wants those duplicates gone from the site while
+the original debut-episode entry stays put. The Airtable schema carries
+no episode title or "is this a recap episode" flag, so recap episodes are
+identified via data/to_tag.csv's `special_type` column (best_of /
+year_end / favorites_roundup), cross-referenced by episode_number.
+
+This is a DUPLICATE exclusion, not a blanket episode exclusion: a recap
+row is only dropped if a matching source_url or exact title is also found
+on a non-recap row elsewhere in the CURRENT Airtable data. An earlier
+version of this rule dropped every row from a recap episode outright, on
+the assumption (verified against data/to_tag.csv, the older pre-Airtable
+source) that recap rows always duplicate an earlier row. But to_tag.csv
+predates a lot of Donald's manual Airtable cleanup, and 8 of the 57 recap
+rows in the live Airtable snapshot turned out to have no surviving
+duplicate anywhere else in the current data -- their original debut-
+episode row is already gone (dropped in some earlier cleanup pass before
+this snapshot), so the recap mention is now the ONLY surviving record of
+that project (e.g. "Introducing the Raspberry Pi Pico", ep263). Blanket-
+excluding those would delete real content, not dedupe it, so they're kept.
 """
 import csv
 import json
@@ -43,6 +66,31 @@ def load_shorts_titles():
     with open(DATA / "to_tag.csv", newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
     return {r["title_guess"].strip() for r in rows if r["section"] == "short" and r["title_guess"].strip()}
+
+
+RECAP_SPECIAL_TYPES = {"best_of", "year_end", "favorites_roundup"}
+
+# Episodes 65 and 213 are also year-end recap shows but predate/missed the
+# to_tag.csv special_type tagging pass. Found by scanning every Dec/Jan
+# episode for what fraction of its rows duplicate a source_url or title
+# found elsewhere: 65 (89%) and 213 (83%, one row literally titled "Best
+# of 2020 - Adafruit Edition") sit with the confirmed recap episodes
+# (79-100%), while every other Dec/Jan episode tops out at 33% -- a clean
+# cliff, not a judgment call.
+MANUAL_RECAP_EPISODE_NUMBERS = {65, 213}
+
+
+def load_recap_episode_numbers():
+    with open(DATA / "to_tag.csv", newline="", encoding="utf-8") as f:
+        rows = list(csv.DictReader(f))
+    nums = set(MANUAL_RECAP_EPISODE_NUMBERS)
+    for r in rows:
+        if r["special_type"] in RECAP_SPECIAL_TYPES and r["episode_number"].strip():
+            try:
+                nums.add(int(r["episode_number"]))
+            except ValueError:
+                pass
+    return nums
 
 COMMENTARY_EXCLUDE_TITLES = {
     "Shoutout",
@@ -75,6 +123,21 @@ def main():
         records = json.load(f)
 
     shorts_titles = load_shorts_titles()
+    recap_episode_numbers = load_recap_episode_numbers()
+
+    # A recap row is only a duplicate-drop candidate if the same source_url
+    # or exact title also appears on a non-recap row -- see docstring above
+    # for why this can't be a blanket per-episode exclusion.
+    nonrecap_urls = {
+        (r["source_url"] or "").strip()
+        for r in records
+        if r["episode_number"] not in recap_episode_numbers and (r["source_url"] or "").strip()
+    }
+    nonrecap_titles = {
+        (r["title"] or "").strip().lower()
+        for r in records
+        if r["episode_number"] not in recap_episode_numbers and (r["title"] or "").strip()
+    }
 
     by_season = defaultdict(list)
     for r in records:
@@ -84,12 +147,18 @@ def main():
     pre_drop = set()
     for r in records:
         title = (r["title"] or "").strip()
+        url = (r["source_url"] or "").strip()
         if title in EXCLUDE_TITLES:
             pre_drop.add(r["airtable_record_id"])
             drop_reasons["commentary_or_event"] += 1
         elif title in shorts_titles:
             pre_drop.add(r["airtable_record_id"])
             drop_reasons["shorts_segment"] += 1
+        elif r["episode_number"] in recap_episode_numbers and (
+            (url and url in nonrecap_urls) or (title and title.lower() in nonrecap_titles)
+        ):
+            pre_drop.add(r["airtable_record_id"])
+            drop_reasons["year_review_recap_duplicate"] += 1
 
     consumed = set()
     merged_count = 0
