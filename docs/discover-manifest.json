@@ -1,0 +1,14 @@
+{
+  "name": "Maker Update: Random Pick",
+  "short_name": "MU Random Pick",
+  "description": "One random project or tip from the Maker Update archive, every time you open it.",
+  "start_url": "./discover.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf9f7",
+  "theme_color": "#c1440e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

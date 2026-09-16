@@ -15,5 +15,16 @@ data/pass2_chunk_*.csv
 data/low_confidence_for_pass2.csv
 data/test_batch_pass1.csv
 
+# Airtable data-pull scratch artifacts (field-ID caches, raw pagination
+# dumps, a transform helper) -- specific to how the pull was executed, not
+# needed going forward. airtable_live_snapshot.json is also excluded: it's
+# a diagnostic snapshot of Airtable's current (stale/mis-imported) state,
+# not authoritative data -- the site is built from data/searchable_dataset.json.
+data/airtable_live_snapshot.json
+data/airtable_snapshot.jsonl
+data/base_registry.json
+data/fieldmap_s1.json
+data/transform_append.py
+
 # OS cruft
 .DS_Store
